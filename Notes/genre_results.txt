@@ -1,10 +1,10 @@
-quad results,zscore results
+quad_results,zscore_results
 musical,musical
 music,music
 family,family
 thriller,thriller
 mystery,mystery
-sci fi,sci fi
+sci_fi,sci_fi
 drama,drama
 crime,crime
 adventure,romance

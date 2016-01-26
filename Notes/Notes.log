@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.15 (TeX Live 2014) (preloaded format=pdflatex 2014.5.25)  24 JAN 2016 19:34
+This is pdfTeX, Version 3.14159265-2.6-1.40.15 (TeX Live 2014) (preloaded format=pdflatex 2014.5.25)  26 JAN 2016 01:43
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -161,21 +161,41 @@ Package: float 2001/11/08 v1.3d Float enhancements (AL)
 \float@box=\box28
 \@float@everytoks=\toks18
 \@floatcapt=\box29
-) (./Notes.aux)
+)
+(/usr/local/texlive/2014/texmf-dist/tex/latex/csvsimple/csvsimple.sty
+Package: csvsimple 2013/09/25 version 1.07 LaTeX CSV file processing
+
+(/usr/local/texlive/2014/texmf-dist/tex/latex/pgf/utilities/pgfkeys.sty
+(/usr/local/texlive/2014/texmf-dist/tex/generic/pgf/utilities/pgfkeys.code.tex
+\pgfkeys@pathtoks=\toks19
+\pgfkeys@temptoks=\toks20
+
+(/usr/local/texlive/2014/texmf-dist/tex/generic/pgf/utilities/pgfkeysfiltered.c
+ode.tex
+\pgfkeys@tmptoks=\toks21
+))) (/usr/local/texlive/2014/texmf-dist/tex/latex/base/ifthen.sty
+Package: ifthen 2001/05/26 v1.1c Standard LaTeX ifthen package (DPC)
+)
+\csv@file=\read1
+\c@csvinputline=\count100
+\c@csvrow=\count101
+\c@csvcol=\count102
+)
+(./Notes.aux)
 \openout1 = `Notes.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 8.
-LaTeX Font Info:    ... okay on input line 8.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 8.
-LaTeX Font Info:    ... okay on input line 8.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 8.
-LaTeX Font Info:    ... okay on input line 8.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 8.
-LaTeX Font Info:    ... okay on input line 8.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 8.
-LaTeX Font Info:    ... okay on input line 8.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 8.
-LaTeX Font Info:    ... okay on input line 8.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 9.
+LaTeX Font Info:    ... okay on input line 9.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 9.
+LaTeX Font Info:    ... okay on input line 9.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 9.
+LaTeX Font Info:    ... okay on input line 9.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 9.
+LaTeX Font Info:    ... okay on input line 9.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 9.
+LaTeX Font Info:    ... okay on input line 9.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 9.
+LaTeX Font Info:    ... okay on input line 9.
 
 *geometry* driver: auto-detecting
 *geometry* detected driver: pdftex
@@ -213,19 +233,19 @@ LaTeX Font Info:    ... okay on input line 8.
 
 (/usr/local/texlive/2014/texmf-dist/tex/context/base/supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
-\scratchcounter=\count100
+\scratchcounter=\count103
 \scratchdimen=\dimen117
 \scratchbox=\box30
-\nofMPsegments=\count101
-\nofMParguments=\count102
-\everyMPshowfont=\toks19
-\MPscratchCnt=\count103
+\nofMPsegments=\count104
+\nofMParguments=\count105
+\everyMPshowfont=\toks22
+\MPscratchCnt=\count106
 \MPscratchDim=\dimen118
-\MPnumerator=\count104
-\makeMPintoPDFobject=\count105
-\everyMPtoPDFconversion=\toks20
+\MPnumerator=\count107
+\makeMPintoPDFobject=\count108
+\everyMPtoPDFconversion=\toks23
 )
-\c@lstlisting=\count106
+\c@lstlisting=\count109
  (/usr/local/texlive/2014/texmf-dist/tex/latex/listings/lstlang1.sty
 File: lstlang1.sty 2014/03/04 1.5c listings language file
 )
@@ -238,14 +258,14 @@ Package epstopdf Info: Source file: <pictures/1_24_16/sine_toy.eps>
 (epstopdf)                    size: 20191 bytes
 (epstopdf)             Command: <repstopdf --outfile=pictures/1_24_16/sine_toy-
 eps-converted-to.pdf pictures/1_24_16/sine_toy.eps>
-(epstopdf)             \includegraphics on input line 32.
+(epstopdf)             \includegraphics on input line 33.
 Package epstopdf Info: Output file is already uptodate.
 
 <pictures/1_24_16/sine_toy-eps-converted-to.pdf, id=1, 561.09625pt x 421.575pt>
 File: pictures/1_24_16/sine_toy-eps-converted-to.pdf Graphic file (type pdf)
 <use pictures/1_24_16/sine_toy-eps-converted-to.pdf>
 Package pdftex.def Info: pictures/1_24_16/sine_toy-eps-converted-to.pdf used on
- input line 32.
+ input line 33.
 (pdftex.def)             Requested size: 193.50076pt x 145.3792pt.
 Package epstopdf Info: Source file: <pictures/1_24_16/sine_cpsn_noNoise.eps>
 (epstopdf)                    date: 2016-01-24 17:41:19
@@ -256,7 +276,7 @@ verted-to.pdf>
 (epstopdf)                    size: 5525 bytes
 (epstopdf)             Command: <repstopdf --outfile=pictures/1_24_16/sine_cpsn
 _noNoise-eps-converted-to.pdf pictures/1_24_16/sine_cpsn_noNoise.eps>
-(epstopdf)             \includegraphics on input line 33.
+(epstopdf)             \includegraphics on input line 34.
 Package epstopdf Info: Output file is already uptodate.
 
 <pictures/1_24_16/sine_cpsn_noNoise-eps-converted-to.pdf, id=2, 561.09625pt x 4
@@ -265,7 +285,7 @@ File: pictures/1_24_16/sine_cpsn_noNoise-eps-converted-to.pdf Graphic file (typ
 e pdf)
  <use pictures/1_24_16/sine_cpsn_noNoise-eps-converted-to.pdf>
 Package pdftex.def Info: pictures/1_24_16/sine_cpsn_noNoise-eps-converted-to.pd
-f used on input line 33.
+f used on input line 34.
 (pdftex.def)             Requested size: 193.50076pt x 145.3792pt.
 Package epstopdf Info: Source file: <pictures/1_24_16/sine_cpsn_shift18.eps>
 (epstopdf)                    date: 2016-01-24 18:22:38
@@ -276,7 +296,7 @@ verted-to.pdf>
 (epstopdf)                    size: 5497 bytes
 (epstopdf)             Command: <repstopdf --outfile=pictures/1_24_16/sine_cpsn
 _shift18-eps-converted-to.pdf pictures/1_24_16/sine_cpsn_shift18.eps>
-(epstopdf)             \includegraphics on input line 39.
+(epstopdf)             \includegraphics on input line 40.
 Package epstopdf Info: Output file is already uptodate.
 
 <pictures/1_24_16/sine_cpsn_shift18-eps-converted-to.pdf, id=3, 561.09625pt x 4
@@ -285,7 +305,7 @@ File: pictures/1_24_16/sine_cpsn_shift18-eps-converted-to.pdf Graphic file (typ
 e pdf)
  <use pictures/1_24_16/sine_cpsn_shift18-eps-converted-to.pdf>
 Package pdftex.def Info: pictures/1_24_16/sine_cpsn_shift18-eps-converted-to.pd
-f used on input line 39.
+f used on input line 40.
 (pdftex.def)             Requested size: 193.50076pt x 145.3792pt.
 Package epstopdf Info: Source file: <pictures/1_24_16/phases_shift18.eps>
 (epstopdf)                    date: 2016-01-24 18:51:53
@@ -296,7 +316,7 @@ ted-to.pdf>
 (epstopdf)                    size: 6324 bytes
 (epstopdf)             Command: <repstopdf --outfile=pictures/1_24_16/phases_sh
 ift18-eps-converted-to.pdf pictures/1_24_16/phases_shift18.eps>
-(epstopdf)             \includegraphics on input line 40.
+(epstopdf)             \includegraphics on input line 41.
 Package epstopdf Info: Output file is already uptodate.
 
 <pictures/1_24_16/phases_shift18-eps-converted-to.pdf, id=4, 561.09625pt x 421.
@@ -305,32 +325,127 @@ File: pictures/1_24_16/phases_shift18-eps-converted-to.pdf Graphic file (type p
 df)
  <use pictures/1_24_16/phases_shift18-eps-converted-to.pdf>
 Package pdftex.def Info: pictures/1_24_16/phases_shift18-eps-converted-to.pdf u
-sed on input line 40.
+sed on input line 41.
 (pdftex.def)             Requested size: 193.50076pt x 145.3792pt.
  [1
 
 {/usr/local/texlive/2014/texmf-var/fonts/map/pdftex/updmap/pdftex.map}] [2 <./p
 ictures/1_24_16/sine_toy-eps-converted-to.pdf> <./pictures/1_24_16/sine_cpsn_no
 Noise-eps-converted-to.pdf> <./pictures/1_24_16/sine_cpsn_shift18-eps-converted
--to.pdf> <./pictures/1_24_16/phases_shift18-eps-converted-to.pdf>] [3] (./Notes
-.aux) ) 
+-to.pdf> <./pictures/1_24_16/phases_shift18-eps-converted-to.pdf>]
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <10.95> on input line 61.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <8> on input line 61.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <6> on input line 61.
+
+Overfull \hbox (20.89207pt too wide) in paragraph at lines 61--62
+[][] 
+ []
+
+Package epstopdf Info: Source file: <pictures/movie_data_all_yrs.eps>
+(epstopdf)                    date: 2016-01-26 01:09:06
+(epstopdf)                    size: 15548 bytes
+(epstopdf)             Output file: <pictures/movie_data_all_yrs-eps-converted-
+to.pdf>
+(epstopdf)                    date: 2016-01-26 01:09:14
+(epstopdf)                    size: 10557 bytes
+(epstopdf)             Command: <repstopdf --outfile=pictures/movie_data_all_yr
+s-eps-converted-to.pdf pictures/movie_data_all_yrs.eps>
+(epstopdf)             \includegraphics on input line 65.
+Package epstopdf Info: Output file is already uptodate.
+
+<pictures/movie_data_all_yrs-eps-converted-to.pdf, id=40, 703.62875pt x 421.575
+pt>
+File: pictures/movie_data_all_yrs-eps-converted-to.pdf Graphic file (type pdf)
+ <use pictures/movie_data_all_yrs-eps-converted-to.pdf>
+Package pdftex.def Info: pictures/movie_data_all_yrs-eps-converted-to.pdf used 
+on input line 65.
+(pdftex.def)             Requested size: 279.50037pt x 167.45625pt.
+Package epstopdf Info: Source file: <pictures/movie_data_QC.eps>
+(epstopdf)                    date: 2016-01-26 01:41:48
+(epstopdf)                    size: 13822 bytes
+(epstopdf)             Output file: <pictures/movie_data_QC-eps-converted-to.pd
+f>
+(epstopdf)                    date: 2016-01-26 01:42:27
+(epstopdf)                    size: 11742 bytes
+(epstopdf)             Command: <repstopdf --outfile=pictures/movie_data_QC-eps
+-converted-to.pdf pictures/movie_data_QC.eps>
+(epstopdf)             \includegraphics on input line 71.
+Package epstopdf Info: Output file is already uptodate.
+
+<pictures/movie_data_QC-eps-converted-to.pdf, id=41, 1436.36626pt x 451.6875pt>
+File: pictures/movie_data_QC-eps-converted-to.pdf Graphic file (type pdf)
+<use pictures/movie_data_QC-eps-converted-to.pdf>
+Package pdftex.def Info: pictures/movie_data_QC-eps-converted-to.pdf used on in
+put line 71.
+(pdftex.def)             Requested size: 430.00462pt x 165.24019pt.
+ [3 <./pictures/movie_data_all_yrs-eps-converted-to.pdf>]
+Overfull \hbox (20.89207pt too wide) in paragraph at lines 77--78
+[][] 
+ []
+
+Package epstopdf Info: Source file: <pictures/movie_data_1955-2015.eps>
+(epstopdf)                    date: 2016-01-26 01:21:38
+(epstopdf)                    size: 12993 bytes
+(epstopdf)             Output file: <pictures/movie_data_1955-2015-eps-converte
+d-to.pdf>
+(epstopdf)                    date: 2016-01-26 01:22:56
+(epstopdf)                    size: 9191 bytes
+(epstopdf)             Command: <repstopdf --outfile=pictures/movie_data_1955-2
+015-eps-converted-to.pdf pictures/movie_data_1955-2015.eps>
+(epstopdf)             \includegraphics on input line 81.
+Package epstopdf Info: Output file is already uptodate.
+
+<pictures/movie_data_1955-2015-eps-converted-to.pdf, id=51, 703.62875pt x 421.5
+75pt>
+File: pictures/movie_data_1955-2015-eps-converted-to.pdf Graphic file (type pdf
+)
+ <use pictures/movie_data_1955-2015-eps-converted-to.pdf>
+Package pdftex.def Info: pictures/movie_data_1955-2015-eps-converted-to.pdf use
+d on input line 81.
+(pdftex.def)             Requested size: 258.00539pt x 154.57797pt.
+Package epstopdf Info: Source file: <pictures/movie_data_1955-2015_QC.eps>
+(epstopdf)                    date: 2016-01-26 01:36:18
+(epstopdf)                    size: 13919 bytes
+(epstopdf)             Output file: <pictures/movie_data_1955-2015_QC-eps-conve
+rted-to.pdf>
+(epstopdf)                    date: 2016-01-26 01:37:48
+(epstopdf)                    size: 11903 bytes
+(epstopdf)             Command: <repstopdf --outfile=pictures/movie_data_1955-2
+015_QC-eps-converted-to.pdf pictures/movie_data_1955-2015_QC.eps>
+(epstopdf)             \includegraphics on input line 87.
+Package epstopdf Info: Output file is already uptodate.
+
+<pictures/movie_data_1955-2015_QC-eps-converted-to.pdf, id=52, 1436.36626pt x 4
+51.6875pt>
+File: pictures/movie_data_1955-2015_QC-eps-converted-to.pdf Graphic file (type 
+pdf)
+ <use pictures/movie_data_1955-2015_QC-eps-converted-to.pdf>
+Package pdftex.def Info: pictures/movie_data_1955-2015_QC-eps-converted-to.pdf 
+used on input line 87.
+(pdftex.def)             Requested size: 430.00462pt x 165.24019pt.
+ [4 <./pictures/movie_data_QC-eps-converted-to.pdf> <./pictures/movie_data_1955
+-2015-eps-converted-to.pdf>] [5 <./pictures/movie_data_1955-2015_QC-eps-convert
+ed-to.pdf>] (./Notes.aux) ) 
 Here is how much of TeX's memory you used:
- 3838 strings out of 493117
- 54905 string characters out of 6135433
- 161371 words of memory out of 5000000
- 7281 multiletter control sequences out of 15000+600000
- 5626 words of font info for 21 fonts, out of 8000000 for 9000
+ 4599 strings out of 493117
+ 74103 string characters out of 6135433
+ 178672 words of memory out of 5000000
+ 8008 multiletter control sequences out of 15000+600000
+ 8065 words of font info for 29 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 42i,6n,40p,552b,1490s stack positions out of 5000i,500n,10000p,200000b,80000s
-</usr/local/texlive/2014/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx1
-0.pfb></usr/local/texlive/2014/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12
-.pfb></usr/local/texlive/2014/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.p
-fb></usr/local/texlive/2014/texmf-dist/fonts/type1/public/amsfonts/cm/cmtt10.pf
-b>
-Output written on Notes.pdf (3 pages, 86735 bytes).
+ 42i,10n,40p,552b,1490s stack positions out of 5000i,500n,10000p,200000b,80000s
+</usr/local/texlive/2014/texmf-dist/fonts/type1/publ
+ic/amsfonts/cm/cmbx10.pfb></usr/local/texlive/2014/texmf-dist/fonts/type1/publi
+c/amsfonts/cm/cmbx12.pfb></usr/local/texlive/2014/texmf-dist/fonts/type1/public
+/amsfonts/cm/cmr10.pfb></usr/local/texlive/2014/texmf-dist/fonts/type1/public/a
+msfonts/cm/cmtt10.pfb>
+Output written on Notes.pdf (5 pages, 122152 bytes).
 PDF statistics:
- 57 PDF objects out of 1000 (max. 8388607)
- 39 compressed objects within 1 object stream
+ 95 PDF objects out of 1000 (max. 8388607)
+ 65 compressed objects within 1 object stream
  0 named destinations out of 1000 (max. 500000)
- 21 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 53 words of extra memory for PDF output out of 10000 (max. 10000000)
 

@@ -14,4 +14,5 @@ data = inpaint_inf(log(data));
 col_mask = ~isnan(sum(data));
 data = data(:,col_mask); yrs = yrs(col_mask);
 
-save('processed_movie_data','data','genres','yrs')
+save('processed_movie_data','data')
+save('headers', 'genres', 'yrs')

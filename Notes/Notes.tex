@@ -4,6 +4,7 @@
 \usepackage{epstopdf}
 \usepackage{listings}
 \usepackage{float}
+\usepackage{csvsimple}
 
 \begin{document}
 \section{1/24/16}
@@ -50,5 +51,42 @@ function [dist] = cyclic_distance(V1, V2)
 [~, ss] = sort([V1(:), V2(:)]);
 dist = sum(abs(diff(ss,1,2)))/2;
 \end{lstlisting}
+
+\subsection{Movies}
+\subsubsection{Data Treatment}
+In the original data set, there are gaps in the data for some genres and not all genres began at the same time so some initial data treatment was required. First, years in which there were gaps in the data were inpainted using linear interpolation. Next, the genre counts were taken on a log scale to account for the fact that movie production has grown exponentially. Finally, only years in which genres had data points were considered (1916-2015). The film-noir genre had to be excluded since the production years were so limited.
+The following table shows the results of \verb|analyze_cyclicity| on the movie data (processed as described above). 
+\begin{figure}[H]
+\begin{minipage}{.3\textwidth}
+\csvautotabular{tables/genre_results.txt}
+\end{minipage}
+\hfill
+\begin{minipage}{.65\textwidth}
+\includegraphics[width=\textwidth]{pictures/movie_data_all_yrs.eps}
+\caption{Traces from the first eight genres.}
+\end{minipage}
+\end{figure}
+\begin{figure}[H]
+\centering
+\includegraphics[trim= 130 0 130 0, clip, width=\textwidth]{pictures/movie_data_QC.eps}
+\caption{Cyclicity results using quadratic variation normalization}
+\end{figure}
+Note that the Musicals and Music genres look very similar to each other, but dissimilar to everything else and show a drastic jump around 1925. Since this is such a long time ago, it seemed worth considering more recent trends in the data.
+\begin{figure}[H]
+\begin{minipage}{.3\textwidth}
+\csvautotabular{../Movies/Recent_data/Results/genre_results_table.txt}
+\end{minipage}
+\hfill
+\begin{minipage}{.6\textwidth}
+\includegraphics[width=\textwidth]{pictures/movie_data_1955-2015.eps}
+\caption{Traces from the first eight genres using only years 1955-2015 in the cyclicity calculation.}
+\end{minipage}
+\end{figure}
+\begin{figure}[H]
+\centering
+\includegraphics[trim= 130 0 130 0, clip, width=\textwidth]{pictures/movie_data_1955-2015_QC.eps}
+\caption{Cyclicity results from 1955-2015 movie data using quadratic variation normalization}
+\end{figure}
+
 
 \end{document}

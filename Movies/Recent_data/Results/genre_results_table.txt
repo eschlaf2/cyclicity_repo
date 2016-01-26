@@ -1,4 +1,4 @@
-quad_results,zscore_results
+quad results,zscore results
 romance,romance
 family,family
 adventure,adventure
@@ -19,4 +19,4 @@ war,horror
 action,war
 fantasy,action
 animation,fantasy
-sci_fi,sci_fi
+sci-fi,sci-fi
