@@ -1,0 +1,4 @@
+#!/bin/bash
+DYLD_FALLBACK_LIBRARY_PATH={$DYLD_FALLBACK_LIBRARY_PATH}:/Users/emilyschlafly/anaconda/lib
+PYTHONPATH={$PYTHONPATH}:/Library/Python/2.7/site-packages
+export PYTHONPATH DYLD_FALLBACK_LIBRARY_PATH
