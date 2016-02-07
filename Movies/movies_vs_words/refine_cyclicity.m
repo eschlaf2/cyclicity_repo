@@ -1,33 +1,33 @@
-function [] = refine_cyclicity(data_file, n, p)
+function [] = refine_cyclicity(data_file, n, save_figs_bool)
 % Analyzes cyclicity for data_file in current directory 
 % and then reanalyzes using only traces corresponding to n
 % highest phases (in absolute value).
 
+if ~exist('n','var')
+    n=10;
+    save_figs_bool=false;
+elseif ~exist('save_figs_bool','var')
+    save_figs_bool = false;
+end
+
 % Save figures settings
-SAVE_PICS = true;
-root_save_plots = '/Users/emilyschlafly/Work/cyclicity_repo/Notes/pictures/';
-s = HWSetup(min(7, n));
+SAVE_PICS = save_figs_bool;
 
 if SAVE_PICS
     close all;
 end
 
-if ~exist('n','var')
-    n=10;
-    p=1;
-elseif ~exist('p','var')
-    p = 1;
-end
+s = HWSetup(min(7, n));
+root_save_plots = '/Users/emilyschlafly/Work/cyclicity_repo/Notes/pictures/';
 
-load('header_data')
+header_file = dir('header_data*');
+load(header_file.name);
 
 data = importdata(data_file);
 group = '1';
+p = 1;
 [phase_sort, ~] = run_analysis(data, n, p, group);
-% result = header_data.categories(perm);
-% display(result)
-fileid = [root_save_plots, '_p',num2str(p),...
-    '_n',num2str(n),'_gp', group];
+fileid = set_fileid(root_save_plots, data_file, p, n, group);
 save_fig(gcf, fileid, s, SAVE_PICS);
 
 % group 2
@@ -35,23 +35,27 @@ group = '2';
 in_perm = phase_sort(n+1:end);
 run_analysis(data(phase_sort(n+1:end),:), n, p, ...
     group, in_perm);
-fileid = [root_save_plots, '_p',num2str(p),...
-    '_n',num2str(n),'_gp', group];
+fileid = set_fileid(root_save_plots, data_file, p, n, group);
 save_fig(gcf, fileid, s, SAVE_PICS);
-% result = header_data.categories(in_perm(perm));
-% display(result)
 
 % group 3
 % Use second eigenvector to determine top traces
 group = '1';
-p=2;
+p=3;
 run_analysis(data, n, p, group); 
-fileid = [root_save_plots, '_p',num2str(p),...
-    '_n',num2str(n),'_gp', group];
+fileid = set_fileid(root_save_plots, data_file, p, n, group);
 save_fig(gcf, fileid, s, SAVE_PICS);
-% result = header_data.categories(perm);
-% display(result)            
 
+end
+
+function [fileid] = set_fileid(root, data_file, p, n, group)
+% Returns a string to be used for fileid when saving. Takes as input root
+% (the root directory where the file should be saved), data_file (the name
+% of the file where the data is stored), n (the number of categories),
+% group (the subset of n categories).
+
+fileid = [root, data_file(1:end-4), '_p',num2str(p),...
+    '_n',num2str(n),'_gp', group];
 end
 
 function [phase_sort, out_perm] = run_analysis(data, n, p, group, in_perm)
@@ -65,7 +69,9 @@ function [phase_sort, out_perm] = run_analysis(data, n, p, group, in_perm)
 %         (default = []);
 %     in_perm = permutation of original data set
 %         (default = (1:size(data,1)))
-load header_data;
+
+header_file = dir('header_data*');
+load(header_file.name);
 if ~exist('in_perm', 'var')
     in_perm = (1:size(data,1))';
 end
@@ -97,6 +103,9 @@ if ischar(file_name)
     load(file_name);
 end
 
+header_file = dir('header_data*');
+load(header_file.name);
+
 if ~exist('region_numbers', 'var')
     region_numbers = {(1:length(perms))'};
     group = 'quad';
@@ -119,7 +128,8 @@ for set_start = (1:INTERVAL_SIZE:length(perms))
         
         h(i) = figure;
         subplot(1,NO_SUBPLOTS,1);
-        plot(repmat((1916:2015),size(data_lines,1),1)',data_lines');
+        plot(repmat((header_data.years(1):header_data.years(end)), ...
+            size(data_lines,1),1)',data_lines');
         set(gca,'ytick',[]);
         leg1 = legend(categories(region_numbers(phase_sort(perms{index}))), ...
             'interpreter','none');

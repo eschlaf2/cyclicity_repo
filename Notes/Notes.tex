@@ -163,4 +163,37 @@ In each figure, the first subplot on the left shows the original traces (log sca
 \item I would like to cut off the first 40 years as before and see what those trends look like.
 \end{itemize}
 
+\section{2/6/16}
+\subsection{Recent movie data (1955-2015)}
+As before, I reduced the movie data to only more recent trends. I learned today that "talkies" started in the 1920's with the first feature length film with synchronized dialogue was released in 1927. This probably explains the leap in production of music and musical films in the late 1920's. It is interesting, however, that in analyzing only more recent trends, 
+\begin{itemize}
+\item Clusters become quite obvious by looking at the lead matrix;
+\item First eigenvalue, group 1 analysis does not wrap around the full cycle anymore;
+\item Second eigenvalue ordering has lower e1:e2 ratio with a fuzzier lead matrix and now wraps around a full cycle.
+\end{itemize}
+
+Observe the following results on only the recent data.
+
+\begin{figure}[H]
+\includegraphics[trim = 0 0 130 0, clip, width=\textwidth]{pictures/movie_word_data_1955-2015_p1_n12_gp1.eps}
+\includegraphics[trim = 0 0 130 0, clip, width=\textwidth]{pictures/movie_word_data_1955-2015_p1_n12_gp2.eps}
+\includegraphics[trim = 0 0 130 0, clip, width=\textwidth]{pictures/movie_word_data_1955-2015_p2_n12_gp1.eps}
+\caption{Results with n=12.}
+\end{figure}
+
+\begin{figure}[H]
+\includegraphics[trim = 0 0 130 0, clip, width=\textwidth]{pictures/movie_word_data_1955-2015_p1_n8_gp1.eps}
+\includegraphics[trim = 0 0 130 0, clip, width=\textwidth]{pictures/movie_word_data_1955-2015_p1_n8_gp2.eps}
+\includegraphics[trim = 0 0 130 0, clip, width=\textwidth]{pictures/movie_word_data_1955-2015_p2_n8_gp1.eps}
+\caption{Results with n=12.}
+\end{figure}
+
+\begin{figure}[H]
+\includegraphics[trim = 0 0 130 0, clip, width=\textwidth]{pictures/movie_word_data_1955-2015_p1_n5_gp1.eps}
+\includegraphics[trim = 0 0 130 0, clip, width=\textwidth]{pictures/movie_word_data_1955-2015_p1_n5_gp2.eps}
+\includegraphics[trim = 0 0 130 0, clip, width=\textwidth]{pictures/movie_word_data_1955-2015_p2_n5_gp1.eps}
+\caption{Results with n=12.}
+\end{figure}
+
+
 \end{document}
