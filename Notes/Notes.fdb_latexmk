@@ -1,5 +1,5 @@
 # Fdb version 3
-["pdflatex"] 1454802980 "Notes.tex" "Notes.pdf" "Notes" 1454802981
+["pdflatex"] 1455132042 "Notes.tex" "Notes.pdf" "Notes" 1455132043
   "../Movies/Recent_data/Results/genre_results_table.txt" 1453793486 352 74f24ad13486b249c0bc17edb2fac236 ""
   "/usr/local/texlive/2014/texmf-dist/fonts/map/fontname/texfonts.map" 1272929888 3287 e6b82fe08f5336d4d5ebc73fb1152e87 ""
   "/usr/local/texlive/2014/texmf-dist/fonts/tfm/public/cm/cmbx10.tfm" 1136768653 1328 c834bbb027764024c09d3d2bf908b5f0 ""
@@ -63,8 +63,8 @@
   "/usr/local/texlive/2014/texmf-var/fonts/map/pdftex/updmap/pdftex.map" 1401025944 1445653 26a0aacf3d70032b1ec192e8c7792117 ""
   "/usr/local/texlive/2014/texmf-var/web2c/pdftex/pdflatex.fmt" 1401025990 3832012 904d82bdcc8abf2b1cd296990b82553b ""
   "/usr/local/texlive/2014/texmf.cnf" 1401025936 577 a59edbde8d3a8c549d0eeaab1739e2ff ""
-  "Notes.aux" 1454802981 3231 1d95e0e7d1742b15b21c6e16f1b98e46 ""
-  "Notes.tex" 1454802969 11900 e007ba985e6d5ab5ea9abfbea856e042 ""
+  "Notes.aux" 1455132043 3231 1d95e0e7d1742b15b21c6e16f1b98e46 ""
+  "Notes.tex" 1455132042 12080 80d56fb4ef6f0a76950b711223872b08 ""
   "pictures/1_24_16/phases_shift18-eps-converted-to.pdf" 1453683789 6324 dbc14ef7afe82f38ad44560eb7664686 ""
   "pictures/1_24_16/phases_shift18.eps" 1453683113 12363 ef23eb31cb649e2300a738c46e63b130 ""
   "pictures/1_24_16/sine_cpsn_noNoise-eps-converted-to.pdf" 1453678937 5525 8c427c19490d236082f916d7517d9164 ""
@@ -124,6 +124,6 @@
   "tables/movie_word_perm_results_p2.txt" 1454478719 91 3769c7a255d98e6dee4004ebf1a01cdf ""
   "tables/movie_word_perm_results_p3.txt" 1454478755 92 9cbdc60621c658429bf4e3fbd379b180 ""
   (generated)
-  "Notes.aux"
   "Notes.pdf"
   "Notes.log"
+  "Notes.aux"
