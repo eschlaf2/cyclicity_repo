@@ -1,5 +1,5 @@
 \documentclass[11pt]{article}
-\usepackage{geometry}
+\usepackage[textheight=9in]{geometry}
 \usepackage{graphicx}
 \usepackage{epstopdf}
 \usepackage{listings}
@@ -195,6 +195,356 @@ Observe the following results on only the recent data.
 \caption{Results with n=12.}
 \end{figure}
 
+\section{2/16/16}
+\begin{figure}
+\label{fig:top12hist}
+\includegraphics[trim = 50 0 50 0, clip, width = \textwidth]{pictures/refine_cyclicity_output_n12.eps}
+\caption{Histogram of top 12 regions (highest phase magnitude) for 200 HCP subjects. Group 1 shows the results for the top 12 regions using the first eigenvector; Group 2 shows the results for the top 12 regions using first eigenvector from the subset of all regions minus those in Group 1; Group 3 shows the results for the top 12 regions using the second eigenvector.}
+\end{figure}
+This week we analyzed the data from the 200 HCP subjects and compared the top $n$ regions in each subject ($n \in \{5,8,12\}$). We then summarized the results by histogramming the number of appearances of each roi for all 200 of the subjects. The results for $n=12$ are shown in ~\ref{fig:top12hist}. These results were then used to generate the following groups of 10 ``champions.''
 
+\begin{minipage}{.5\textwidth}
+\begin{tabular}{ll}
+\multicolumn{2}{c}{Group 1}\\
+\hline
+30 & l cuneus\\
+29 & l primary visual cortex\\
+8 & l primary auditory cortex\\
+5 & precuneus*\\
+28 & r primary visual cortex\\
+31 & r cuneus\\
+13 & l ventral intraparietal sulcus**\\
+15 & l posterior intraparietal sulc**\\
+12 & r ventral intraparietal sulcus**\\
+14 & r posterior intraparietal sulc**\\
+\end{tabular}
+\end{minipage}
+\begin{minipage}{.5\textwidth}
+\begin{tabular}{ll}
+\multicolumn{2}{c}{Group 3}\\
+\hline
+15 & l posterior intraparietal sulc**\\
+19 & l superior temporal junction*\\
+22 & r mid frontal gyrus*\\
+12 & r ventral intraparietal sulcus**\\
+18 & r superior temporal junction*\\
+4 & posterior cingulate cortex*\\
+20 & r superior temporal sulcus*\\
+17 & r inferior partietal lobe**\\
+13 & l ventral intraparietal sulcus**\\
+5 & precuneus*\\
+\end{tabular}
+\end{minipage}
+\vspace{10pt}
+
+Definitely need to do more reading or talk to Fatima and Sara about how these regions are related. Wikipedia gives the following functions (for the less obvious regions):
+\begin{itemize}
+\item Ventral intraparietal sulcus (VIPS): visual attention and saccadic eye movement
+\item Posterior (caudal) IPS: perception of depth from stereopsis
+\item Cuneus: involved in basic visual processing
+\item Precuneus: involved in loads of stuff including default network and visuospatial processing
+\item Superior temporal junction (temporoparietal junction): information processing and perception (right and left do not do exactly the same thing - right is more associated with attention and left with language processing)
+\item Middle frontal gyrus: part of prefrontal cortex - executive function including attention and working memory
+\item Posterior cingulate: central node in DMN
+\item Superior temporal sulcus: social perception - responds more to human stimuli rather than environmental/other object
+\item Inferior parietal lobe: perception of emotion and faces, interpretation of sensory input
+\end{itemize}
+
+\begin{wrapfigure}{r}{.5\textwidth}
+\includegraphics[width=.5\textwidth]{pictures/Gray726_angular_gyrus.png}
+\caption{Angular gyrus}
+\end{wrapfigure}
+
+Regions marked with `*' are those which are indicated in the DMN. Those marked with `**' surround the angular gyrus, which is also included in the DMN, but is not one of the regions on our list. The acutal DMN regions listed in Wikipedia include
+\begin{itemize}
+\item PCC \& Precuneus
+\item mPFC
+\item Angular gyrus
+\item TPJ (Dorsomedial subsystem)
+\item Lateral temporal cortex (Dorsomedial subsystem)
+\end{itemize}
+It might be worth looking at the functional regions from Stanford's lab to see if we can reproduce their network associations using the regions they provide.
+
+One interesting observation is the total dominance of the left primary auditory cortex (region 8) in Group 1 compared to the right primary auditory cortex (region 9) which hardly shows up at all. Many other symmetric regions seem to show up in pairs so this contrast is striking.
+
+\subsection{Triples}
+\subsubsection{Group 1}
+Regions here are numbered as follows:
+
+\vskip 10pt
+\begin{center}
+\begin{tabular}{ll}
+1 & l cuneus \\
+2 & l primary visual cortex \\
+3 & l primary auditory cortex \\
+4 & precuneus \\
+5 & r primary visual cortex \\
+6 & r cuneus \\
+7 & l ventral intraparietal sulcus \\
+8 & l posterior intraparietal sulc \\
+9 & r ventral intraparietal sulcus \\
+10 & r posterior intraparietal sulc \\
+\end{tabular}
+\end{center}
+\vskip 10pt
+
+Analyzing the triples for Group 1 (without correcting for cyclicity) yields the following cycles which are present in at least a third of the subjects (if the cycles are random we might expect any given cycle to be present in 1/6 of the subjects):
+
+\begin{minipage}{.3\textwidth}
+\begin{tabular}{ll}
+(3,2,1) & 84 \\
+(3,4,1) & 70 \\
+(3,5,1) & 99 \\
+(3,6,1) & 96 \\
+(3,7,1) & 87 \\
+(9,7,1) & 67 \\
+(3,8,1) & 85 \\
+(3,9,1) & 94 \\
+(3,10,1) & 89 \\
+(3,5,2) & 83 \\
+(3,6,2) & 87 \\
+(3,8,2) & 68 \\
+(3,9,2) & 79 \\
+(3,10,2) & 78 \\
+(3,1,4) & 72 \\
+(3,2,4) & 98 \\
+(3,5,4) & 105 \\
+\end{tabular}
+\end{minipage}
+\begin{minipage}{.3\textwidth}
+\begin{tabular}{ll}
+(3,6,4) & 109 \\
+(9,6,4) & 71 \\
+(3,7,4) & 75 \\
+(3,8,4) & 109 \\
+(6,8,4) & 73 \\
+(9,8,4) & 76 \\
+(3,9,4) & 105 \\
+(3,10,4) & 110 \\
+(9,10,4) & 68 \\
+(3,2,5) & 75 \\
+(3,6,5) & 86 \\
+(3,8,5) & 79 \\
+(3,9,5) & 88 \\
+(3,10,5) & 86 \\
+(3,9,6) & 73 \\
+(3,10,6) & 67 \\
+\end{tabular}
+\end{minipage}
+\begin{minipage}{.3\textwidth}
+\begin{tabular}{ll}
+(3,2,7) & 90 \\
+(3,4,7) & 80 \\
+(3,5,7) & 100 \\
+(3,6,7) & 105 \\
+(3,8,7) & 91 \\
+(3,9,7) & 116 \\
+(3,10,7) & 96 \\
+(3,2,8) & 71 \\
+(3,5,8) & 72 \\
+(3,6,8) & 78 \\
+(3,9,8) & 81 \\
+(3,10,8) & 72 \\
+(3,5,10) & 71 \\
+(3,6,10) & 76 \\
+(3,8,10) & 72 \\
+(3,9,10) & 82 \\
+\end{tabular}
+\end{minipage}
+\vskip 10pt
+
+Worth noting from this is the fact that region 3 (lPAC) nearly always shows up first. After that, however, the order of the subsequent regions seems to be nearly split. By taking cyclicity into account (reordering cycles so that the lowest index always appears first) we can filter out these cycles and we get the following results that are present in at least 60\% of subjects (again, thinking that if cycles are random then any given cycle should show up in 50\% of subjects):
+
+\vskip 10pt
+\begin{center}
+\begin{minipage}{.3\textwidth}
+\begin{tabular}{ll}
+(3,5,4) & 127 \\
+(3,6,4) & 130 \\
+(3,8,4) & 127 \\
+(3,9,4) & 123 \\
+(3,10,4) & 127 \\
+\end{tabular}
+\end{minipage}
+\begin{minipage}{.3\textwidth}
+\begin{tabular}{ll}
+(1,3,5) & 133 \\
+(1,3,6) & 129 \\
+(1,3,7) & 120 \\
+(3,5,7) & 122 \\
+(3,6,7) & 125 \\
+\end{tabular}
+\end{minipage}
+\begin{minipage}{.3\textwidth}
+\begin{tabular}{ll}
+(1,9,7) & 133 \\
+(3,9,7) & 137 \\
+(1,3,9) & 124 \\
+(1,3,10) & 123 \\
+\end{tabular}
+\end{minipage}
+\end{center}
+\vskip 10pt
+
+Again, the lPAC shows up in every cycle except for one. Is this an outlier or are the fMRI sounds triggering this whole cycle?
+
+\subsubsection{Group 3}
+Regions in this group are numbered as follows: 
+
+\vskip 10pt
+\begin{center}
+\begin{tabular}{ll}
+1 & l posterior intraparietal sulc \\
+2 & l superior temporal junction \\
+3 & r mid frontal gyrus \\
+4 & r ventral intraparietal sulcus \\
+5 & r superior temporal junction \\
+6 & posterior cingulate cortex \\
+7 & r superior temporal sulcus \\
+8 & r inferior partietal lobe \\
+9 & l ventral intraparietal sulcus \\
+10 & precuneus \\
+\end{tabular}
+\end{center}
+\vskip 10pt
+
+First, without normalizing for cyclicity:
+
+\vskip 10pt
+\begin{minipage}{.25\textwidth}
+\begin{tabular}{ll}
+(3,2,1) & 69 \\
+(3,5,1) & 72 \\
+(3,7,1) & 73 \\
+(3,8,1) & 67 \\
+(5,8,1) & 69 \\
+(3,1,4) & 75 \\
+(5,1,4) & 69 \\
+(3,2,4) & 70 \\
+(5,2,4) & 67 \\
+(3,5,4) & 68 \\
+(3,7,4) & 69 \\
+(3,2,8) & 70 \\
+(3,5,8) & 75 \\
+(2,1,9) & 78 \\
+(3,1,9) & 102 \\
+(5,1,9) & 93 \\
+(6,1,9) & 78 \\
+(7,1,9) & 90 \\
+\end{tabular}
+\end{minipage}
+\begin{minipage}{.25\textwidth}
+\begin{tabular}{ll}
+(8,1,9) & 72 \\
+(3,2,9) & 91 \\
+(5,2,9) & 85 \\
+(6,2,9) & 75 \\
+(7,2,9) & 70 \\
+(2,4,9) & 78 \\
+(3,4,9) & 94 \\
+(5,4,9) & 89 \\
+(6,4,9) & 81 \\
+(7,4,9) & 92 \\
+(8,4,9) & 70 \\
+(3,5,9) & 86 \\
+(3,6,9) & 81 \\
+(3,7,9) & 81 \\
+(5,7,9) & 74 \\
+(2,8,9) & 68 \\
+(3,8,9) & 86 \\
+(5,8,9) & 90 \\
+\end{tabular}
+\end{minipage}
+\begin{minipage}{.25\textwidth}
+\begin{tabular}{ll}
+(7,8,9) & 75 \\
+(2,10,9) & 79 \\
+(3,10,9) & 82 \\
+(5,10,9) & 88 \\
+(6,10,9) & 81 \\
+(7,10,9) & 85 \\
+(8,10,9) & 81 \\
+(2,1,10) & 80 \\
+(3,1,10) & 109 \\
+(4,1,10) & 67 \\
+(5,1,10) & 92 \\
+(6,1,10) & 76 \\
+(7,1,10) & 94 \\
+(3,2,10) & 104 \\
+(5,2,10) & 89 \\
+(6,2,10) & 80 \\
+(7,2,10) & 84 \\
+\end{tabular}
+\end{minipage}
+\begin{minipage}{.25\textwidth}
+\begin{tabular}{ll}
+(3,4,10) & 81 \\
+(5,4,10) & 73 \\
+(7,4,10) & 74 \\
+(3,5,10) & 101 \\
+(6,5,10) & 73 \\
+(7,5,10) & 78 \\
+(2,6,10) & 68 \\
+(3,6,10) & 100 \\
+(5,6,10) & 78 \\
+(7,6,10) & 83 \\
+(8,6,10) & 69 \\
+(3,7,10) & 94 \\
+(5,7,10) & 80 \\
+(2,8,10) & 93 \\
+(3,8,10) & 112 \\
+(5,8,10) & 109 \\
+(6,8,10) & 75 \\
+(7,8,10) & 98 \\
+\end{tabular}
+\end{minipage}
+\vskip 10pt
+
+The most notable feature in this case is that regions 9 and 10 (lVIPS, precuneus) show up last in most of the cycles.
+
+Taking cyclicity into account:
+
+\vskip 10pt
+\begin{center}
+\begin{minipage}{.25\textwidth}
+\begin{tabular}{ll}
+(1,4,3) & 120 \\
+(1,9,3) & 130 \\
+(1,10,3) & 131 \\
+(2,10,3) & 130 \\
+(1,9,5) & 123 \\
+(4,9,5) & 125 \\
+(2,8,6) & 127 \\
+(5,8,6) & 126 \\
+(1,9,6) & 122 \\
+\end{tabular}
+\end{minipage}
+\begin{minipage}{.25\textwidth}
+\begin{tabular}{ll}
+(4,9,6) & 129 \\
+(1,9,7) & 121 \\
+(4,9,7) & 125 \\
+(4,9,8) & 120 \\
+(3,4,9) & 122 \\
+(2,10,9) & 122 \\
+(5,10,9) & 123 \\
+(6,10,9) & 129 \\
+(7,10,9) & 120 \\
+\end{tabular}
+\end{minipage}
+\begin{minipage}{.25\textwidth}
+\begin{tabular}{ll}
+(8,10,9) & 134 \\
+(3,5,10) & 125 \\
+(3,6,10) & 123 \\
+(2,8,10) & 120 \\
+(3,8,10) & 135 \\
+(4,8,10) & 124 \\
+(5,8,10) & 126 \\
+(7,8,10) & 120 \\
+\end{tabular}
+\end{minipage}
+\end{center}
+\vskip 10pt
 
 \end{document}

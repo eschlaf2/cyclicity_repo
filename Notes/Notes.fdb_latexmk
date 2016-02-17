@@ -1,5 +1,5 @@
 # Fdb version 3
-["pdflatex"] 1455132042 "Notes.tex" "Notes.pdf" "Notes" 1455132043
+["pdflatex"] 1455689088 "Notes.tex" "Notes.pdf" "Notes" 1455689090
   "../Movies/Recent_data/Results/genre_results_table.txt" 1453793486 352 74f24ad13486b249c0bc17edb2fac236 ""
   "/usr/local/texlive/2014/texmf-dist/fonts/map/fontname/texfonts.map" 1272929888 3287 e6b82fe08f5336d4d5ebc73fb1152e87 ""
   "/usr/local/texlive/2014/texmf-dist/fonts/tfm/public/cm/cmbx10.tfm" 1136768653 1328 c834bbb027764024c09d3d2bf908b5f0 ""
@@ -63,8 +63,8 @@
   "/usr/local/texlive/2014/texmf-var/fonts/map/pdftex/updmap/pdftex.map" 1401025944 1445653 26a0aacf3d70032b1ec192e8c7792117 ""
   "/usr/local/texlive/2014/texmf-var/web2c/pdftex/pdflatex.fmt" 1401025990 3832012 904d82bdcc8abf2b1cd296990b82553b ""
   "/usr/local/texlive/2014/texmf.cnf" 1401025936 577 a59edbde8d3a8c549d0eeaab1739e2ff ""
-  "Notes.aux" 1455132043 3231 1d95e0e7d1742b15b21c6e16f1b98e46 ""
-  "Notes.tex" 1455132042 12080 80d56fb4ef6f0a76950b711223872b08 ""
+  "Notes.aux" 1455689090 4098 607510bf687d537c262a9425548fb97d ""
+  "Notes.tex" 1455689087 21909 5119e2b966c2363b2f77c9ca0e8c8c26 ""
   "pictures/1_24_16/phases_shift18-eps-converted-to.pdf" 1453683789 6324 dbc14ef7afe82f38ad44560eb7664686 ""
   "pictures/1_24_16/phases_shift18.eps" 1453683113 12363 ef23eb31cb649e2300a738c46e63b130 ""
   "pictures/1_24_16/sine_cpsn_noNoise-eps-converted-to.pdf" 1453678937 5525 8c427c19490d236082f916d7517d9164 ""
@@ -73,6 +73,7 @@
   "pictures/1_24_16/sine_cpsn_shift18.eps" 1453681358 9079 8379e48b3e180d67e4d6f483ceb1ea0e ""
   "pictures/1_24_16/sine_toy-eps-converted-to.pdf" 1453678585 20191 382f0305dd5899416f3aa626c878c632 ""
   "pictures/1_24_16/sine_toy.eps" 1453678391 34343 34a18fafcda647a76422f2375fd51127 ""
+  "pictures/Gray726_angular_gyrus.png" 1455683828 182119 bd507bd795b470026dd1b84bc0a829a0 ""
   "pictures/_p1_n12_gp1-eps-converted-to.pdf" 1454625811 19044 efe7e3aa30f104d97ea5eaf15b01bbe6 ""
   "pictures/_p1_n12_gp1.eps" 1454625801 25337 e2e4d62a2c5a5e1a2de7bfa47a7039ad ""
   "pictures/_p1_n12_gp2-eps-converted-to.pdf" 1454625812 18063 04c944e16fee12faf7b0d107221b29b4 ""
@@ -119,6 +120,8 @@
   "pictures/movie_word_data_1955-2015_p2_n5_gp1.eps" 1454801741 17572 3e8f7d9af7d0d14e1bd01f3b1bc41b8e ""
   "pictures/movie_word_data_1955-2015_p2_n8_gp1-eps-converted-to.pdf" 1454802976 15222 708220a454ac5b4f99a48e7177ad5cdf ""
   "pictures/movie_word_data_1955-2015_p2_n8_gp1.eps" 1454801753 19766 2f22cd082e32b24ea2f23ac115c06abb ""
+  "pictures/refine_cyclicity_output_n12-eps-converted-to.pdf" 1455680132 8745 a16128494792438469afd9d235c78b69 ""
+  "pictures/refine_cyclicity_output_n12.eps" 1455679259 20095 fffa029b6d5a279eac40d426b0a4a75f ""
   "tables/genre_results.txt" 1453789396 352 c624655aeb1a31cac6f2ac1663b4ad34 ""
   "tables/movie_word_perm_results_p1.txt" 1454478724 89 3c43a40145308432dfb28f152c6e36be ""
   "tables/movie_word_perm_results_p2.txt" 1454478719 91 3769c7a255d98e6dee4004ebf1a01cdf ""

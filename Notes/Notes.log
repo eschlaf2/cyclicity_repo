@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.15 (TeX Live 2014) (preloaded format=pdflatex 2014.5.25)  10 FEB 2016 13:20
+This is pdfTeX, Version 3.14159265-2.6-1.40.15 (TeX Live 2014) (preloaded format=pdflatex 2014.5.25)  17 FEB 2016 00:04
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -231,14 +231,14 @@ LaTeX Font Info:    ... okay on input line 11.
 * layoutoffset:(h,v)=(0.0pt,0.0pt)
 * modes: 
 * h-part:(L,W,R)=(92.14519pt, 430.00462pt, 92.14519pt)
-* v-part:(T,H,B)=(95.39737pt, 556.47656pt, 143.09605pt)
+* v-part:(T,H,B)=(57.81598pt, 650.43pt, 86.72401pt)
 * \paperwidth=614.295pt
 * \paperheight=794.96999pt
 * \textwidth=430.00462pt
-* \textheight=556.47656pt
+* \textheight=650.43pt
 * \oddsidemargin=19.8752pt
 * \evensidemargin=19.8752pt
-* \topmargin=-13.87262pt
+* \topmargin=-51.45401pt
 * \headheight=12.0pt
 * \headsep=25.0pt
 * \topskip=11.0pt
@@ -352,12 +352,10 @@ df)
 Package pdftex.def Info: pictures/1_24_16/phases_shift18-eps-converted-to.pdf u
 sed on input line 43.
 (pdftex.def)             Requested size: 193.50076pt x 145.3792pt.
- [1
+ [1{/usr/local/texlive/2014/texmf-var/fonts/map/pdftex/updmap/pdftex.map}
 
-{/usr/local/texlive/2014/texmf-var/fonts/map/pdftex/updmap/pdftex.map}] [2 <./p
-ictures/1_24_16/sine_toy-eps-converted-to.pdf> <./pictures/1_24_16/sine_cpsn_no
-Noise-eps-converted-to.pdf> <./pictures/1_24_16/sine_cpsn_shift18-eps-converted
--to.pdf> <./pictures/1_24_16/phases_shift18-eps-converted-to.pdf>]
+ <./pictures/1_24_16/sine_toy-eps-converted-to.pdf> <./pictures/1_24_16/sine_cp
+sn_noNoise-eps-converted-to.pdf>]
 LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <10.95> on input line 63.
 LaTeX Font Info:    External font `cmex10' loaded for size
@@ -381,7 +379,7 @@ s-eps-converted-to.pdf pictures/movie_data_all_yrs.eps>
 (epstopdf)             \includegraphics on input line 67.
 Package epstopdf Info: Output file is already uptodate.
 
-<pictures/movie_data_all_yrs-eps-converted-to.pdf, id=40, 703.62875pt x 421.575
+<pictures/movie_data_all_yrs-eps-converted-to.pdf, id=26, 703.62875pt x 421.575
 pt>
 File: pictures/movie_data_all_yrs-eps-converted-to.pdf Graphic file (type pdf)
  <use pictures/movie_data_all_yrs-eps-converted-to.pdf>
@@ -400,13 +398,14 @@ f>
 (epstopdf)             \includegraphics on input line 73.
 Package epstopdf Info: Output file is already uptodate.
 
-<pictures/movie_data_QC-eps-converted-to.pdf, id=41, 1436.36626pt x 451.6875pt>
+<pictures/movie_data_QC-eps-converted-to.pdf, id=27, 1436.36626pt x 451.6875pt>
 File: pictures/movie_data_QC-eps-converted-to.pdf Graphic file (type pdf)
 <use pictures/movie_data_QC-eps-converted-to.pdf>
 Package pdftex.def Info: pictures/movie_data_QC-eps-converted-to.pdf used on in
 put line 73.
 (pdftex.def)             Requested size: 430.00462pt x 165.24019pt.
- [3 <./pictures/movie_data_all_yrs-eps-converted-to.pdf>]
+ [2 <./pictures/1_24_16/sine_cpsn_shift18-eps-converted-to.pdf> <./pictures/1_2
+4_16/phases_shift18-eps-converted-to.pdf>]
 Overfull \hbox (20.89207pt too wide) in paragraph at lines 79--80
 [][] 
  []
@@ -423,7 +422,7 @@ d-to.pdf>
 (epstopdf)             \includegraphics on input line 83.
 Package epstopdf Info: Output file is already uptodate.
 
-<pictures/movie_data_1955-2015-eps-converted-to.pdf, id=51, 703.62875pt x 421.5
+<pictures/movie_data_1955-2015-eps-converted-to.pdf, id=43, 703.62875pt x 421.5
 75pt>
 File: pictures/movie_data_1955-2015-eps-converted-to.pdf Graphic file (type pdf
 )
@@ -443,7 +442,7 @@ rted-to.pdf>
 (epstopdf)             \includegraphics on input line 89.
 Package epstopdf Info: Output file is already uptodate.
 
-<pictures/movie_data_1955-2015_QC-eps-converted-to.pdf, id=52, 1436.36626pt x 4
+<pictures/movie_data_1955-2015_QC-eps-converted-to.pdf, id=44, 1436.36626pt x 4
 51.6875pt>
 File: pictures/movie_data_1955-2015_QC-eps-converted-to.pdf Graphic file (type 
 pdf)
@@ -451,9 +450,9 @@ pdf)
 Package pdftex.def Info: pictures/movie_data_1955-2015_QC-eps-converted-to.pdf 
 used on input line 89.
 (pdftex.def)             Requested size: 430.00462pt x 165.24019pt.
- [4 <./pictures/movie_data_QC-eps-converted-to.pdf> <./pictures/movie_data_1955
--2015-eps-converted-to.pdf>] [5 <./pictures/movie_data_1955-2015_QC-eps-convert
-ed-to.pdf>]
+ [3 <./pictures/movie_data_QC-eps-converted-to.pdf> <./pictures/movie_data_all_
+yrs-eps-converted-to.pdf>] [4 <./pictures/movie_data_1955-2015_QC-eps-converted
+-to.pdf> <./pictures/movie_data_1955-2015-eps-converted-to.pdf>]
 Package epstopdf Info: Source file: <pictures/movie_word_all.eps>
 (epstopdf)                    date: 2016-02-02 23:27:36
 (epstopdf)                    size: 15150 bytes
@@ -466,13 +465,13 @@ s-converted-to.pdf pictures/movie_word_all.eps>
 (epstopdf)             \includegraphics on input line 129.
 Package epstopdf Info: Output file is already uptodate.
 
-<pictures/movie_word_all-eps-converted-to.pdf, id=81, 1443.3925pt x 451.6875pt>
+<pictures/movie_word_all-eps-converted-to.pdf, id=78, 1443.3925pt x 451.6875pt>
 File: pictures/movie_word_all-eps-converted-to.pdf Graphic file (type pdf)
 <use pictures/movie_word_all-eps-converted-to.pdf>
 Package pdftex.def Info: pictures/movie_word_all-eps-converted-to.pdf used on i
 nput line 129.
 (pdftex.def)             Requested size: 430.00462pt x 167.10107pt.
- [6 <./pictures/movie_word_all-eps-converted-to.pdf>]
+ [5 <./pictures/movie_word_all-eps-converted-to.pdf>]
 Package epstopdf Info: Source file: <pictures/_p1_n12_gp1.eps>
 (epstopdf)                    date: 2016-02-04 16:43:21
 (epstopdf)                    size: 25337 bytes
@@ -485,7 +484,7 @@ onverted-to.pdf pictures/_p1_n12_gp1.eps>
 (epstopdf)             \includegraphics on input line 137.
 Package epstopdf Info: Output file is already uptodate.
 
-<pictures/_p1_n12_gp1-eps-converted-to.pdf, id=94, 1444.39626pt x 316.18124pt>
+<pictures/_p1_n12_gp1-eps-converted-to.pdf, id=91, 1444.39626pt x 316.18124pt>
 File: pictures/_p1_n12_gp1-eps-converted-to.pdf Graphic file (type pdf)
 
 <use pictures/_p1_n12_gp1-eps-converted-to.pdf>
@@ -504,7 +503,7 @@ onverted-to.pdf pictures/_p1_n12_gp2.eps>
 (epstopdf)             \includegraphics on input line 138.
 Package epstopdf Info: Output file is already uptodate.
 
-<pictures/_p1_n12_gp2-eps-converted-to.pdf, id=96, 1444.39626pt x 316.18124pt>
+<pictures/_p1_n12_gp2-eps-converted-to.pdf, id=93, 1444.39626pt x 316.18124pt>
 File: pictures/_p1_n12_gp2-eps-converted-to.pdf Graphic file (type pdf)
 
 <use pictures/_p1_n12_gp2-eps-converted-to.pdf>
@@ -523,7 +522,7 @@ onverted-to.pdf pictures/_p2_n12_gp1.eps>
 (epstopdf)             \includegraphics on input line 139.
 Package epstopdf Info: Output file is already uptodate.
 
-<pictures/_p2_n12_gp1-eps-converted-to.pdf, id=98, 1444.39626pt x 316.18124pt>
+<pictures/_p2_n12_gp1-eps-converted-to.pdf, id=95, 1444.39626pt x 316.18124pt>
 File: pictures/_p2_n12_gp1-eps-converted-to.pdf Graphic file (type pdf)
 
 <use pictures/_p2_n12_gp1-eps-converted-to.pdf>
@@ -541,7 +540,7 @@ nverted-to.pdf pictures/_p1_n8_gp1.eps>
 (epstopdf)             \includegraphics on input line 144.
 Package epstopdf Info: Output file is already uptodate.
 
-<pictures/_p1_n8_gp1-eps-converted-to.pdf, id=100, 1444.39626pt x 316.18124pt>
+<pictures/_p1_n8_gp1-eps-converted-to.pdf, id=97, 1444.39626pt x 316.18124pt>
 File: pictures/_p1_n8_gp1-eps-converted-to.pdf Graphic file (type pdf)
 
 <use pictures/_p1_n8_gp1-eps-converted-to.pdf>
@@ -559,7 +558,7 @@ nverted-to.pdf pictures/_p1_n8_gp2.eps>
 (epstopdf)             \includegraphics on input line 145.
 Package epstopdf Info: Output file is already uptodate.
 
-<pictures/_p1_n8_gp2-eps-converted-to.pdf, id=102, 1444.39626pt x 316.18124pt>
+<pictures/_p1_n8_gp2-eps-converted-to.pdf, id=99, 1444.39626pt x 316.18124pt>
 File: pictures/_p1_n8_gp2-eps-converted-to.pdf Graphic file (type pdf)
 
 <use pictures/_p1_n8_gp2-eps-converted-to.pdf>
@@ -577,14 +576,14 @@ nverted-to.pdf pictures/_p2_n8_gp1.eps>
 (epstopdf)             \includegraphics on input line 146.
 Package epstopdf Info: Output file is already uptodate.
 
-<pictures/_p2_n8_gp1-eps-converted-to.pdf, id=104, 1444.39626pt x 316.18124pt>
+<pictures/_p2_n8_gp1-eps-converted-to.pdf, id=101, 1444.39626pt x 316.18124pt>
 File: pictures/_p2_n8_gp1-eps-converted-to.pdf Graphic file (type pdf)
 
 <use pictures/_p2_n8_gp1-eps-converted-to.pdf>
 Package pdftex.def Info: pictures/_p2_n8_gp1-eps-converted-to.pdf used on input
  line 146.
 (pdftex.def)             Requested size: 430.00462pt x 103.47653pt.
- [7 <./pictures/_p1_n12_gp1-eps-converted-to.pdf> <./pictures/_p1_n12_gp2-eps-c
+ [6 <./pictures/_p1_n12_gp1-eps-converted-to.pdf> <./pictures/_p1_n12_gp2-eps-c
 onverted-to.pdf> <./pictures/_p2_n12_gp1-eps-converted-to.pdf>]
 Package epstopdf Info: Source file: <pictures/_p1_n5_gp1.eps>
 (epstopdf)                    date: 2016-02-04 16:43:01
@@ -597,7 +596,7 @@ nverted-to.pdf pictures/_p1_n5_gp1.eps>
 (epstopdf)             \includegraphics on input line 151.
 Package epstopdf Info: Output file is already uptodate.
 
-<pictures/_p1_n5_gp1-eps-converted-to.pdf, id=134, 1444.39626pt x 316.18124pt>
+<pictures/_p1_n5_gp1-eps-converted-to.pdf, id=130, 1444.39626pt x 316.18124pt>
 File: pictures/_p1_n5_gp1-eps-converted-to.pdf Graphic file (type pdf)
 
 <use pictures/_p1_n5_gp1-eps-converted-to.pdf>
@@ -615,7 +614,7 @@ nverted-to.pdf pictures/_p1_n5_gp2.eps>
 (epstopdf)             \includegraphics on input line 152.
 Package epstopdf Info: Output file is already uptodate.
 
-<pictures/_p1_n5_gp2-eps-converted-to.pdf, id=136, 1444.39626pt x 316.18124pt>
+<pictures/_p1_n5_gp2-eps-converted-to.pdf, id=132, 1444.39626pt x 316.18124pt>
 File: pictures/_p1_n5_gp2-eps-converted-to.pdf Graphic file (type pdf)
 
 <use pictures/_p1_n5_gp2-eps-converted-to.pdf>
@@ -633,14 +632,14 @@ nverted-to.pdf pictures/_p2_n5_gp1.eps>
 (epstopdf)             \includegraphics on input line 153.
 Package epstopdf Info: Output file is already uptodate.
 
-<pictures/_p2_n5_gp1-eps-converted-to.pdf, id=138, 1444.39626pt x 316.18124pt>
+<pictures/_p2_n5_gp1-eps-converted-to.pdf, id=134, 1444.39626pt x 316.18124pt>
 File: pictures/_p2_n5_gp1-eps-converted-to.pdf Graphic file (type pdf)
 
 <use pictures/_p2_n5_gp1-eps-converted-to.pdf>
 Package pdftex.def Info: pictures/_p2_n5_gp1-eps-converted-to.pdf used on input
  line 153.
 (pdftex.def)             Requested size: 430.00462pt x 103.47653pt.
- [8 <./pictures/_p1_n8_gp1-eps-converted-to.pdf> <./pictures/_p1_n8_gp2-eps-con
+ [7 <./pictures/_p1_n8_gp1-eps-converted-to.pdf> <./pictures/_p1_n8_gp2-eps-con
 verted-to.pdf> <./pictures/_p2_n8_gp1-eps-converted-to.pdf>]
 LaTeX Font Info:    Try loading font information for OMS+cmr on input line 161.
 
@@ -650,7 +649,7 @@ File: omscmr.fd 1999/05/25 v2.5h Standard LaTeX font definitions
 )
 LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <10.95> not available
 (Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 161.
- [9 <./pictures/_p1_n5_gp1-eps-converted-to.pdf> <./pictures/_p1_n5_gp2-eps-con
+ [8 <./pictures/_p1_n5_gp1-eps-converted-to.pdf> <./pictures/_p1_n5_gp2-eps-con
 verted-to.pdf> <./pictures/_p2_n5_gp1-eps-converted-to.pdf>]
 Package epstopdf Info: Source file: <pictures/movie_word_data_1955-2015_p1_n12_
 gp1.eps>
@@ -666,7 +665,7 @@ n12_gp1.eps>
 (epstopdf)             \includegraphics on input line 178.
 Package epstopdf Info: Output file is already uptodate.
 
-<pictures/movie_word_data_1955-2015_p1_n12_gp1-eps-converted-to.pdf, id=197, 14
+<pictures/movie_word_data_1955-2015_p1_n12_gp1-eps-converted-to.pdf, id=194, 14
 44.39626pt x 316.18124pt>
 File: pictures/movie_word_data_1955-2015_p1_n12_gp1-eps-converted-to.pdf Graphi
 c file (type pdf)
@@ -689,7 +688,7 @@ n12_gp2.eps>
 (epstopdf)             \includegraphics on input line 179.
 Package epstopdf Info: Output file is already uptodate.
 
-<pictures/movie_word_data_1955-2015_p1_n12_gp2-eps-converted-to.pdf, id=199, 14
+<pictures/movie_word_data_1955-2015_p1_n12_gp2-eps-converted-to.pdf, id=196, 14
 44.39626pt x 316.18124pt>
 File: pictures/movie_word_data_1955-2015_p1_n12_gp2-eps-converted-to.pdf Graphi
 c file (type pdf)
@@ -712,7 +711,7 @@ n12_gp1.eps>
 (epstopdf)             \includegraphics on input line 180.
 Package epstopdf Info: Output file is already uptodate.
 
-<pictures/movie_word_data_1955-2015_p2_n12_gp1-eps-converted-to.pdf, id=201, 14
+<pictures/movie_word_data_1955-2015_p2_n12_gp1-eps-converted-to.pdf, id=198, 14
 44.39626pt x 316.18124pt>
 File: pictures/movie_word_data_1955-2015_p2_n12_gp1-eps-converted-to.pdf Graphi
 c file (type pdf)
@@ -721,8 +720,6 @@ c file (type pdf)
 Package pdftex.def Info: pictures/movie_word_data_1955-2015_p2_n12_gp1-eps-conv
 erted-to.pdf used on input line 180.
 (pdftex.def)             Requested size: 430.00462pt x 103.47653pt.
-
-[10]
 Package epstopdf Info: Source file: <pictures/movie_word_data_1955-2015_p1_n8_g
 p1.eps>
 (epstopdf)                    date: 2016-02-06 17:35:50
@@ -737,7 +734,7 @@ p1-eps-converted-to.pdf>
 (epstopdf)             \includegraphics on input line 185.
 Package epstopdf Info: Output file is already uptodate.
 
-<pictures/movie_word_data_1955-2015_p1_n8_gp1-eps-converted-to.pdf, id=206, 144
+<pictures/movie_word_data_1955-2015_p1_n8_gp1-eps-converted-to.pdf, id=200, 144
 4.39626pt x 316.18124pt>
 File: pictures/movie_word_data_1955-2015_p1_n8_gp1-eps-converted-to.pdf Graphic
  file (type pdf)
@@ -760,7 +757,7 @@ p2-eps-converted-to.pdf>
 (epstopdf)             \includegraphics on input line 186.
 Package epstopdf Info: Output file is already uptodate.
 
-<pictures/movie_word_data_1955-2015_p1_n8_gp2-eps-converted-to.pdf, id=208, 144
+<pictures/movie_word_data_1955-2015_p1_n8_gp2-eps-converted-to.pdf, id=202, 144
 4.39626pt x 316.18124pt>
 File: pictures/movie_word_data_1955-2015_p1_n8_gp2-eps-converted-to.pdf Graphic
  file (type pdf)
@@ -783,7 +780,7 @@ p1-eps-converted-to.pdf>
 (epstopdf)             \includegraphics on input line 187.
 Package epstopdf Info: Output file is already uptodate.
 
-<pictures/movie_word_data_1955-2015_p2_n8_gp1-eps-converted-to.pdf, id=210, 144
+<pictures/movie_word_data_1955-2015_p2_n8_gp1-eps-converted-to.pdf, id=204, 144
 4.39626pt x 316.18124pt>
 File: pictures/movie_word_data_1955-2015_p2_n8_gp1-eps-converted-to.pdf Graphic
  file (type pdf)
@@ -793,9 +790,9 @@ Package pdftex.def Info: pictures/movie_word_data_1955-2015_p2_n8_gp1-eps-conve
 rted-to.pdf used on input line 187.
 (pdftex.def)             Requested size: 430.00462pt x 103.47653pt.
 
-[11 <./pictures/movie_word_data_1955-2015_p1_n12_gp1-eps-converted-to.pdf> <./p
-ictures/movie_word_data_1955-2015_p1_n12_gp2-eps-converted-to.pdf> <./pictures/
-movie_word_data_1955-2015_p2_n12_gp1-eps-converted-to.pdf>]
+[9 <./pictures/movie_word_data_1955-2015_p1_n12_gp1-eps-converted-to.pdf> <./pi
+ctures/movie_word_data_1955-2015_p1_n12_gp2-eps-converted-to.pdf> <./pictures/m
+ovie_word_data_1955-2015_p2_n12_gp1-eps-converted-to.pdf>]
 Package epstopdf Info: Source file: <pictures/movie_word_data_1955-2015_p1_n5_g
 p1.eps>
 (epstopdf)                    date: 2016-02-06 17:35:38
@@ -810,7 +807,7 @@ p1-eps-converted-to.pdf>
 (epstopdf)             \includegraphics on input line 192.
 Package epstopdf Info: Output file is already uptodate.
 
-<pictures/movie_word_data_1955-2015_p1_n5_gp1-eps-converted-to.pdf, id=239, 144
+<pictures/movie_word_data_1955-2015_p1_n5_gp1-eps-converted-to.pdf, id=233, 144
 4.39626pt x 316.18124pt>
 File: pictures/movie_word_data_1955-2015_p1_n5_gp1-eps-converted-to.pdf Graphic
  file (type pdf)
@@ -833,7 +830,7 @@ p2-eps-converted-to.pdf>
 (epstopdf)             \includegraphics on input line 193.
 Package epstopdf Info: Output file is already uptodate.
 
-<pictures/movie_word_data_1955-2015_p1_n5_gp2-eps-converted-to.pdf, id=241, 144
+<pictures/movie_word_data_1955-2015_p1_n5_gp2-eps-converted-to.pdf, id=235, 144
 4.39626pt x 316.18124pt>
 File: pictures/movie_word_data_1955-2015_p1_n5_gp2-eps-converted-to.pdf Graphic
  file (type pdf)
@@ -856,7 +853,7 @@ p1-eps-converted-to.pdf>
 (epstopdf)             \includegraphics on input line 194.
 Package epstopdf Info: Output file is already uptodate.
 
-<pictures/movie_word_data_1955-2015_p2_n5_gp1-eps-converted-to.pdf, id=243, 144
+<pictures/movie_word_data_1955-2015_p2_n5_gp1-eps-converted-to.pdf, id=237, 144
 4.39626pt x 316.18124pt>
 File: pictures/movie_word_data_1955-2015_p2_n5_gp1-eps-converted-to.pdf Graphic
  file (type pdf)
@@ -866,31 +863,70 @@ Package pdftex.def Info: pictures/movie_word_data_1955-2015_p2_n5_gp1-eps-conve
 rted-to.pdf used on input line 194.
 (pdftex.def)             Requested size: 430.00462pt x 103.47653pt.
 
-[12 <./pictures/movie_word_data_1955-2015_p1_n8_gp1-eps-converted-to.pdf> <./pi
+[10 <./pictures/movie_word_data_1955-2015_p1_n8_gp1-eps-converted-to.pdf> <./pi
 ctures/movie_word_data_1955-2015_p1_n8_gp2-eps-converted-to.pdf> <./pictures/mo
-vie_word_data_1955-2015_p2_n8_gp1-eps-converted-to.pdf>] [13 <./pictures/movie_
-word_data_1955-2015_p1_n5_gp1-eps-converted-to.pdf> <./pictures/movie_word_data
-_1955-2015_p1_n5_gp2-eps-converted-to.pdf> <./pictures/movie_word_data_1955-201
-5_p2_n5_gp1-eps-converted-to.pdf>] (./Notes.aux) ) 
+vie_word_data_1955-2015_p2_n8_gp1-eps-converted-to.pdf>]
+Package epstopdf Info: Source file: <pictures/refine_cyclicity_output_n12.eps>
+(epstopdf)                    date: 2016-02-16 21:20:59
+(epstopdf)                    size: 20095 bytes
+(epstopdf)             Output file: <pictures/refine_cyclicity_output_n12-eps-c
+onverted-to.pdf>
+(epstopdf)                    date: 2016-02-16 21:35:32
+(epstopdf)                    size: 8745 bytes
+(epstopdf)             Command: <repstopdf --outfile=pictures/refine_cyclicity_
+output_n12-eps-converted-to.pdf pictures/refine_cyclicity_output_n12.eps>
+(epstopdf)             \includegraphics on input line 201.
+Package epstopdf Info: Output file is already uptodate.
+
+<pictures/refine_cyclicity_output_n12-eps-converted-to.pdf, id=266, 1444.39626p
+t x 385.44pt>
+File: pictures/refine_cyclicity_output_n12-eps-converted-to.pdf Graphic file (t
+ype pdf)
+ <use pictures/refine_cyclicity_output_n12-eps-converted-to.pdf>
+Package pdftex.def Info: pictures/refine_cyclicity_output_n12-eps-converted-to.
+pdf used on input line 201.
+(pdftex.def)             Requested size: 430.00462pt x 123.3139pt.
+
+[11 <./pictures/refine_cyclicity_output_n12-eps-converted-to.pdf> <./pictures/m
+ovie_word_data_1955-2015_p1_n5_gp1-eps-converted-to.pdf> <./pictures/movie_word
+_data_1955-2015_p1_n5_gp2-eps-converted-to.pdf> <./pictures/movie_word_data_195
+5-2015_p2_n5_gp1-eps-converted-to.pdf>]
+Overfull \hbox (19.43332pt too wide) in paragraph at lines 206--239
+[]$[]$ $[]$
+ []
+
+<pictures/Gray726_angular_gyrus.png, id=302, 796.576pt x 460.119pt>
+File: pictures/Gray726_angular_gyrus.png Graphic file (type png)
+
+<use pictures/Gray726_angular_gyrus.png>
+Package pdftex.def Info: pictures/Gray726_angular_gyrus.png used on input line 
+254.
+(pdftex.def)             Requested size: 215.0023pt x 124.18463pt.
+ [12 <./pictures/Gray726_angular_gyrus.png>] [13]
+Overfull \hbox (24.29996pt too wide) in paragraph at lines 414--501
+[]$[]$ $[]$ $[]$ $[]$ 
+ []
+
+[14] [15] (./Notes.aux) ) 
 Here is how much of TeX's memory you used:
- 4868 strings out of 493117
- 81264 string characters out of 6135433
- 181629 words of memory out of 5000000
- 8244 multiletter control sequences out of 15000+600000
+ 4880 strings out of 493117
+ 81741 string characters out of 6135433
+ 181250 words of memory out of 5000000
+ 8253 multiletter control sequences out of 15000+600000
  8065 words of font info for 29 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  42i,10n,40p,1066b,1490s stack positions out of 5000i,500n,10000p,200000b,80000s
-</usr/local/texlive/2014/texm
-f-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb></usr/local/texlive/2014/texmf
--dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb></usr/local/texlive/2014/texmf-
-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb></usr/local/texlive/2014/texmf-d
-ist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/local/texlive/2014/texmf-dis
-t/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/local/texlive/2014/texmf-dist
-/fonts/type1/public/amsfonts/cm/cmtt10.pfb>
-Output written on Notes.pdf (13 pages, 374018 bytes).
+</usr/local/texlive/2014/texmf-dist/fonts/type1/public
+/amsfonts/cm/cmbx10.pfb></usr/local/texlive/2014/texmf-dist/fonts/type1/public/
+amsfonts/cm/cmbx12.pfb></usr/local/texlive/2014/texmf-dist/fonts/type1/public/a
+msfonts/cm/cmmi10.pfb></usr/local/texlive/2014/texmf-dist/fonts/type1/public/am
+sfonts/cm/cmr10.pfb></usr/local/texlive/2014/texmf-dist/fonts/type1/public/amsf
+onts/cm/cmsy10.pfb></usr/local/texlive/2014/texmf-dist/fonts/type1/public/amsfo
+nts/cm/cmtt10.pfb>
+Output written on Notes.pdf (15 pages, 523637 bytes).
 PDF statistics:
- 322 PDF objects out of 1000 (max. 8388607)
- 223 compressed objects within 3 object streams
+ 339 PDF objects out of 1000 (max. 8388607)
+ 233 compressed objects within 3 object streams
  0 named destinations out of 1000 (max. 500000)
- 262 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 278 words of extra memory for PDF output out of 10000 (max. 10000000)
 
