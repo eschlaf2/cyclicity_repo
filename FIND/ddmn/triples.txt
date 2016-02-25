@@ -1,0 +1,22 @@
+/Users/emilyschlafly/Work/cyclicity_repo/FIND/ddmn
+Total subjects: 200
+dorsal_DMN - Medial Prefrontal Cortex, Anterior Cingulate Cortex, Orbitofrontal Cortex,dorsal_DMN - Left and Right Thalamus,dorsal_DMN - Right Hippocampus,145
+dorsal_DMN - Medial Prefrontal Cortex, Anterior Cingulate Cortex, Orbitofrontal Cortex,dorsal_DMN - Left and Right Thalamus,dorsal_DMN - Left Hippocampus,144
+dorsal_DMN - Posterior Cingulate Cortex, Precuneus,dorsal_DMN - Left and Right Thalamus,dorsal_DMN - Left Hippocampus,144
+dorsal_DMN - Midcingulate Cortex,dorsal_DMN - Left and Right Thalamus,dorsal_DMN - Left Hippocampus,131
+dorsal_DMN - Posterior Cingulate Cortex, Precuneus,dorsal_DMN - Left and Right Thalamus,dorsal_DMN - Right Hippocampus,131
+dorsal_DMN - Posterior Cingulate Cortex, Precuneus,dorsal_DMN - Right Hippocampus,dorsal_DMN - Left Hippocampus,130
+dorsal_DMN - Right Angular Gyrus,dorsal_DMN - Left and Right Thalamus,dorsal_DMN - Left Hippocampus,128
+dorsal_DMN - Right Angular Gyrus,dorsal_DMN - Left and Right Thalamus,dorsal_DMN - Right Hippocampus,128
+dorsal_DMN - Left Angular Gyrus,dorsal_DMN - Left and Right Thalamus,dorsal_DMN - Right Hippocampus,126
+dorsal_DMN - Medial Prefrontal Cortex, Anterior Cingulate Cortex, Orbitofrontal Cortex,dorsal_DMN - Left and Right Thalamus,dorsal_DMN - Right Superior Frontal Gyrus,125
+dorsal_DMN - Medial Prefrontal Cortex, Anterior Cingulate Cortex, Orbitofrontal Cortex,dorsal_DMN - Midcingulate Cortex,dorsal_DMN - Right Angular Gyrus,125
+dorsal_DMN - Right Superior Frontal Gyrus,dorsal_DMN - Left and Right Thalamus,dorsal_DMN - Left Hippocampus,125
+dorsal_DMN - Midcingulate Cortex,dorsal_DMN - Right Hippocampus,dorsal_DMN - Left Hippocampus,125
+dorsal_DMN - Medial Prefrontal Cortex, Anterior Cingulate Cortex, Orbitofrontal Cortex,dorsal_DMN - Midcingulate Cortex,dorsal_DMN - Right Hippocampus,125
+dorsal_DMN - Medial Prefrontal Cortex, Anterior Cingulate Cortex, Orbitofrontal Cortex,dorsal_DMN - Left and Right Thalamus,dorsal_DMN - Right Angular Gyrus,124
+dorsal_DMN - Left Angular Gyrus,dorsal_DMN - Left and Right Thalamus,dorsal_DMN - Left Hippocampus,124
+dorsal_DMN - Right Superior Frontal Gyrus,dorsal_DMN - Left and Right Thalamus,dorsal_DMN - Right Hippocampus,124
+dorsal_DMN - Medial Prefrontal Cortex, Anterior Cingulate Cortex, Orbitofrontal Cortex,dorsal_DMN - Left and Right Thalamus,dorsal_DMN - Left Angular Gyrus,123
+dorsal_DMN - Midcingulate Cortex,dorsal_DMN - Left and Right Thalamus,dorsal_DMN - Right Hippocampus,123
+dorsal_DMN - Medial Prefrontal Cortex, Anterior Cingulate Cortex, Orbitofrontal Cortex,dorsal_DMN - Midcingulate Cortex,dorsal_DMN - Right Superior Frontal Gyrus,122

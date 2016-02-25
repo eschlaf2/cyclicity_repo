@@ -1,0 +1,4 @@
+/Users/emilyschlafly/Work/cyclicity_repo/FIND/sensorimotor
+Total subjects: 200
+Sensorimotor - Left Precentral Gyrus, Postcentral Gyrus,Sensorimotor - Bilateral Lobule IV, Lobule V, Lobule VI,Sensorimotor - Right Precentral Gyrus, Postcentral Gyrus,122
+Sensorimotor - Left Precentral Gyrus, Postcentral Gyrus,Sensorimotor - Right Thalamus,Sensorimotor - Right Precentral Gyrus, Postcentral Gyrus,121

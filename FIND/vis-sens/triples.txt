@@ -1,0 +1,251 @@
+/Users/emilyschlafly/Work/cyclicity_repo/FIND/vis-sens
+Total subjects: 200
+Visuospatial - Left Inferior Parietal Sulcus,Visuospatial - Right Lobule VI, Crus I,Visuospatial - Left Frontal Operculum, Inferior Frontal Gyrus,160
+Visuospatial - Right Inferior Parietal Lobule,Visuospatial - Right Lobule VI, Crus I,Visuospatial - Right Frontal Operculum, Inferior Frontal Gyrus,158
+Visuospatial - Left Frontal Operculum, Inferior Frontal Gyrus,Visuospatial - Right Inferior Parietal Lobule,Visuospatial - Right Lobule VI, Crus I,156
+Visuospatial - Left Inferior Parietal Sulcus,Visuospatial - Left Lobule VII, Lobule VIIb,Visuospatial - Left Frontal Operculum, Inferior Frontal Gyrus,154
+Visuospatial - Right Inferior Parietal Lobule,Visuospatial - Right Lobule VIII, Lobule VIIb,Visuospatial - Right Frontal Operculum, Inferior Frontal Gyrus,154
+Visuospatial - Right Inferior Parietal Lobule,Visuospatial - Right Middle Temporal Gyrus,Visuospatial - Right Frontal Operculum, Inferior Frontal Gyrus,151
+Visuospatial - Right Inferior Parietal Lobule,Visuospatial - Left Lobule VII, Lobule VIIb,Visuospatial - Right Frontal Operculum, Inferior Frontal Gyrus,151
+Sensorimotor - Bilateral Lobule IV, Lobule V, Lobule VI,Visuospatial - Left Frontal Operculum, Inferior Frontal Gyrus,Visuospatial - Left Inferior Parietal Sulcus,150
+Visuospatial - Left Frontal Operculum, Inferior Frontal Gyrus,Visuospatial - Right Inferior Parietal Lobule,Visuospatial - Right Lobule VIII, Lobule VIIb,150
+Sensorimotor - Bilateral Lobule IV, Lobule V, Lobule VI,Visuospatial - Right Frontal Operculum, Inferior Frontal Gyrus,Visuospatial - Right Inferior Parietal Lobule,149
+Visuospatial - Left Frontal Operculum, Inferior Frontal Gyrus,Visuospatial - Right Lobule VIII, Lobule VIIb,Visuospatial - Right Lobule VI, Crus I,149
+Visuospatial - Left Middle Frontal Gyrus, Superior Frontal Gyrus, Precentral Gyrus,Visuospatial - Right Lobule VIII, Lobule VIIb,Visuospatial - Right Lobule VI, Crus I,148
+Visuospatial - Left Inferior Parietal Sulcus,Visuospatial - Right Lobule VIII, Lobule VIIb,Visuospatial - Left Frontal Operculum, Inferior Frontal Gyrus,147
+Sensorimotor - Right Precentral Gyrus, Postcentral Gyrus,Visuospatial - Right Inferior Parietal Lobule,Visuospatial - Right Lobule VIII, Lobule VIIb,147
+Sensorimotor - Right Precentral Gyrus, Postcentral Gyrus,Visuospatial - Right Inferior Parietal Lobule,Visuospatial - Right Lobule VI, Crus I,147
+Visuospatial - Right Frontal Operculum, Inferior Frontal Gyrus,Visuospatial - Right Lobule VIII, Lobule VIIb,Visuospatial - Right Lobule VI, Crus I,147
+Sensorimotor - Left Thalamus,Visuospatial - Left Frontal Operculum, Inferior Frontal Gyrus,Visuospatial - Left Inferior Parietal Sulcus,146
+Sensorimotor - Right Supplementary Motor Area,Visuospatial - Left Inferior Parietal Sulcus,Visuospatial - Right Lobule VI, Crus I,146
+Visuospatial - Left Inferior Parietal Sulcus,Visuospatial - Right Middle Temporal Gyrus,Visuospatial - Left Frontal Operculum, Inferior Frontal Gyrus,145
+Sensorimotor - Right Precentral Gyrus, Postcentral Gyrus,Visuospatial - Left Inferior Parietal Sulcus,Visuospatial - Left Lobule VII, Lobule VIIb,145
+Sensorimotor - Right Thalamus,Visuospatial - Right Lobule VIII, Lobule VIIb,Visuospatial - Right Lobule VI, Crus I,145
+Sensorimotor - Right Thalamus,Visuospatial - Left Frontal Operculum, Inferior Frontal Gyrus,Visuospatial - Left Inferior Parietal Sulcus,144
+Sensorimotor - Left Thalamus,Visuospatial - Right Frontal Operculum, Inferior Frontal Gyrus,Visuospatial - Right Inferior Parietal Lobule,144
+Visuospatial - Left Frontal Operculum, Inferior Frontal Gyrus,Visuospatial - Right Inferior Parietal Lobule,Visuospatial - Left Lobule VII, Lobule VIIb,144
+Sensorimotor - Right Precentral Gyrus, Postcentral Gyrus,Visuospatial - Left Inferior Parietal Sulcus,Visuospatial - Right Lobule VI, Crus I,144
+Sensorimotor - Left Precentral Gyrus, Postcentral Gyrus,Visuospatial - Right Lobule VIII, Lobule VIIb,Visuospatial - Right Lobule VI, Crus I,144
+Sensorimotor - Right Supplementary Motor Area,Visuospatial - Right Lobule VIII, Lobule VIIb,Visuospatial - Right Lobule VI, Crus I,144
+Sensorimotor - Bilateral Lobule IV, Lobule V, Lobule VI,Visuospatial - Left Frontal Operculum, Inferior Frontal Gyrus,Visuospatial - Right Inferior Parietal Lobule,143
+Visuospatial - Left Frontal Operculum, Inferior Frontal Gyrus,Visuospatial - Right Inferior Parietal Lobule,Visuospatial - Right Middle Temporal Gyrus,143
+Sensorimotor - Right Precentral Gyrus, Postcentral Gyrus,Visuospatial - Right Lobule VIII, Lobule VIIb,Visuospatial - Right Lobule VI, Crus I,143
+Visuospatial - Right Inferior Parietal Lobule,Visuospatial - Right Lobule VIII, Lobule VIIb,Visuospatial - Right Lobule VI, Crus I,143
+Visuospatial - Left Inferior Parietal Sulcus,Visuospatial - Right Lobule VI, Crus I,Visuospatial - Right Frontal Operculum, Inferior Frontal Gyrus,142
+Sensorimotor - Right Supplementary Motor Area,Visuospatial - Left Inferior Parietal Sulcus,Visuospatial - Left Lobule VII, Lobule VIIb,142
+Sensorimotor - Right Precentral Gyrus, Postcentral Gyrus,Visuospatial - Right Inferior Parietal Lobule,Visuospatial - Left Lobule VII, Lobule VIIb,142
+Sensorimotor - Right Supplementary Motor Area,Visuospatial - Right Inferior Parietal Lobule,Visuospatial - Right Lobule VI, Crus I,142
+Visuospatial - Left Inferior Parietal Sulcus,Visuospatial - Left Lobule VII, Lobule VIIb,Visuospatial - Right Frontal Operculum, Inferior Frontal Gyrus,141
+Visuospatial - Left Middle Frontal Gyrus, Superior Frontal Gyrus, Precentral Gyrus,Visuospatial - Left Inferior Parietal Sulcus,Visuospatial - Left Lobule VII, Lobule VIIb,141
+Sensorimotor - Right Supplementary Motor Area,Visuospatial - Right Inferior Parietal Lobule,Visuospatial - Right Lobule VIII, Lobule VIIb,141
+Sensorimotor - Left Precentral Gyrus, Postcentral Gyrus,Sensorimotor - Bilateral Lobule IV, Lobule V, Lobule VI,Visuospatial - Right Lobule VI, Crus I,141
+Visuospatial - Left Middle Frontal Gyrus, Superior Frontal Gyrus, Precentral Gyrus,Visuospatial - Left Inferior Parietal Sulcus,Visuospatial - Right Lobule VI, Crus I,141
+Sensorimotor - Left Precentral Gyrus, Postcentral Gyrus,Visuospatial - Right Inferior Parietal Lobule,Visuospatial - Right Lobule VI, Crus I,141
+Visuospatial - Right Middle Frontal Gyrus,Visuospatial - Right Lobule VIII, Lobule VIIb,Visuospatial - Right Lobule VI, Crus I,141
+Visuospatial - Left Middle Frontal Gyrus, Superior Frontal Gyrus, Precentral Gyrus,Visuospatial - Right Lobule VI, Crus I,Visuospatial - Left Frontal Operculum, Inferior Frontal Gyrus,140
+Sensorimotor - Left Precentral Gyrus, Postcentral Gyrus,Visuospatial - Right Inferior Parietal Lobule,Visuospatial - Right Lobule VIII, Lobule VIIb,140
+Sensorimotor - Right Supplementary Motor Area,Sensorimotor - Bilateral Lobule IV, Lobule V, Lobule VI,Visuospatial - Right Lobule VI, Crus I,140
+Sensorimotor - Right Precentral Gyrus, Postcentral Gyrus,Visuospatial - Left Inferior Parietal Sulcus,Sensorimotor - Bilateral Lobule IV, Lobule V, Lobule VI,139
+Sensorimotor - Right Precentral Gyrus, Postcentral Gyrus,Visuospatial - Right Inferior Parietal Lobule,Sensorimotor - Bilateral Lobule IV, Lobule V, Lobule VI,139
+Visuospatial - Left Middle Frontal Gyrus, Superior Frontal Gyrus, Precentral Gyrus,Visuospatial - Right Lobule VIII, Lobule VIIb,Visuospatial - Left Frontal Operculum, Inferior Frontal Gyrus,139
+Sensorimotor - Bilateral Lobule IV, Lobule V, Lobule VI,Visuospatial - Right Lobule VI, Crus I,Visuospatial - Left Frontal Operculum, Inferior Frontal Gyrus,139
+Visuospatial - Left Middle Frontal Gyrus, Superior Frontal Gyrus, Precentral Gyrus,Visuospatial - Right Inferior Parietal Lobule,Visuospatial - Right Lobule VI, Crus I,139
+Sensorimotor - Left Precentral Gyrus, Postcentral Gyrus,Visuospatial - Right Middle Temporal Gyrus,Visuospatial - Right Lobule VI, Crus I,139
+Sensorimotor - Right Precentral Gyrus, Postcentral Gyrus,Visuospatial - Right Middle Temporal Gyrus,Visuospatial - Right Lobule VI, Crus I,139
+Sensorimotor - Left Thalamus,Visuospatial - Right Lobule VIII, Lobule VIIb,Visuospatial - Right Lobule VI, Crus I,139
+Visuospatial - Left Inferior Temporal Gyrus,Visuospatial - Right Lobule VIII, Lobule VIIb,Visuospatial - Right Lobule VI, Crus I,139
+Sensorimotor - Right Thalamus,Visuospatial - Left Middle Frontal Gyrus, Superior Frontal Gyrus, Precentral Gyrus,Visuospatial - Left Inferior Parietal Sulcus,138
+Sensorimotor - Left Thalamus,Visuospatial - Left Frontal Operculum, Inferior Frontal Gyrus,Visuospatial - Right Inferior Parietal Lobule,138
+Sensorimotor - Right Supplementary Motor Area,Visuospatial - Left Inferior Parietal Sulcus,Visuospatial - Right Lobule VIII, Lobule VIIb,138
+Sensorimotor - Left Precentral Gyrus, Postcentral Gyrus,Visuospatial - Left Inferior Parietal Sulcus,Visuospatial - Right Lobule VI, Crus I,138
+Sensorimotor - Bilateral Lobule IV, Lobule V, Lobule VI,Visuospatial - Left Frontal Operculum, Inferior Frontal Gyrus,Visuospatial - Left Middle Frontal Gyrus, Superior Frontal Gyrus, Precentral Gyrus,137
+Sensorimotor - Left Thalamus,Visuospatial - Left Middle Frontal Gyrus, Superior Frontal Gyrus, Precentral Gyrus,Visuospatial - Left Inferior Parietal Sulcus,137
+Sensorimotor - Right Supplementary Motor Area,Visuospatial - Left Inferior Parietal Sulcus,Visuospatial - Right Middle Temporal Gyrus,137
+Visuospatial - Left Middle Frontal Gyrus, Superior Frontal Gyrus, Precentral Gyrus,Visuospatial - Left Inferior Parietal Sulcus,Visuospatial - Right Middle Temporal Gyrus,137
+Visuospatial - Left Middle Frontal Gyrus, Superior Frontal Gyrus, Precentral Gyrus,Visuospatial - Right Inferior Parietal Lobule,Visuospatial - Right Middle Temporal Gyrus,137
+Sensorimotor - Right Precentral Gyrus, Postcentral Gyrus,Visuospatial - Right Middle Temporal Gyrus,Visuospatial - Left Lobule VII, Lobule VIIb,137
+Sensorimotor - Right Precentral Gyrus, Postcentral Gyrus,Visuospatial - Left Inferior Parietal Sulcus,Visuospatial - Right Lobule VIII, Lobule VIIb,137
+Visuospatial - Left Frontal Operculum, Inferior Frontal Gyrus,Visuospatial - Right Middle Temporal Gyrus,Visuospatial - Right Lobule VI, Crus I,137
+Sensorimotor - Bilateral Lobule IV, Lobule V, Lobule VI,Visuospatial - Right Lobule VI, Crus I,Visuospatial - Left Middle Frontal Gyrus, Superior Frontal Gyrus, Precentral Gyrus,136
+Sensorimotor - Right Thalamus,Visuospatial - Right Middle Frontal Gyrus,Visuospatial - Left Inferior Parietal Sulcus,136
+Sensorimotor - Bilateral Lobule IV, Lobule V, Lobule VI,Visuospatial - Right Frontal Operculum, Inferior Frontal Gyrus,Visuospatial - Left Inferior Parietal Sulcus,136
+Sensorimotor - Right Thalamus,Visuospatial - Right Frontal Operculum, Inferior Frontal Gyrus,Visuospatial - Right Inferior Parietal Lobule,136
+Visuospatial - Left Frontal Operculum, Inferior Frontal Gyrus,Visuospatial - Left Inferior Temporal Gyrus,Visuospatial - Right Lobule VI, Crus I,136
+Visuospatial - Left Inferior Parietal Sulcus,Visuospatial - Right Lobule VIII, Lobule VIIb,Visuospatial - Right Lobule VI, Crus I,136
+Sensorimotor - Right Supplementary Motor Area,Visuospatial - Left Inferior Parietal Sulcus,Sensorimotor - Bilateral Lobule IV, Lobule V, Lobule VI,135
+Visuospatial - Left Inferior Parietal Sulcus,Visuospatial - Right Lobule VI, Crus I,Visuospatial - Right Middle Frontal Gyrus,135
+Sensorimotor - Bilateral Lobule IV, Lobule V, Lobule VI,Visuospatial - Right Lobule VI, Crus I,Visuospatial - Right Frontal Operculum, Inferior Frontal Gyrus,135
+Sensorimotor - Right Supplementary Motor Area,Visuospatial - Right Inferior Parietal Lobule,Visuospatial - Right Middle Temporal Gyrus,135
+Sensorimotor - Right Supplementary Motor Area,Visuospatial - Left Middle Frontal Gyrus, Superior Frontal Gyrus, Precentral Gyrus,Visuospatial - Right Lobule VIII, Lobule VIIb,135
+Sensorimotor - Bilateral Lobule IV, Lobule V, Lobule VI,Visuospatial - Left Middle Frontal Gyrus, Superior Frontal Gyrus, Precentral Gyrus,Visuospatial - Left Inferior Parietal Sulcus,134
+Visuospatial - Left Middle Frontal Gyrus, Superior Frontal Gyrus, Precentral Gyrus,Visuospatial - Left Lobule VII, Lobule VIIb,Visuospatial - Left Frontal Operculum, Inferior Frontal Gyrus,134
+Visuospatial - Left Inferior Parietal Sulcus,Visuospatial - Right Middle Temporal Gyrus,Visuospatial - Right Middle Frontal Gyrus,134
+Visuospatial - Left Middle Frontal Gyrus, Superior Frontal Gyrus, Precentral Gyrus,Visuospatial - Right Inferior Parietal Lobule,Visuospatial - Right Lobule VIII, Lobule VIIb,134
+Sensorimotor - Right Precentral Gyrus, Postcentral Gyrus,Sensorimotor - Bilateral Lobule IV, Lobule V, Lobule VI,Visuospatial - Right Lobule VI, Crus I,134
+Sensorimotor - Bilateral Lobule IV, Lobule V, Lobule VI,Visuospatial - Right Lobule VI, Crus I,Visuospatial - Right Middle Frontal Gyrus,133
+Visuospatial - Left Inferior Parietal Sulcus,Visuospatial - Right Middle Temporal Gyrus,Visuospatial - Right Frontal Operculum, Inferior Frontal Gyrus,133
+Sensorimotor - Left Precentral Gyrus, Postcentral Gyrus,Visuospatial - Left Inferior Parietal Sulcus,Visuospatial - Left Lobule VII, Lobule VIIb,133
+Visuospatial - Left Frontal Operculum, Inferior Frontal Gyrus,Visuospatial - Left Inferior Temporal Gyrus,Visuospatial - Left Lobule VII, Lobule VIIb,133
+Visuospatial - Left Frontal Operculum, Inferior Frontal Gyrus,Visuospatial - Right Middle Frontal Gyrus,Visuospatial - Left Lobule VII, Lobule VIIb,133
+Visuospatial - Left Middle Frontal Gyrus, Superior Frontal Gyrus, Precentral Gyrus,Visuospatial - Right Inferior Parietal Lobule,Visuospatial - Left Lobule VII, Lobule VIIb,133
+Visuospatial - Right Middle Temporal Gyrus,Visuospatial - Right Lobule VIII, Lobule VIIb,Visuospatial - Right Lobule VI, Crus I,133
+Sensorimotor - Right Precentral Gyrus, Postcentral Gyrus,Visuospatial - Left Inferior Parietal Sulcus,Sensorimotor - Right Thalamus,132
+Sensorimotor - Left Thalamus,Visuospatial - Right Frontal Operculum, Inferior Frontal Gyrus,Visuospatial - Left Inferior Parietal Sulcus,132
+Sensorimotor - Right Precentral Gyrus, Postcentral Gyrus,Visuospatial - Right Inferior Parietal Lobule,Visuospatial - Right Middle Temporal Gyrus,132
+Sensorimotor - Right Supplementary Motor Area,Visuospatial - Right Inferior Parietal Lobule,Visuospatial - Left Lobule VII, Lobule VIIb,132
+Visuospatial - Left Frontal Operculum, Inferior Frontal Gyrus,Visuospatial - Right Middle Frontal Gyrus,Visuospatial - Right Lobule VI, Crus I,132
+Sensorimotor - Bilateral Lobule IV, Lobule V, Lobule VI,Visuospatial - Right Middle Frontal Gyrus,Visuospatial - Left Inferior Parietal Sulcus,131
+Sensorimotor - Left Thalamus,Visuospatial - Left Frontal Operculum, Inferior Frontal Gyrus,Visuospatial - Right Middle Frontal Gyrus,131
+Sensorimotor - Left Thalamus,Visuospatial - Left Middle Frontal Gyrus, Superior Frontal Gyrus, Precentral Gyrus,Visuospatial - Right Inferior Parietal Lobule,131
+Sensorimotor - Right Thalamus,Visuospatial - Left Frontal Operculum, Inferior Frontal Gyrus,Visuospatial - Right Inferior Parietal Lobule,131
+Visuospatial - Left Inferior Parietal Sulcus,Visuospatial - Right Lobule VIII, Lobule VIIb,Visuospatial - Right Frontal Operculum, Inferior Frontal Gyrus,131
+Sensorimotor - Left Precentral Gyrus, Postcentral Gyrus,Visuospatial - Right Middle Temporal Gyrus,Visuospatial - Left Lobule VII, Lobule VIIb,131
+Sensorimotor - Right Supplementary Motor Area,Visuospatial - Left Middle Frontal Gyrus, Superior Frontal Gyrus, Precentral Gyrus,Visuospatial - Right Lobule VI, Crus I,131
+Sensorimotor - Right Supplementary Motor Area,Visuospatial - Right Middle Temporal Gyrus,Visuospatial - Right Lobule VI, Crus I,131
+Visuospatial - Right Frontal Operculum, Inferior Frontal Gyrus,Visuospatial - Right Middle Temporal Gyrus,Visuospatial - Right Lobule VI, Crus I,131
+Sensorimotor - Left Thalamus,Visuospatial - Left Middle Frontal Gyrus, Superior Frontal Gyrus, Precentral Gyrus,Sensorimotor - Bilateral Lobule IV, Lobule V, Lobule VI,130
+Sensorimotor - Bilateral Lobule IV, Lobule V, Lobule VI,Visuospatial - Right Lobule VI, Crus I,Sensorimotor - Right Thalamus,130
+Sensorimotor - Left Thalamus,Visuospatial - Left Frontal Operculum, Inferior Frontal Gyrus,Visuospatial - Left Middle Frontal Gyrus, Superior Frontal Gyrus, Precentral Gyrus,130
+Visuospatial - Left Inferior Parietal Sulcus,Visuospatial - Right Lobule VIII, Lobule VIIb,Visuospatial - Right Middle Frontal Gyrus,130
+Sensorimotor - Right Thalamus,Visuospatial - Left Inferior Temporal Gyrus,Visuospatial - Left Lobule VII, Lobule VIIb,130
+Sensorimotor - Right Supplementary Motor Area,Visuospatial - Right Middle Frontal Gyrus,Visuospatial - Left Lobule VII, Lobule VIIb,130
+Sensorimotor - Left Precentral Gyrus, Postcentral Gyrus,Visuospatial - Right Inferior Parietal Lobule,Visuospatial - Left Lobule VII, Lobule VIIb,130
+Sensorimotor - Left Precentral Gyrus, Postcentral Gyrus,Visuospatial - Left Inferior Parietal Sulcus,Visuospatial - Right Lobule VIII, Lobule VIIb,130
+Sensorimotor - Right Thalamus,Visuospatial - Right Inferior Parietal Lobule,Visuospatial - Right Lobule VI, Crus I,130
+Sensorimotor - Right Precentral Gyrus, Postcentral Gyrus,Visuospatial - Right Middle Temporal Gyrus,Sensorimotor - Bilateral Lobule IV, Lobule V, Lobule VI,129
+Sensorimotor - Right Thalamus,Visuospatial - Right Frontal Operculum, Inferior Frontal Gyrus,Visuospatial - Left Inferior Parietal Sulcus,129
+Sensorimotor - Bilateral Lobule IV, Lobule V, Lobule VI,Visuospatial - Right Lobule VI, Crus I,Visuospatial - Left Inferior Parietal Sulcus,129
+Visuospatial - Left Middle Frontal Gyrus, Superior Frontal Gyrus, Precentral Gyrus,Visuospatial - Right Middle Temporal Gyrus,Visuospatial - Left Frontal Operculum, Inferior Frontal Gyrus,129
+Sensorimotor - Bilateral Lobule IV, Lobule V, Lobule VI,Visuospatial - Right Lobule VI, Crus I,Visuospatial - Left Inferior Temporal Gyrus,129
+Sensorimotor - Bilateral Lobule IV, Lobule V, Lobule VI,Visuospatial - Left Middle Frontal Gyrus, Superior Frontal Gyrus, Precentral Gyrus,Visuospatial - Right Inferior Parietal Lobule,129
+Visuospatial - Left Middle Frontal Gyrus, Superior Frontal Gyrus, Precentral Gyrus,Visuospatial - Left Inferior Parietal Sulcus,Visuospatial - Right Lobule VIII, Lobule VIIb,129
+Sensorimotor - Right Precentral Gyrus, Postcentral Gyrus,Visuospatial - Right Middle Temporal Gyrus,Visuospatial - Right Lobule VIII, Lobule VIIb,129
+Sensorimotor - Right Thalamus,Visuospatial - Left Inferior Temporal Gyrus,Visuospatial - Right Lobule VI, Crus I,129
+Sensorimotor - Right Thalamus,Visuospatial - Right Middle Temporal Gyrus,Visuospatial - Right Lobule VI, Crus I,129
+Sensorimotor - Right Precentral Gyrus, Postcentral Gyrus,Visuospatial - Left Inferior Parietal Sulcus,Sensorimotor - Left Thalamus,128
+Sensorimotor - Right Supplementary Motor Area,Visuospatial - Right Inferior Parietal Lobule,Sensorimotor - Bilateral Lobule IV, Lobule V, Lobule VI,128
+Sensorimotor - Left Thalamus,Visuospatial - Right Inferior Parietal Lobule,Sensorimotor - Bilateral Lobule IV, Lobule V, Lobule VI,128
+Sensorimotor - Right Supplementary Motor Area,Visuospatial - Left Inferior Parietal Sulcus,Sensorimotor - Right Thalamus,128
+Sensorimotor - Bilateral Lobule IV, Lobule V, Lobule VI,Sensorimotor - Right Thalamus,Visuospatial - Left Inferior Temporal Gyrus,128
+Visuospatial - Left Inferior Parietal Sulcus,Visuospatial - Left Lobule VII, Lobule VIIb,Visuospatial - Right Middle Frontal Gyrus,128
+Sensorimotor - Right Supplementary Motor Area,Visuospatial - Left Middle Frontal Gyrus, Superior Frontal Gyrus, Precentral Gyrus,Visuospatial - Right Inferior Parietal Lobule,128
+Visuospatial - Left Frontal Operculum, Inferior Frontal Gyrus,Visuospatial - Right Middle Temporal Gyrus,Visuospatial - Left Lobule VII, Lobule VIIb,128
+Sensorimotor - Right Thalamus,Visuospatial - Right Inferior Parietal Lobule,Visuospatial - Right Lobule VIII, Lobule VIIb,128
+Visuospatial - Right Middle Frontal Gyrus,Visuospatial - Right Inferior Parietal Lobule,Visuospatial - Right Lobule VIII, Lobule VIIb,128
+Sensorimotor - Left Precentral Gyrus, Postcentral Gyrus,Visuospatial - Right Middle Temporal Gyrus,Visuospatial - Right Lobule VIII, Lobule VIIb,128
+Visuospatial - Right Middle Frontal Gyrus,Visuospatial - Left Lobule VII, Lobule VIIb,Visuospatial - Right Lobule VI, Crus I,128
+Sensorimotor - Right Supplementary Motor Area,Visuospatial - Left Inferior Parietal Sulcus,Sensorimotor - Left Thalamus,127
+Sensorimotor - Right Precentral Gyrus, Postcentral Gyrus,Visuospatial - Right Inferior Parietal Lobule,Sensorimotor - Left Thalamus,127
+Sensorimotor - Right Supplementary Motor Area,Visuospatial - Left Middle Frontal Gyrus, Superior Frontal Gyrus, Precentral Gyrus,Sensorimotor - Bilateral Lobule IV, Lobule V, Lobule VI,127
+Sensorimotor - Left Thalamus,Visuospatial - Left Inferior Parietal Sulcus,Sensorimotor - Bilateral Lobule IV, Lobule V, Lobule VI,127
+Sensorimotor - Right Thalamus,Visuospatial - Left Frontal Operculum, Inferior Frontal Gyrus,Visuospatial - Left Middle Frontal Gyrus, Superior Frontal Gyrus, Precentral Gyrus,127
+Sensorimotor - Right Thalamus,Visuospatial - Left Middle Frontal Gyrus, Superior Frontal Gyrus, Precentral Gyrus,Visuospatial - Right Inferior Parietal Lobule,127
+Sensorimotor - Right Precentral Gyrus, Postcentral Gyrus,Visuospatial - Left Inferior Parietal Sulcus,Visuospatial - Right Middle Temporal Gyrus,127
+Visuospatial - Right Middle Frontal Gyrus,Visuospatial - Right Inferior Parietal Lobule,Visuospatial - Right Middle Temporal Gyrus,127
+Sensorimotor - Right Supplementary Motor Area,Visuospatial - Left Middle Frontal Gyrus, Superior Frontal Gyrus, Precentral Gyrus,Visuospatial - Left Lobule VII, Lobule VIIb,127
+Sensorimotor - Right Thalamus,Visuospatial - Right Middle Frontal Gyrus,Visuospatial - Left Lobule VII, Lobule VIIb,127
+Visuospatial - Right Inferior Parietal Lobule,Visuospatial - Right Middle Temporal Gyrus,Visuospatial - Left Lobule VII, Lobule VIIb,127
+Visuospatial - Right Frontal Operculum, Inferior Frontal Gyrus,Visuospatial - Right Middle Temporal Gyrus,Visuospatial - Left Lobule VII, Lobule VIIb,127
+Sensorimotor - Right Supplementary Motor Area,Visuospatial - Right Middle Frontal Gyrus,Visuospatial - Right Lobule VI, Crus I,127
+Visuospatial - Left Frontal Operculum, Inferior Frontal Gyrus,Visuospatial - Left Lobule VII, Lobule VIIb,Visuospatial - Right Lobule VI, Crus I,127
+Sensorimotor - Left Precentral Gyrus, Postcentral Gyrus,Visuospatial - Left Inferior Parietal Sulcus,Sensorimotor - Bilateral Lobule IV, Lobule V, Lobule VI,126
+Sensorimotor - Left Precentral Gyrus, Postcentral Gyrus,Visuospatial - Right Inferior Parietal Lobule,Sensorimotor - Bilateral Lobule IV, Lobule V, Lobule VI,126
+Sensorimotor - Right Precentral Gyrus, Postcentral Gyrus,Visuospatial - Right Inferior Parietal Lobule,Sensorimotor - Right Thalamus,126
+Sensorimotor - Right Supplementary Motor Area,Visuospatial - Left Middle Frontal Gyrus, Superior Frontal Gyrus, Precentral Gyrus,Visuospatial - Left Inferior Parietal Sulcus,126
+Sensorimotor - Bilateral Lobule IV, Lobule V, Lobule VI,Visuospatial - Left Frontal Operculum, Inferior Frontal Gyrus,Visuospatial - Left Inferior Temporal Gyrus,126
+Sensorimotor - Bilateral Lobule IV, Lobule V, Lobule VI,Visuospatial - Left Frontal Operculum, Inferior Frontal Gyrus,Visuospatial - Right Middle Frontal Gyrus,126
+Sensorimotor - Bilateral Lobule IV, Lobule V, Lobule VI,Sensorimotor - Right Thalamus,Visuospatial - Right Inferior Parietal Lobule,126
+Sensorimotor - Bilateral Lobule IV, Lobule V, Lobule VI,Visuospatial - Right Lobule VI, Crus I,Visuospatial - Right Inferior Parietal Lobule,126
+Sensorimotor - Right Supplementary Motor Area,Visuospatial - Left Middle Frontal Gyrus, Superior Frontal Gyrus, Precentral Gyrus,Visuospatial - Right Middle Temporal Gyrus,126
+Sensorimotor - Left Precentral Gyrus, Postcentral Gyrus,Visuospatial - Right Inferior Parietal Lobule,Visuospatial - Right Middle Temporal Gyrus,126
+Sensorimotor - Right Precentral Gyrus, Postcentral Gyrus,Visuospatial - Right Middle Frontal Gyrus,Visuospatial - Left Lobule VII, Lobule VIIb,126
+Visuospatial - Left Frontal Operculum, Inferior Frontal Gyrus,Visuospatial - Left Inferior Temporal Gyrus,Visuospatial - Right Lobule VIII, Lobule VIIb,126
+Sensorimotor - Left Thalamus,Visuospatial - Right Inferior Parietal Lobule,Visuospatial - Right Lobule VIII, Lobule VIIb,126
+Sensorimotor - Right Supplementary Motor Area,Visuospatial - Left Inferior Temporal Gyrus,Visuospatial - Right Lobule VI, Crus I,126
+Visuospatial - Right Middle Frontal Gyrus,Visuospatial - Right Inferior Parietal Lobule,Visuospatial - Right Lobule VI, Crus I,126
+Visuospatial - Left Middle Frontal Gyrus, Superior Frontal Gyrus, Precentral Gyrus,Visuospatial - Right Middle Temporal Gyrus,Visuospatial - Right Lobule VI, Crus I,126
+Sensorimotor - Left Precentral Gyrus, Postcentral Gyrus,Visuospatial - Left Lobule VII, Lobule VIIb,Visuospatial - Right Lobule VI, Crus I,126
+Sensorimotor - Left Thalamus,Visuospatial - Left Lobule VII, Lobule VIIb,Visuospatial - Right Lobule VI, Crus I,126
+Sensorimotor - Left Thalamus,Visuospatial - Right Middle Temporal Gyrus,Sensorimotor - Bilateral Lobule IV, Lobule V, Lobule VI,125
+Sensorimotor - Left Thalamus,Visuospatial - Left Frontal Operculum, Inferior Frontal Gyrus,Visuospatial - Left Inferior Temporal Gyrus,125
+Sensorimotor - Bilateral Lobule IV, Lobule V, Lobule VI,Sensorimotor - Right Thalamus,Visuospatial - Right Middle Frontal Gyrus,125
+Sensorimotor - Left Thalamus,Visuospatial - Right Inferior Parietal Lobule,Visuospatial - Right Middle Temporal Gyrus,125
+Sensorimotor - Right Thalamus,Visuospatial - Right Inferior Parietal Lobule,Visuospatial - Right Middle Temporal Gyrus,125
+Sensorimotor - Right Supplementary Motor Area,Visuospatial - Left Inferior Temporal Gyrus,Visuospatial - Left Lobule VII, Lobule VIIb,125
+Sensorimotor - Left Precentral Gyrus, Postcentral Gyrus,Visuospatial - Left Middle Frontal Gyrus, Superior Frontal Gyrus, Precentral Gyrus,Visuospatial - Right Lobule VIII, Lobule VIIb,125
+Sensorimotor - Right Supplementary Motor Area,Visuospatial - Left Lobule VII, Lobule VIIb,Visuospatial - Right Lobule VI, Crus I,125
+Sensorimotor - Left Thalamus,Visuospatial - Left Inferior Temporal Gyrus,Sensorimotor - Bilateral Lobule IV, Lobule V, Lobule VI,124
+Sensorimotor - Bilateral Lobule IV, Lobule V, Lobule VI,Sensorimotor - Right Thalamus,Visuospatial - Left Middle Frontal Gyrus, Superior Frontal Gyrus, Precentral Gyrus,124
+Sensorimotor - Left Precentral Gyrus, Postcentral Gyrus,Visuospatial - Left Middle Frontal Gyrus, Superior Frontal Gyrus, Precentral Gyrus,Visuospatial - Left Inferior Parietal Sulcus,124
+Visuospatial - Left Inferior Temporal Gyrus,Visuospatial - Left Lobule VII, Lobule VIIb,Visuospatial - Right Frontal Operculum, Inferior Frontal Gyrus,124
+Visuospatial - Right Middle Frontal Gyrus,Visuospatial - Left Lobule VII, Lobule VIIb,Visuospatial - Right Frontal Operculum, Inferior Frontal Gyrus,124
+Sensorimotor - Bilateral Lobule IV, Lobule V, Lobule VI,Visuospatial - Right Lobule VI, Crus I,Visuospatial - Right Middle Temporal Gyrus,124
+Sensorimotor - Right Supplementary Motor Area,Visuospatial - Right Middle Temporal Gyrus,Visuospatial - Left Lobule VII, Lobule VIIb,124
+Sensorimotor - Right Thalamus,Visuospatial - Right Middle Temporal Gyrus,Visuospatial - Left Lobule VII, Lobule VIIb,124
+Sensorimotor - Right Supplementary Motor Area,Visuospatial - Right Middle Frontal Gyrus,Visuospatial - Right Lobule VIII, Lobule VIIb,124
+Visuospatial - Left Frontal Operculum, Inferior Frontal Gyrus,Visuospatial - Right Middle Frontal Gyrus,Visuospatial - Right Lobule VIII, Lobule VIIb,124
+Sensorimotor - Left Precentral Gyrus, Postcentral Gyrus,Visuospatial - Left Inferior Temporal Gyrus,Visuospatial - Right Lobule VI, Crus I,124
+Visuospatial - Right Inferior Parietal Lobule,Visuospatial - Right Middle Temporal Gyrus,Visuospatial - Right Lobule VI, Crus I,124
+Visuospatial - Left Inferior Temporal Gyrus,Visuospatial - Left Lobule VII, Lobule VIIb,Visuospatial - Right Lobule VI, Crus I,124
+Sensorimotor - Left Thalamus,Visuospatial - Left Frontal Operculum, Inferior Frontal Gyrus,Sensorimotor - Bilateral Lobule IV, Lobule V, Lobule VI,123
+Sensorimotor - Left Thalamus,Visuospatial - Right Frontal Operculum, Inferior Frontal Gyrus,Sensorimotor - Bilateral Lobule IV, Lobule V, Lobule VI,123
+Sensorimotor - Right Thalamus,Visuospatial - Left Inferior Temporal Gyrus,Visuospatial - Left Inferior Parietal Sulcus,123
+Visuospatial - Left Middle Frontal Gyrus, Superior Frontal Gyrus, Precentral Gyrus,Visuospatial - Right Inferior Parietal Lobule,Visuospatial - Left Frontal Operculum, Inferior Frontal Gyrus,123
+Sensorimotor - Bilateral Lobule IV, Lobule V, Lobule VI,Sensorimotor - Right Thalamus,Visuospatial - Right Middle Temporal Gyrus,123
+Visuospatial - Left Inferior Temporal Gyrus,Visuospatial - Right Inferior Parietal Lobule,Visuospatial - Right Middle Temporal Gyrus,123
+Visuospatial - Left Middle Frontal Gyrus, Superior Frontal Gyrus, Precentral Gyrus,Visuospatial - Right Middle Temporal Gyrus,Visuospatial - Left Lobule VII, Lobule VIIb,123
+Visuospatial - Right Inferior Parietal Lobule,Visuospatial - Right Lobule VIII, Lobule VIIb,Visuospatial - Left Lobule VII, Lobule VIIb,123
+Sensorimotor - Left Thalamus,Visuospatial - Left Middle Frontal Gyrus, Superior Frontal Gyrus, Precentral Gyrus,Visuospatial - Right Lobule VIII, Lobule VIIb,123
+Sensorimotor - Right Thalamus,Visuospatial - Left Inferior Temporal Gyrus,Visuospatial - Right Lobule VIII, Lobule VIIb,123
+Visuospatial - Left Inferior Temporal Gyrus,Visuospatial - Right Inferior Parietal Lobule,Visuospatial - Right Lobule VIII, Lobule VIIb,123
+Visuospatial - Right Middle Frontal Gyrus,Visuospatial - Right Middle Temporal Gyrus,Visuospatial - Right Lobule VI, Crus I,123
+Sensorimotor - Right Thalamus,Visuospatial - Left Lobule VII, Lobule VIIb,Visuospatial - Right Lobule VI, Crus I,123
+Sensorimotor - Left Precentral Gyrus, Postcentral Gyrus,Visuospatial - Left Inferior Temporal Gyrus,Sensorimotor - Right Precentral Gyrus, Postcentral Gyrus,122
+Sensorimotor - Right Precentral Gyrus, Postcentral Gyrus,Visuospatial - Right Middle Temporal Gyrus,Sensorimotor - Right Supplementary Motor Area,122
+Sensorimotor - Left Precentral Gyrus, Postcentral Gyrus,Visuospatial - Right Middle Temporal Gyrus,Sensorimotor - Bilateral Lobule IV, Lobule V, Lobule VI,122
+Sensorimotor - Left Thalamus,Visuospatial - Right Middle Frontal Gyrus,Visuospatial - Left Inferior Parietal Sulcus,122
+Sensorimotor - Left Precentral Gyrus, Postcentral Gyrus,Sensorimotor - Left Thalamus,Visuospatial - Left Frontal Operculum, Inferior Frontal Gyrus,122
+Sensorimotor - Right Supplementary Motor Area,Visuospatial - Right Frontal Operculum, Inferior Frontal Gyrus,Visuospatial - Right Inferior Parietal Lobule,122
+Visuospatial - Left Inferior Temporal Gyrus,Visuospatial - Right Lobule VI, Crus I,Visuospatial - Right Frontal Operculum, Inferior Frontal Gyrus,122
+Sensorimotor - Bilateral Lobule IV, Lobule V, Lobule VI,Visuospatial - Left Frontal Operculum, Inferior Frontal Gyrus,Visuospatial - Right Middle Temporal Gyrus,122
+Sensorimotor - Bilateral Lobule IV, Lobule V, Lobule VI,Visuospatial - Right Inferior Parietal Lobule,Visuospatial - Right Middle Temporal Gyrus,122
+Sensorimotor - Left Precentral Gyrus, Postcentral Gyrus,Visuospatial - Left Inferior Temporal Gyrus,Visuospatial - Left Lobule VII, Lobule VIIb,122
+Sensorimotor - Right Thalamus,Visuospatial - Right Inferior Parietal Lobule,Visuospatial - Left Lobule VII, Lobule VIIb,122
+Visuospatial - Left Middle Frontal Gyrus, Superior Frontal Gyrus, Precentral Gyrus,Visuospatial - Right Lobule VIII, Lobule VIIb,Visuospatial - Left Lobule VII, Lobule VIIb,122
+Sensorimotor - Right Precentral Gyrus, Postcentral Gyrus,Visuospatial - Left Middle Frontal Gyrus, Superior Frontal Gyrus, Precentral Gyrus,Visuospatial - Right Lobule VIII, Lobule VIIb,122
+Sensorimotor - Right Thalamus,Visuospatial - Right Middle Frontal Gyrus,Visuospatial - Right Lobule VI, Crus I,122
+Sensorimotor - Left Thalamus,Visuospatial - Right Inferior Parietal Lobule,Visuospatial - Right Lobule VI, Crus I,122
+Visuospatial - Left Inferior Parietal Sulcus,Visuospatial - Right Middle Temporal Gyrus,Visuospatial - Right Lobule VI, Crus I,122
+Visuospatial - Right Frontal Operculum, Inferior Frontal Gyrus,Visuospatial - Left Lobule VII, Lobule VIIb,Visuospatial - Right Lobule VI, Crus I,122
+Sensorimotor - Left Precentral Gyrus, Postcentral Gyrus,Visuospatial - Right Middle Temporal Gyrus,Sensorimotor - Right Supplementary Motor Area,121
+Sensorimotor - Right Supplementary Motor Area,Visuospatial - Right Middle Frontal Gyrus,Sensorimotor - Left Thalamus,121
+Sensorimotor - Bilateral Lobule IV, Lobule V, Lobule VI,Visuospatial - Right Frontal Operculum, Inferior Frontal Gyrus,Visuospatial - Left Middle Frontal Gyrus, Superior Frontal Gyrus, Precentral Gyrus,121
+Visuospatial - Left Middle Frontal Gyrus, Superior Frontal Gyrus, Precentral Gyrus,Visuospatial - Left Inferior Parietal Sulcus,Visuospatial - Left Frontal Operculum, Inferior Frontal Gyrus,121
+Sensorimotor - Left Thalamus,Visuospatial - Right Frontal Operculum, Inferior Frontal Gyrus,Visuospatial - Right Middle Frontal Gyrus,121
+Sensorimotor - Left Precentral Gyrus, Postcentral Gyrus,Sensorimotor - Left Thalamus,Visuospatial - Right Frontal Operculum, Inferior Frontal Gyrus,121
+Visuospatial - Left Middle Frontal Gyrus, Superior Frontal Gyrus, Precentral Gyrus,Visuospatial - Right Lobule VIII, Lobule VIIb,Visuospatial - Right Frontal Operculum, Inferior Frontal Gyrus,121
+Sensorimotor - Left Precentral Gyrus, Postcentral Gyrus,Visuospatial - Left Inferior Parietal Sulcus,Visuospatial - Right Middle Temporal Gyrus,121
+Sensorimotor - Right Thalamus,Visuospatial - Left Middle Frontal Gyrus, Superior Frontal Gyrus, Precentral Gyrus,Visuospatial - Right Lobule VIII, Lobule VIIb,121
+Sensorimotor - Right Supplementary Motor Area,Visuospatial - Left Inferior Temporal Gyrus,Visuospatial - Right Lobule VIII, Lobule VIIb,121
+Visuospatial - Left Frontal Operculum, Inferior Frontal Gyrus,Visuospatial - Right Middle Temporal Gyrus,Visuospatial - Right Lobule VIII, Lobule VIIb,121
+Sensorimotor - Left Precentral Gyrus, Postcentral Gyrus,Visuospatial - Left Middle Frontal Gyrus, Superior Frontal Gyrus, Precentral Gyrus,Visuospatial - Right Lobule VI, Crus I,121
+Sensorimotor - Right Thalamus,Visuospatial - Left Inferior Parietal Sulcus,Visuospatial - Right Lobule VI, Crus I,121
+Sensorimotor - Left Thalamus,Visuospatial - Right Middle Temporal Gyrus,Visuospatial - Right Lobule VI, Crus I,121
+Visuospatial - Left Middle Frontal Gyrus, Superior Frontal Gyrus, Precentral Gyrus,Visuospatial - Left Lobule VII, Lobule VIIb,Visuospatial - Right Lobule VI, Crus I,121
+Visuospatial - Left Inferior Parietal Sulcus,Visuospatial - Left Lobule VII, Lobule VIIb,Visuospatial - Right Lobule VI, Crus I,121
+Sensorimotor - Left Precentral Gyrus, Postcentral Gyrus,Sensorimotor - Bilateral Lobule IV, Lobule V, Lobule VI,Sensorimotor - Right Precentral Gyrus, Postcentral Gyrus,120
+Sensorimotor - Left Precentral Gyrus, Postcentral Gyrus,Sensorimotor - Bilateral Lobule IV, Lobule V, Lobule VI,Sensorimotor - Left Thalamus,120
+Sensorimotor - Right Precentral Gyrus, Postcentral Gyrus,Visuospatial - Right Middle Temporal Gyrus,Sensorimotor - Left Thalamus,120
+Sensorimotor - Right Supplementary Motor Area,Visuospatial - Right Middle Frontal Gyrus,Sensorimotor - Bilateral Lobule IV, Lobule V, Lobule VI,120
+Sensorimotor - Left Precentral Gyrus, Postcentral Gyrus,Visuospatial - Left Inferior Parietal Sulcus,Sensorimotor - Right Thalamus,120
+Sensorimotor - Bilateral Lobule IV, Lobule V, Lobule VI,Sensorimotor - Right Thalamus,Visuospatial - Left Inferior Parietal Sulcus,120
+Sensorimotor - Left Precentral Gyrus, Postcentral Gyrus,Visuospatial - Right Middle Temporal Gyrus,Visuospatial - Right Frontal Operculum, Inferior Frontal Gyrus,120
+Visuospatial - Left Middle Frontal Gyrus, Superior Frontal Gyrus, Precentral Gyrus,Visuospatial - Right Lobule VI, Crus I,Visuospatial - Right Frontal Operculum, Inferior Frontal Gyrus,120
+Sensorimotor - Left Thalamus,Visuospatial - Left Frontal Operculum, Inferior Frontal Gyrus,Visuospatial - Right Middle Temporal Gyrus,120
+Sensorimotor - Right Thalamus,Visuospatial - Left Inferior Temporal Gyrus,Visuospatial - Right Middle Temporal Gyrus,120
+Sensorimotor - Bilateral Lobule IV, Lobule V, Lobule VI,Visuospatial - Right Frontal Operculum, Inferior Frontal Gyrus,Visuospatial - Right Middle Temporal Gyrus,120
+Visuospatial - Right Frontal Operculum, Inferior Frontal Gyrus,Visuospatial - Right Lobule VIII, Lobule VIIb,Visuospatial - Left Lobule VII, Lobule VIIb,120
+Sensorimotor - Right Supplementary Motor Area,Visuospatial - Right Middle Temporal Gyrus,Visuospatial - Right Lobule VIII, Lobule VIIb,120
+Sensorimotor - Left Thalamus,Sensorimotor - Bilateral Lobule IV, Lobule V, Lobule VI,Visuospatial - Right Lobule VI, Crus I,120
+Visuospatial - Left Inferior Temporal Gyrus,Visuospatial - Right Middle Temporal Gyrus,Visuospatial - Right Lobule VI, Crus I,120
+Sensorimotor - Right Precentral Gyrus, Postcentral Gyrus,Visuospatial - Left Lobule VII, Lobule VIIb,Visuospatial - Right Lobule VI, Crus I,120

@@ -1,10 +1,10 @@
-!mv refine_cyclicity_output.mat refine_cyclicity_output_n12.mat
-load refine_cyclicity_output_n12
+!mv refine_cyclicity_output.mat refine_cyclicity_output_FIND_n5.mat
+load refine_cyclicity_output_FIND_n5
 for i = 1:3
 figure(1)
 subplot(1,3,i)
 perm = [out_perm{:,i}];
-hist(perm(:),(1:33));
+hist(perm(:),(1:max(cell2mat(out_perm(:)))));
 title(['Group ',num2str(i)])
 axis('tight')
 xlabel('roi')

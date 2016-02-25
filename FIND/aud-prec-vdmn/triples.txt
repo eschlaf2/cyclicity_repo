@@ -1,0 +1,323 @@
+/Users/emilyschlafly/Work/cyclicity_repo/FIND/aud-prec-vdmn
+Total subjects: 200
+ventral_DMN - Left Parahippocampal Gyrus,ventral_DMN - Left Middle Occipital Gyrus,ventral_DMN - Precuneus,167
+ventral_DMN - Left Middle Occipital Gyrus,ventral_DMN - Precuneus,ventral_DMN - Right Parahippocampal Gyrus,163
+ventral_DMN - Left Middle Frontal Gyrus,ventral_DMN - Precuneus,ventral_DMN - Left Parahippocampal Gyrus,161
+Precuneus - Midcingulate Cortex, Posterior Cingulate Cortex,ventral_DMN - Right Parahippocampal Gyrus,ventral_DMN - Left Middle Occipital Gyrus,161
+Precuneus - Midcingulate Cortex, Posterior Cingulate Cortex,ventral_DMN - Left Parahippocampal Gyrus,ventral_DMN - Left Middle Occipital Gyrus,159
+Precuneus - Precuneus,ventral_DMN - Left Parahippocampal Gyrus,ventral_DMN - Right Retrosplenial Cortex, Posterior Cingulate Cortex,157
+ventral_DMN - Left Parahippocampal Gyrus,ventral_DMN - Right Retrosplenial Cortex, Posterior Cingulate Cortex,ventral_DMN - Precuneus,157
+Auditory - Left Superior Temporal Gyrus, Heschl's Gyrus,ventral_DMN - Left Middle Occipital Gyrus,Precuneus - Midcingulate Cortex, Posterior Cingulate Cortex,154
+ventral_DMN - Left Parahippocampal Gyrus,ventral_DMN - Right Angular Gyrus, Middle Occipital Gyrus,ventral_DMN - Precuneus,154
+ventral_DMN - Precuneus,ventral_DMN - Right Parahippocampal Gyrus,ventral_DMN - Right Angular Gyrus, Middle Occipital Gyrus,154
+Precuneus - Precuneus,ventral_DMN - Left Parahippocampal Gyrus,ventral_DMN - Left Middle Occipital Gyrus,153
+Precuneus - Precuneus,ventral_DMN - Right Parahippocampal Gyrus,ventral_DMN - Left Middle Occipital Gyrus,153
+Auditory - Left Superior Temporal Gyrus, Heschl's Gyrus,ventral_DMN - Left Middle Occipital Gyrus,ventral_DMN - Precuneus,153
+Precuneus - Midcingulate Cortex, Posterior Cingulate Cortex,ventral_DMN - Right Parahippocampal Gyrus,ventral_DMN - Right Angular Gyrus, Middle Occipital Gyrus,152
+ventral_DMN - Left Retrosplenial Cortex, Posterior Cingulate Cortex,ventral_DMN - Precuneus,ventral_DMN - Left Parahippocampal Gyrus,151
+ventral_DMN - Left Retrosplenial Cortex, Posterior Cingulate Cortex,ventral_DMN - Left Middle Occipital Gyrus,ventral_DMN - Precuneus,151
+ventral_DMN - Left Middle Frontal Gyrus,ventral_DMN - Precuneus,ventral_DMN - Right Parahippocampal Gyrus,151
+Precuneus - Midcingulate Cortex, Posterior Cingulate Cortex,ventral_DMN - Left Parahippocampal Gyrus,ventral_DMN - Left Retrosplenial Cortex, Posterior Cingulate Cortex,150
+ventral_DMN - Left Middle Frontal Gyrus,ventral_DMN - Right Lobule IX,ventral_DMN - Left Parahippocampal Gyrus,150
+Precuneus - Right Angular Gyrus,ventral_DMN - Left Parahippocampal Gyrus,ventral_DMN - Right Retrosplenial Cortex, Posterior Cingulate Cortex,150
+Precuneus - Midcingulate Cortex, Posterior Cingulate Cortex,ventral_DMN - Right Parahippocampal Gyrus,ventral_DMN - Right Superior Frontal Gyrus, Middle Frontal Gyrus,150
+Precuneus - Midcingulate Cortex, Posterior Cingulate Cortex,ventral_DMN - Right Retrosplenial Cortex, Posterior Cingulate Cortex,Precuneus - Precuneus,149
+Precuneus - Midcingulate Cortex, Posterior Cingulate Cortex,ventral_DMN - Right Parahippocampal Gyrus,Precuneus - Left Angular Gyrus,149
+Precuneus - Precuneus,ventral_DMN - Left Parahippocampal Gyrus,ventral_DMN - Left Retrosplenial Cortex, Posterior Cingulate Cortex,149
+Precuneus - Midcingulate Cortex, Posterior Cingulate Cortex,ventral_DMN - Left Parahippocampal Gyrus,ventral_DMN - Left Middle Frontal Gyrus,149
+Precuneus - Midcingulate Cortex, Posterior Cingulate Cortex,ventral_DMN - Left Parahippocampal Gyrus,ventral_DMN - Right Retrosplenial Cortex, Posterior Cingulate Cortex,149
+Auditory - Right Superior Temporal Gyrus,ventral_DMN - Left Middle Occipital Gyrus,ventral_DMN - Precuneus,149
+ventral_DMN - Left Parahippocampal Gyrus,ventral_DMN - Left Middle Occipital Gyrus,ventral_DMN - Right Lobule IX,149
+ventral_DMN - Left Parahippocampal Gyrus,ventral_DMN - Right Retrosplenial Cortex, Posterior Cingulate Cortex,ventral_DMN - Right Lobule IX,149
+Auditory - Left Superior Temporal Gyrus, Heschl's Gyrus,ventral_DMN - Left Middle Occipital Gyrus,Precuneus - Precuneus,147
+Precuneus - Midcingulate Cortex, Posterior Cingulate Cortex,ventral_DMN - Left Parahippocampal Gyrus,Precuneus - Left Angular Gyrus,147
+Precuneus - Precuneus,ventral_DMN - Right Parahippocampal Gyrus,ventral_DMN - Right Retrosplenial Cortex, Posterior Cingulate Cortex,147
+ventral_DMN - Left Parahippocampal Gyrus,ventral_DMN - Right Superior Frontal Gyrus, Middle Frontal Gyrus,ventral_DMN - Precuneus,147
+ventral_DMN - Left Parahippocampal Gyrus,ventral_DMN - Right Angular Gyrus, Middle Occipital Gyrus,ventral_DMN - Right Lobule IX,147
+ventral_DMN - Right Parahippocampal Gyrus,ventral_DMN - Right Angular Gyrus, Middle Occipital Gyrus,ventral_DMN - Right Lobule IX,147
+Auditory - Left Superior Temporal Gyrus, Heschl's Gyrus,ventral_DMN - Right Retrosplenial Cortex, Posterior Cingulate Cortex,Precuneus - Precuneus,146
+Precuneus - Midcingulate Cortex, Posterior Cingulate Cortex,ventral_DMN - Left Parahippocampal Gyrus,ventral_DMN - Right Superior Frontal Gyrus, Middle Frontal Gyrus,146
+Precuneus - Midcingulate Cortex, Posterior Cingulate Cortex,ventral_DMN - Left Parahippocampal Gyrus,ventral_DMN - Right Angular Gyrus, Middle Occipital Gyrus,146
+Precuneus - Midcingulate Cortex, Posterior Cingulate Cortex,ventral_DMN - Right Parahippocampal Gyrus,ventral_DMN - Left Middle Frontal Gyrus,145
+Precuneus - Left Angular Gyrus,ventral_DMN - Left Parahippocampal Gyrus,ventral_DMN - Right Retrosplenial Cortex, Posterior Cingulate Cortex,145
+Auditory - Right Superior Temporal Gyrus,ventral_DMN - Left Middle Frontal Gyrus,ventral_DMN - Precuneus,145
+ventral_DMN - Precuneus,ventral_DMN - Right Parahippocampal Gyrus,ventral_DMN - Right Superior Frontal Gyrus, Middle Frontal Gyrus,145
+ventral_DMN - Left Middle Occipital Gyrus,ventral_DMN - Right Lobule IX,ventral_DMN - Right Parahippocampal Gyrus,145
+Precuneus - Right Angular Gyrus,ventral_DMN - Left Parahippocampal Gyrus,ventral_DMN - Left Retrosplenial Cortex, Posterior Cingulate Cortex,144
+Precuneus - Midcingulate Cortex, Posterior Cingulate Cortex,ventral_DMN - Left Retrosplenial Cortex, Posterior Cingulate Cortex,ventral_DMN - Left Middle Occipital Gyrus,144
+ventral_DMN - Left Retrosplenial Cortex, Posterior Cingulate Cortex,ventral_DMN - Right Angular Gyrus, Middle Occipital Gyrus,ventral_DMN - Right Lobule IX,144
+Auditory - Left Superior Temporal Gyrus, Heschl's Gyrus,Precuneus - Left Angular Gyrus,Precuneus - Midcingulate Cortex, Posterior Cingulate Cortex,143
+Precuneus - Midcingulate Cortex, Posterior Cingulate Cortex,ventral_DMN - Right Parahippocampal Gyrus,Precuneus - Precuneus,143
+Precuneus - Midcingulate Cortex, Posterior Cingulate Cortex,ventral_DMN - Right Retrosplenial Cortex, Posterior Cingulate Cortex,Precuneus - Left Angular Gyrus,143
+Precuneus - Midcingulate Cortex, Posterior Cingulate Cortex,ventral_DMN - Right Parahippocampal Gyrus,ventral_DMN - Left Retrosplenial Cortex, Posterior Cingulate Cortex,143
+Precuneus - Midcingulate Cortex, Posterior Cingulate Cortex,ventral_DMN - Right Retrosplenial Cortex, Posterior Cingulate Cortex,ventral_DMN - Left Middle Occipital Gyrus,143
+ventral_DMN - Left Middle Occipital Gyrus,ventral_DMN - Precuneus,ventral_DMN - Right Retrosplenial Cortex, Posterior Cingulate Cortex,143
+ventral_DMN - Right Retrosplenial Cortex, Posterior Cingulate Cortex,ventral_DMN - Precuneus,ventral_DMN - Right Parahippocampal Gyrus,143
+Auditory - Left Superior Temporal Gyrus, Heschl's Gyrus,Precuneus - Precuneus,Precuneus - Midcingulate Cortex, Posterior Cingulate Cortex,142
+Auditory - Right Superior Temporal Gyrus,ventral_DMN - Left Middle Occipital Gyrus,Precuneus - Midcingulate Cortex, Posterior Cingulate Cortex,142
+Precuneus - Precuneus,ventral_DMN - Left Parahippocampal Gyrus,ventral_DMN - Left Middle Frontal Gyrus,142
+Precuneus - Right Angular Gyrus,ventral_DMN - Left Parahippocampal Gyrus,ventral_DMN - Left Middle Frontal Gyrus,142
+ventral_DMN - Left Retrosplenial Cortex, Posterior Cingulate Cortex,ventral_DMN - Right Lobule IX,ventral_DMN - Left Parahippocampal Gyrus,142
+Auditory - Right Superior Temporal Gyrus,ventral_DMN - Right Angular Gyrus, Middle Occipital Gyrus,ventral_DMN - Precuneus,142
+ventral_DMN - Left Retrosplenial Cortex, Posterior Cingulate Cortex,ventral_DMN - Right Angular Gyrus, Middle Occipital Gyrus,ventral_DMN - Precuneus,142
+ventral_DMN - Left Retrosplenial Cortex, Posterior Cingulate Cortex,ventral_DMN - Left Middle Occipital Gyrus,ventral_DMN - Right Lobule IX,142
+Auditory - Right Superior Temporal Gyrus,Precuneus - Precuneus,Precuneus - Midcingulate Cortex, Posterior Cingulate Cortex,141
+Auditory - Left Superior Temporal Gyrus, Heschl's Gyrus,ventral_DMN - Right Superior Frontal Gyrus, Middle Frontal Gyrus,Precuneus - Midcingulate Cortex, Posterior Cingulate Cortex,141
+Auditory - Right Superior Temporal Gyrus,ventral_DMN - Right Superior Frontal Gyrus, Middle Frontal Gyrus,Precuneus - Midcingulate Cortex, Posterior Cingulate Cortex,141
+Precuneus - Midcingulate Cortex, Posterior Cingulate Cortex,ventral_DMN - Left Parahippocampal Gyrus,Precuneus - Precuneus,141
+Auditory - Right Superior Temporal Gyrus,ventral_DMN - Right Retrosplenial Cortex, Posterior Cingulate Cortex,Precuneus - Precuneus,141
+Precuneus - Left Angular Gyrus,ventral_DMN - Left Parahippocampal Gyrus,ventral_DMN - Left Retrosplenial Cortex, Posterior Cingulate Cortex,141
+Precuneus - Left Angular Gyrus,ventral_DMN - Precuneus,ventral_DMN - Left Parahippocampal Gyrus,141
+Precuneus - Midcingulate Cortex, Posterior Cingulate Cortex,ventral_DMN - Right Parahippocampal Gyrus,ventral_DMN - Right Retrosplenial Cortex, Posterior Cingulate Cortex,141
+Precuneus - Midcingulate Cortex, Posterior Cingulate Cortex,ventral_DMN - Left Middle Frontal Gyrus,ventral_DMN - Precuneus,141
+Auditory - Right Thalamus,ventral_DMN - Left Middle Occipital Gyrus,ventral_DMN - Precuneus,141
+Auditory - Right Superior Temporal Gyrus,ventral_DMN - Right Superior Frontal Gyrus, Middle Frontal Gyrus,ventral_DMN - Precuneus,141
+Auditory - Right Superior Temporal Gyrus,Precuneus - Left Angular Gyrus,Precuneus - Midcingulate Cortex, Posterior Cingulate Cortex,140
+Precuneus - Midcingulate Cortex, Posterior Cingulate Cortex,ventral_DMN - Left Retrosplenial Cortex, Posterior Cingulate Cortex,Precuneus - Precuneus,140
+Auditory - Left Superior Temporal Gyrus, Heschl's Gyrus,ventral_DMN - Right Retrosplenial Cortex, Posterior Cingulate Cortex,Precuneus - Right Angular Gyrus,140
+Precuneus - Midcingulate Cortex, Posterior Cingulate Cortex,ventral_DMN - Right Parahippocampal Gyrus,Precuneus - Right Angular Gyrus,140
+Precuneus - Precuneus,ventral_DMN - Right Parahippocampal Gyrus,ventral_DMN - Left Retrosplenial Cortex, Posterior Cingulate Cortex,140
+Auditory - Left Superior Temporal Gyrus, Heschl's Gyrus,ventral_DMN - Left Middle Frontal Gyrus,ventral_DMN - Precuneus,140
+Auditory - Right Superior Temporal Gyrus,ventral_DMN - Right Retrosplenial Cortex, Posterior Cingulate Cortex,ventral_DMN - Precuneus,140
+ventral_DMN - Left Middle Frontal Gyrus,ventral_DMN - Right Lobule IX,ventral_DMN - Right Parahippocampal Gyrus,140
+ventral_DMN - Left Parahippocampal Gyrus,ventral_DMN - Right Retrosplenial Cortex, Posterior Cingulate Cortex,ventral_DMN - Right Angular Gyrus, Middle Occipital Gyrus,140
+Auditory - Left Superior Temporal Gyrus, Heschl's Gyrus,ventral_DMN - Left Middle Occipital Gyrus,ventral_DMN - Right Lobule IX,140
+ventral_DMN - Left Parahippocampal Gyrus,ventral_DMN - Right Superior Frontal Gyrus, Middle Frontal Gyrus,ventral_DMN - Right Lobule IX,140
+Auditory - Left Superior Temporal Gyrus, Heschl's Gyrus,ventral_DMN - Right Retrosplenial Cortex, Posterior Cingulate Cortex,Precuneus - Midcingulate Cortex, Posterior Cingulate Cortex,139
+Auditory - Left Superior Temporal Gyrus, Heschl's Gyrus,ventral_DMN - Right Angular Gyrus, Middle Occipital Gyrus,Precuneus - Midcingulate Cortex, Posterior Cingulate Cortex,139
+Auditory - Left Superior Temporal Gyrus, Heschl's Gyrus,ventral_DMN - Right Retrosplenial Cortex, Posterior Cingulate Cortex,Precuneus - Left Angular Gyrus,139
+Auditory - Right Superior Temporal Gyrus,ventral_DMN - Right Retrosplenial Cortex, Posterior Cingulate Cortex,Precuneus - Right Angular Gyrus,139
+ventral_DMN - Left Retrosplenial Cortex, Posterior Cingulate Cortex,ventral_DMN - Right Angular Gyrus, Middle Occipital Gyrus,ventral_DMN - Left Parahippocampal Gyrus,139
+Precuneus - Precuneus,ventral_DMN - Left Retrosplenial Cortex, Posterior Cingulate Cortex,ventral_DMN - Left Middle Occipital Gyrus,139
+Auditory - Left Superior Temporal Gyrus, Heschl's Gyrus,ventral_DMN - Precuneus,Precuneus - Midcingulate Cortex, Posterior Cingulate Cortex,138
+Precuneus - Midcingulate Cortex, Posterior Cingulate Cortex,ventral_DMN - Left Retrosplenial Cortex, Posterior Cingulate Cortex,Precuneus - Left Angular Gyrus,138
+Auditory - Right Thalamus,ventral_DMN - Left Middle Frontal Gyrus,ventral_DMN - Precuneus,138
+Auditory - Left Superior Temporal Gyrus, Heschl's Gyrus,ventral_DMN - Right Retrosplenial Cortex, Posterior Cingulate Cortex,ventral_DMN - Precuneus,138
+Auditory - Left Superior Temporal Gyrus, Heschl's Gyrus,ventral_DMN - Right Angular Gyrus, Middle Occipital Gyrus,ventral_DMN - Precuneus,138
+ventral_DMN - Left Retrosplenial Cortex, Posterior Cingulate Cortex,ventral_DMN - Precuneus,ventral_DMN - Right Parahippocampal Gyrus,138
+ventral_DMN - Right Superior Frontal Gyrus, Middle Frontal Gyrus,ventral_DMN - Right Lobule IX,ventral_DMN - Right Parahippocampal Gyrus,138
+Precuneus - Precuneus,ventral_DMN - Right Parahippocampal Gyrus,ventral_DMN - Right Angular Gyrus, Middle Occipital Gyrus,138
+ventral_DMN - Right Retrosplenial Cortex, Posterior Cingulate Cortex,ventral_DMN - Right Angular Gyrus, Middle Occipital Gyrus,ventral_DMN - Right Lobule IX,138
+Auditory - Left Superior Temporal Gyrus, Heschl's Gyrus,ventral_DMN - Left Middle Frontal Gyrus,Precuneus - Midcingulate Cortex, Posterior Cingulate Cortex,137
+Precuneus - Right Angular Gyrus,ventral_DMN - Right Parahippocampal Gyrus,ventral_DMN - Right Retrosplenial Cortex, Posterior Cingulate Cortex,137
+Precuneus - Midcingulate Cortex, Posterior Cingulate Cortex,ventral_DMN - Left Middle Occipital Gyrus,ventral_DMN - Precuneus,137
+Precuneus - Midcingulate Cortex, Posterior Cingulate Cortex,ventral_DMN - Right Retrosplenial Cortex, Posterior Cingulate Cortex,ventral_DMN - Precuneus,137
+Precuneus - Midcingulate Cortex, Posterior Cingulate Cortex,ventral_DMN - Right Angular Gyrus, Middle Occipital Gyrus,ventral_DMN - Precuneus,137
+ventral_DMN - Right Retrosplenial Cortex, Posterior Cingulate Cortex,ventral_DMN - Right Angular Gyrus, Middle Occipital Gyrus,ventral_DMN - Precuneus,137
+Precuneus - Left Angular Gyrus,ventral_DMN - Precuneus,ventral_DMN - Right Parahippocampal Gyrus,137
+Auditory - Left Superior Temporal Gyrus, Heschl's Gyrus,ventral_DMN - Right Retrosplenial Cortex, Posterior Cingulate Cortex,ventral_DMN - Right Angular Gyrus, Middle Occipital Gyrus,137
+Precuneus - Midcingulate Cortex, Posterior Cingulate Cortex,ventral_DMN - Right Retrosplenial Cortex, Posterior Cingulate Cortex,ventral_DMN - Right Angular Gyrus, Middle Occipital Gyrus,137
+Auditory - Right Superior Temporal Gyrus,ventral_DMN - Left Middle Occipital Gyrus,Precuneus - Precuneus,136
+Auditory - Right Superior Temporal Gyrus,ventral_DMN - Right Retrosplenial Cortex, Posterior Cingulate Cortex,Precuneus - Left Angular Gyrus,136
+Precuneus - Midcingulate Cortex, Posterior Cingulate Cortex,ventral_DMN - Right Retrosplenial Cortex, Posterior Cingulate Cortex,Precuneus - Right Angular Gyrus,136
+Precuneus - Precuneus,ventral_DMN - Right Parahippocampal Gyrus,ventral_DMN - Left Middle Frontal Gyrus,136
+Precuneus - Precuneus,ventral_DMN - Right Parahippocampal Gyrus,ventral_DMN - Right Superior Frontal Gyrus, Middle Frontal Gyrus,136
+Auditory - Left Superior Temporal Gyrus, Heschl's Gyrus,ventral_DMN - Right Angular Gyrus, Middle Occipital Gyrus,ventral_DMN - Right Lobule IX,136
+Auditory - Right Superior Temporal Gyrus,ventral_DMN - Right Angular Gyrus, Middle Occipital Gyrus,ventral_DMN - Right Lobule IX,136
+Auditory - Left Superior Temporal Gyrus, Heschl's Gyrus,Precuneus - Right Angular Gyrus,Precuneus - Midcingulate Cortex, Posterior Cingulate Cortex,135
+Auditory - Right Superior Temporal Gyrus,ventral_DMN - Right Angular Gyrus, Middle Occipital Gyrus,Precuneus - Midcingulate Cortex, Posterior Cingulate Cortex,135
+Precuneus - Midcingulate Cortex, Posterior Cingulate Cortex,ventral_DMN - Left Middle Occipital Gyrus,Precuneus - Precuneus,135
+Precuneus - Midcingulate Cortex, Posterior Cingulate Cortex,ventral_DMN - Left Parahippocampal Gyrus,Precuneus - Right Angular Gyrus,135
+Precuneus - Left Angular Gyrus,ventral_DMN - Left Parahippocampal Gyrus,ventral_DMN - Left Middle Frontal Gyrus,135
+ventral_DMN - Left Retrosplenial Cortex, Posterior Cingulate Cortex,ventral_DMN - Left Middle Occipital Gyrus,ventral_DMN - Left Parahippocampal Gyrus,135
+Precuneus - Right Angular Gyrus,ventral_DMN - Left Parahippocampal Gyrus,ventral_DMN - Left Middle Occipital Gyrus,135
+Precuneus - Left Angular Gyrus,ventral_DMN - Right Parahippocampal Gyrus,ventral_DMN - Right Retrosplenial Cortex, Posterior Cingulate Cortex,135
+Precuneus - Midcingulate Cortex, Posterior Cingulate Cortex,ventral_DMN - Right Parahippocampal Gyrus,ventral_DMN - Precuneus,135
+ventral_DMN - Right Retrosplenial Cortex, Posterior Cingulate Cortex,ventral_DMN - Right Lobule IX,ventral_DMN - Right Parahippocampal Gyrus,135
+Precuneus - Midcingulate Cortex, Posterior Cingulate Cortex,ventral_DMN - Left Retrosplenial Cortex, Posterior Cingulate Cortex,ventral_DMN - Right Angular Gyrus, Middle Occipital Gyrus,135
+Auditory - Right Superior Temporal Gyrus,ventral_DMN - Right Retrosplenial Cortex, Posterior Cingulate Cortex,ventral_DMN - Right Angular Gyrus, Middle Occipital Gyrus,135
+Auditory - Right Superior Temporal Gyrus,ventral_DMN - Left Middle Frontal Gyrus,ventral_DMN - Right Lobule IX,135
+Auditory - Left Superior Temporal Gyrus, Heschl's Gyrus,ventral_DMN - Right Retrosplenial Cortex, Posterior Cingulate Cortex,ventral_DMN - Right Lobule IX,135
+Auditory - Right Superior Temporal Gyrus,ventral_DMN - Right Superior Frontal Gyrus, Middle Frontal Gyrus,ventral_DMN - Right Lobule IX,135
+Auditory - Right Superior Temporal Gyrus,ventral_DMN - Left Middle Frontal Gyrus,Precuneus - Midcingulate Cortex, Posterior Cingulate Cortex,134
+Precuneus - Midcingulate Cortex, Posterior Cingulate Cortex,ventral_DMN - Left Middle Frontal Gyrus,Precuneus - Precuneus,134
+Auditory - Right Superior Temporal Gyrus,ventral_DMN - Right Superior Frontal Gyrus, Middle Frontal Gyrus,Precuneus - Right Angular Gyrus,134
+Auditory - Right Thalamus,ventral_DMN - Left Parahippocampal Gyrus,ventral_DMN - Left Retrosplenial Cortex, Posterior Cingulate Cortex,134
+Auditory - Right Superior Temporal Gyrus,ventral_DMN - Right Retrosplenial Cortex, Posterior Cingulate Cortex,ventral_DMN - Left Middle Occipital Gyrus,134
+Auditory - Right Thalamus,ventral_DMN - Right Angular Gyrus, Middle Occipital Gyrus,ventral_DMN - Precuneus,134
+Precuneus - Precuneus,ventral_DMN - Left Parahippocampal Gyrus,ventral_DMN - Right Superior Frontal Gyrus, Middle Frontal Gyrus,134
+Precuneus - Right Angular Gyrus,ventral_DMN - Left Parahippocampal Gyrus,ventral_DMN - Right Superior Frontal Gyrus, Middle Frontal Gyrus,134
+Precuneus - Precuneus,ventral_DMN - Left Parahippocampal Gyrus,ventral_DMN - Right Angular Gyrus, Middle Occipital Gyrus,134
+Auditory - Left Superior Temporal Gyrus, Heschl's Gyrus,ventral_DMN - Left Middle Frontal Gyrus,ventral_DMN - Right Lobule IX,134
+Auditory - Right Superior Temporal Gyrus,ventral_DMN - Right Retrosplenial Cortex, Posterior Cingulate Cortex,Precuneus - Midcingulate Cortex, Posterior Cingulate Cortex,133
+Precuneus - Midcingulate Cortex, Posterior Cingulate Cortex,ventral_DMN - Left Middle Frontal Gyrus,Precuneus - Left Angular Gyrus,133
+Precuneus - Right Angular Gyrus,ventral_DMN - Right Parahippocampal Gyrus,ventral_DMN - Left Middle Frontal Gyrus,133
+Precuneus - Left Angular Gyrus,ventral_DMN - Right Lobule IX,ventral_DMN - Left Parahippocampal Gyrus,133
+ventral_DMN - Left Parahippocampal Gyrus,ventral_DMN - Right Retrosplenial Cortex, Posterior Cingulate Cortex,ventral_DMN - Left Middle Occipital Gyrus,133
+ventral_DMN - Left Middle Occipital Gyrus,ventral_DMN - Right Lobule IX,ventral_DMN - Right Retrosplenial Cortex, Posterior Cingulate Cortex,133
+Auditory - Right Superior Temporal Gyrus,Precuneus - Left Angular Gyrus,ventral_DMN - Precuneus,133
+ventral_DMN - Left Retrosplenial Cortex, Posterior Cingulate Cortex,ventral_DMN - Left Middle Frontal Gyrus,ventral_DMN - Precuneus,133
+Auditory - Left Superior Temporal Gyrus, Heschl's Gyrus,ventral_DMN - Right Superior Frontal Gyrus, Middle Frontal Gyrus,ventral_DMN - Precuneus,133
+Precuneus - Right Angular Gyrus,ventral_DMN - Right Parahippocampal Gyrus,ventral_DMN - Right Superior Frontal Gyrus, Middle Frontal Gyrus,133
+Auditory - Right Superior Temporal Gyrus,ventral_DMN - Right Retrosplenial Cortex, Posterior Cingulate Cortex,ventral_DMN - Right Lobule IX,133
+Auditory - Right Thalamus,Precuneus - Precuneus,Precuneus - Midcingulate Cortex, Posterior Cingulate Cortex,132
+Auditory - Right Superior Temporal Gyrus,ventral_DMN - Left Middle Frontal Gyrus,Precuneus - Right Angular Gyrus,132
+Precuneus - Left Angular Gyrus,ventral_DMN - Right Parahippocampal Gyrus,ventral_DMN - Left Retrosplenial Cortex, Posterior Cingulate Cortex,132
+Precuneus - Right Angular Gyrus,ventral_DMN - Right Parahippocampal Gyrus,ventral_DMN - Left Retrosplenial Cortex, Posterior Cingulate Cortex,132
+Precuneus - Left Angular Gyrus,ventral_DMN - Right Lobule IX,ventral_DMN - Left Retrosplenial Cortex, Posterior Cingulate Cortex,132
+ventral_DMN - Left Retrosplenial Cortex, Posterior Cingulate Cortex,ventral_DMN - Right Superior Frontal Gyrus, Middle Frontal Gyrus,ventral_DMN - Left Parahippocampal Gyrus,132
+Precuneus - Right Angular Gyrus,ventral_DMN - Right Parahippocampal Gyrus,ventral_DMN - Left Middle Occipital Gyrus,132
+ventral_DMN - Left Parahippocampal Gyrus,ventral_DMN - Right Retrosplenial Cortex, Posterior Cingulate Cortex,ventral_DMN - Right Superior Frontal Gyrus, Middle Frontal Gyrus,132
+Auditory - Right Superior Temporal Gyrus,ventral_DMN - Left Middle Occipital Gyrus,ventral_DMN - Right Lobule IX,132
+Precuneus - Left Angular Gyrus,ventral_DMN - Precuneus,ventral_DMN - Left Retrosplenial Cortex, Posterior Cingulate Cortex,131
+Auditory - Right Thalamus,Precuneus - Left Angular Gyrus,ventral_DMN - Precuneus,131
+Precuneus - Right Angular Gyrus,ventral_DMN - Right Parahippocampal Gyrus,ventral_DMN - Right Angular Gyrus, Middle Occipital Gyrus,131
+ventral_DMN - Left Retrosplenial Cortex, Posterior Cingulate Cortex,ventral_DMN - Left Middle Frontal Gyrus,ventral_DMN - Right Lobule IX,131
+Auditory - Left Superior Temporal Gyrus, Heschl's Gyrus,ventral_DMN - Right Superior Frontal Gyrus, Middle Frontal Gyrus,ventral_DMN - Right Lobule IX,131
+Auditory - Right Thalamus,Precuneus - Left Angular Gyrus,Precuneus - Midcingulate Cortex, Posterior Cingulate Cortex,130
+Auditory - Right Superior Temporal Gyrus,Precuneus - Right Angular Gyrus,Precuneus - Midcingulate Cortex, Posterior Cingulate Cortex,130
+Auditory - Left Superior Temporal Gyrus, Heschl's Gyrus,ventral_DMN - Left Retrosplenial Cortex, Posterior Cingulate Cortex,Precuneus - Midcingulate Cortex, Posterior Cingulate Cortex,130
+Auditory - Right Superior Temporal Gyrus,ventral_DMN - Precuneus,Precuneus - Midcingulate Cortex, Posterior Cingulate Cortex,130
+Auditory - Left Superior Temporal Gyrus, Heschl's Gyrus,ventral_DMN - Left Middle Frontal Gyrus,Precuneus - Right Angular Gyrus,130
+Auditory - Left Superior Temporal Gyrus, Heschl's Gyrus,ventral_DMN - Left Middle Occipital Gyrus,Precuneus - Right Angular Gyrus,130
+Precuneus - Midcingulate Cortex, Posterior Cingulate Cortex,ventral_DMN - Left Retrosplenial Cortex, Posterior Cingulate Cortex,ventral_DMN - Precuneus,130
+Precuneus - Midcingulate Cortex, Posterior Cingulate Cortex,ventral_DMN - Right Superior Frontal Gyrus, Middle Frontal Gyrus,ventral_DMN - Precuneus,130
+Precuneus - Right Angular Gyrus,ventral_DMN - Left Parahippocampal Gyrus,ventral_DMN - Right Angular Gyrus, Middle Occipital Gyrus,130
+Auditory - Right Thalamus,ventral_DMN - Right Retrosplenial Cortex, Posterior Cingulate Cortex,ventral_DMN - Right Angular Gyrus, Middle Occipital Gyrus,130
+ventral_DMN - Left Middle Occipital Gyrus,ventral_DMN - Precuneus,ventral_DMN - Right Lobule IX,130
+ventral_DMN - Left Retrosplenial Cortex, Posterior Cingulate Cortex,ventral_DMN - Right Superior Frontal Gyrus, Middle Frontal Gyrus,ventral_DMN - Right Lobule IX,130
+Auditory - Left Superior Temporal Gyrus, Heschl's Gyrus,ventral_DMN - Left Middle Frontal Gyrus,Precuneus - Precuneus,129
+Auditory - Right Thalamus,ventral_DMN - Left Middle Occipital Gyrus,Precuneus - Precuneus,129
+Auditory - Right Thalamus,ventral_DMN - Right Retrosplenial Cortex, Posterior Cingulate Cortex,Precuneus - Precuneus,129
+Auditory - Right Superior Temporal Gyrus,ventral_DMN - Right Superior Frontal Gyrus, Middle Frontal Gyrus,Precuneus - Precuneus,129
+Precuneus - Midcingulate Cortex, Posterior Cingulate Cortex,ventral_DMN - Right Superior Frontal Gyrus, Middle Frontal Gyrus,Precuneus - Precuneus,129
+Precuneus - Midcingulate Cortex, Posterior Cingulate Cortex,ventral_DMN - Right Angular Gyrus, Middle Occipital Gyrus,Precuneus - Precuneus,129
+Precuneus - Midcingulate Cortex, Posterior Cingulate Cortex,ventral_DMN - Left Retrosplenial Cortex, Posterior Cingulate Cortex,Precuneus - Right Angular Gyrus,129
+Auditory - Left Superior Temporal Gyrus, Heschl's Gyrus,ventral_DMN - Right Superior Frontal Gyrus, Middle Frontal Gyrus,Precuneus - Right Angular Gyrus,129
+Precuneus - Left Angular Gyrus,ventral_DMN - Right Parahippocampal Gyrus,ventral_DMN - Left Middle Frontal Gyrus,129
+Auditory - Left Superior Temporal Gyrus, Heschl's Gyrus,ventral_DMN - Precuneus,ventral_DMN - Left Parahippocampal Gyrus,129
+Auditory - Right Thalamus,ventral_DMN - Right Retrosplenial Cortex, Posterior Cingulate Cortex,ventral_DMN - Left Middle Occipital Gyrus,129
+Precuneus - Precuneus,ventral_DMN - Right Retrosplenial Cortex, Posterior Cingulate Cortex,ventral_DMN - Left Middle Occipital Gyrus,129
+Precuneus - Left Angular Gyrus,ventral_DMN - Precuneus,ventral_DMN - Right Retrosplenial Cortex, Posterior Cingulate Cortex,129
+Precuneus - Left Angular Gyrus,ventral_DMN - Right Lobule IX,ventral_DMN - Right Retrosplenial Cortex, Posterior Cingulate Cortex,129
+Precuneus - Midcingulate Cortex, Posterior Cingulate Cortex,ventral_DMN - Left Parahippocampal Gyrus,ventral_DMN - Precuneus,129
+Precuneus - Midcingulate Cortex, Posterior Cingulate Cortex,ventral_DMN - Right Retrosplenial Cortex, Posterior Cingulate Cortex,ventral_DMN - Right Superior Frontal Gyrus, Middle Frontal Gyrus,129
+Auditory - Left Superior Temporal Gyrus, Heschl's Gyrus,ventral_DMN - Precuneus,ventral_DMN - Right Parahippocampal Gyrus,129
+Precuneus - Left Angular Gyrus,ventral_DMN - Right Lobule IX,ventral_DMN - Right Parahippocampal Gyrus,129
+ventral_DMN - Left Retrosplenial Cortex, Posterior Cingulate Cortex,ventral_DMN - Right Lobule IX,ventral_DMN - Right Parahippocampal Gyrus,129
+Auditory - Left Superior Temporal Gyrus, Heschl's Gyrus,ventral_DMN - Left Retrosplenial Cortex, Posterior Cingulate Cortex,Precuneus - Precuneus,128
+Auditory - Left Superior Temporal Gyrus, Heschl's Gyrus,ventral_DMN - Right Superior Frontal Gyrus, Middle Frontal Gyrus,Precuneus - Precuneus,128
+Precuneus - Midcingulate Cortex, Posterior Cingulate Cortex,ventral_DMN - Left Middle Frontal Gyrus,Precuneus - Right Angular Gyrus,128
+Precuneus - Precuneus,ventral_DMN - Left Middle Frontal Gyrus,ventral_DMN - Left Middle Occipital Gyrus,128
+Auditory - Left Superior Temporal Gyrus, Heschl's Gyrus,ventral_DMN - Right Retrosplenial Cortex, Posterior Cingulate Cortex,ventral_DMN - Left Middle Occipital Gyrus,128
+Precuneus - Precuneus,ventral_DMN - Right Lobule IX,ventral_DMN - Right Retrosplenial Cortex, Posterior Cingulate Cortex,128
+Auditory - Left Superior Temporal Gyrus, Heschl's Gyrus,Precuneus - Left Angular Gyrus,ventral_DMN - Precuneus,128
+Auditory - Right Thalamus,ventral_DMN - Right Superior Frontal Gyrus, Middle Frontal Gyrus,ventral_DMN - Precuneus,128
+ventral_DMN - Left Retrosplenial Cortex, Posterior Cingulate Cortex,ventral_DMN - Right Superior Frontal Gyrus, Middle Frontal Gyrus,ventral_DMN - Precuneus,128
+Precuneus - Midcingulate Cortex, Posterior Cingulate Cortex,ventral_DMN - Left Retrosplenial Cortex, Posterior Cingulate Cortex,ventral_DMN - Right Superior Frontal Gyrus, Middle Frontal Gyrus,128
+Auditory - Right Superior Temporal Gyrus,Precuneus - Midcingulate Cortex, Posterior Cingulate Cortex,ventral_DMN - Right Parahippocampal Gyrus,128
+Auditory - Right Superior Temporal Gyrus,ventral_DMN - Left Middle Frontal Gyrus,Precuneus - Precuneus,127
+Auditory - Left Superior Temporal Gyrus, Heschl's Gyrus,ventral_DMN - Left Middle Frontal Gyrus,Precuneus - Left Angular Gyrus,127
+Auditory - Right Superior Temporal Gyrus,ventral_DMN - Left Middle Frontal Gyrus,Precuneus - Left Angular Gyrus,127
+Auditory - Right Superior Temporal Gyrus,ventral_DMN - Right Superior Frontal Gyrus, Middle Frontal Gyrus,Precuneus - Left Angular Gyrus,127
+Precuneus - Precuneus,ventral_DMN - Right Lobule IX,ventral_DMN - Left Retrosplenial Cortex, Posterior Cingulate Cortex,127
+Auditory - Right Superior Temporal Gyrus,ventral_DMN - Left Retrosplenial Cortex, Posterior Cingulate Cortex,ventral_DMN - Left Middle Occipital Gyrus,127
+Precuneus - Midcingulate Cortex, Posterior Cingulate Cortex,ventral_DMN - Left Middle Frontal Gyrus,ventral_DMN - Left Middle Occipital Gyrus,127
+Auditory - Right Thalamus,ventral_DMN - Right Retrosplenial Cortex, Posterior Cingulate Cortex,ventral_DMN - Precuneus,127
+Auditory - Left Superior Temporal Gyrus, Heschl's Gyrus,ventral_DMN - Right Retrosplenial Cortex, Posterior Cingulate Cortex,ventral_DMN - Right Superior Frontal Gyrus, Middle Frontal Gyrus,127
+Precuneus - Left Angular Gyrus,ventral_DMN - Right Parahippocampal Gyrus,ventral_DMN - Right Superior Frontal Gyrus, Middle Frontal Gyrus,127
+Auditory - Right Thalamus,ventral_DMN - Left Middle Occipital Gyrus,Precuneus - Midcingulate Cortex, Posterior Cingulate Cortex,126
+Auditory - Left Superior Temporal Gyrus, Heschl's Gyrus,ventral_DMN - Right Angular Gyrus, Middle Occipital Gyrus,Precuneus - Precuneus,126
+Precuneus - Midcingulate Cortex, Posterior Cingulate Cortex,ventral_DMN - Right Superior Frontal Gyrus, Middle Frontal Gyrus,Precuneus - Left Angular Gyrus,126
+Precuneus - Right Angular Gyrus,ventral_DMN - Left Retrosplenial Cortex, Posterior Cingulate Cortex,ventral_DMN - Left Middle Occipital Gyrus,126
+ventral_DMN - Left Middle Frontal Gyrus,ventral_DMN - Precuneus,ventral_DMN - Right Retrosplenial Cortex, Posterior Cingulate Cortex,126
+Auditory - Left Superior Temporal Gyrus, Heschl's Gyrus,Precuneus - Midcingulate Cortex, Posterior Cingulate Cortex,ventral_DMN - Right Parahippocampal Gyrus,126
+Auditory - Right Superior Temporal Gyrus,Precuneus - Precuneus,ventral_DMN - Right Parahippocampal Gyrus,126
+ventral_DMN - Left Retrosplenial Cortex, Posterior Cingulate Cortex,ventral_DMN - Left Middle Occipital Gyrus,ventral_DMN - Right Parahippocampal Gyrus,126
+ventral_DMN - Left Retrosplenial Cortex, Posterior Cingulate Cortex,ventral_DMN - Right Angular Gyrus, Middle Occipital Gyrus,ventral_DMN - Right Parahippocampal Gyrus,126
+ventral_DMN - Right Retrosplenial Cortex, Posterior Cingulate Cortex,ventral_DMN - Right Angular Gyrus, Middle Occipital Gyrus,ventral_DMN - Right Parahippocampal Gyrus,126
+Auditory - Left Superior Temporal Gyrus, Heschl's Gyrus,ventral_DMN - Left Retrosplenial Cortex, Posterior Cingulate Cortex,ventral_DMN - Right Angular Gyrus, Middle Occipital Gyrus,126
+Auditory - Right Superior Temporal Gyrus,Precuneus - Left Angular Gyrus,ventral_DMN - Right Lobule IX,126
+Auditory - Right Superior Temporal Gyrus,ventral_DMN - Left Retrosplenial Cortex, Posterior Cingulate Cortex,Precuneus - Midcingulate Cortex, Posterior Cingulate Cortex,125
+Auditory - Left Superior Temporal Gyrus, Heschl's Gyrus,ventral_DMN - Left Retrosplenial Cortex, Posterior Cingulate Cortex,Precuneus - Left Angular Gyrus,125
+Auditory - Right Thalamus,ventral_DMN - Right Retrosplenial Cortex, Posterior Cingulate Cortex,Precuneus - Left Angular Gyrus,125
+Auditory - Right Superior Temporal Gyrus,ventral_DMN - Precuneus,ventral_DMN - Left Parahippocampal Gyrus,125
+Auditory - Right Thalamus,ventral_DMN - Left Parahippocampal Gyrus,ventral_DMN - Right Retrosplenial Cortex, Posterior Cingulate Cortex,125
+Auditory - Right Superior Temporal Gyrus,ventral_DMN - Left Retrosplenial Cortex, Posterior Cingulate Cortex,ventral_DMN - Precuneus,125
+Precuneus - Left Angular Gyrus,ventral_DMN - Left Parahippocampal Gyrus,ventral_DMN - Right Superior Frontal Gyrus, Middle Frontal Gyrus,125
+ventral_DMN - Left Middle Occipital Gyrus,ventral_DMN - Precuneus,ventral_DMN - Right Superior Frontal Gyrus, Middle Frontal Gyrus,125
+Auditory - Left Superior Temporal Gyrus, Heschl's Gyrus,Precuneus - Precuneus,ventral_DMN - Right Parahippocampal Gyrus,125
+Auditory - Right Superior Temporal Gyrus,ventral_DMN - Left Retrosplenial Cortex, Posterior Cingulate Cortex,ventral_DMN - Right Angular Gyrus, Middle Occipital Gyrus,125
+Precuneus - Right Angular Gyrus,ventral_DMN - Left Retrosplenial Cortex, Posterior Cingulate Cortex,ventral_DMN - Right Angular Gyrus, Middle Occipital Gyrus,125
+Auditory - Left Superior Temporal Gyrus, Heschl's Gyrus,Precuneus - Left Angular Gyrus,ventral_DMN - Right Lobule IX,125
+Auditory - Left Superior Temporal Gyrus, Heschl's Gyrus,ventral_DMN - Left Middle Occipital Gyrus,Auditory - Right Thalamus,124
+Auditory - Right Thalamus,Precuneus - Right Angular Gyrus,Precuneus - Midcingulate Cortex, Posterior Cingulate Cortex,124
+Auditory - Right Superior Temporal Gyrus,ventral_DMN - Left Retrosplenial Cortex, Posterior Cingulate Cortex,Precuneus - Precuneus,124
+Auditory - Left Superior Temporal Gyrus, Heschl's Gyrus,ventral_DMN - Right Superior Frontal Gyrus, Middle Frontal Gyrus,Precuneus - Left Angular Gyrus,124
+Auditory - Left Superior Temporal Gyrus, Heschl's Gyrus,ventral_DMN - Left Retrosplenial Cortex, Posterior Cingulate Cortex,Precuneus - Right Angular Gyrus,124
+Auditory - Right Superior Temporal Gyrus,ventral_DMN - Left Retrosplenial Cortex, Posterior Cingulate Cortex,Precuneus - Right Angular Gyrus,124
+Auditory - Right Thalamus,ventral_DMN - Right Retrosplenial Cortex, Posterior Cingulate Cortex,Precuneus - Right Angular Gyrus,124
+Auditory - Right Superior Temporal Gyrus,ventral_DMN - Right Angular Gyrus, Middle Occipital Gyrus,Precuneus - Right Angular Gyrus,124
+Auditory - Left Superior Temporal Gyrus, Heschl's Gyrus,ventral_DMN - Right Retrosplenial Cortex, Posterior Cingulate Cortex,ventral_DMN - Left Middle Frontal Gyrus,124
+Auditory - Right Superior Temporal Gyrus,Precuneus - Midcingulate Cortex, Posterior Cingulate Cortex,ventral_DMN - Left Parahippocampal Gyrus,124
+Auditory - Right Superior Temporal Gyrus,Precuneus - Precuneus,ventral_DMN - Left Parahippocampal Gyrus,124
+Auditory - Left Superior Temporal Gyrus, Heschl's Gyrus,ventral_DMN - Right Lobule IX,ventral_DMN - Left Parahippocampal Gyrus,124
+Auditory - Right Superior Temporal Gyrus,ventral_DMN - Right Lobule IX,ventral_DMN - Left Parahippocampal Gyrus,124
+Precuneus - Left Angular Gyrus,ventral_DMN - Left Parahippocampal Gyrus,ventral_DMN - Left Middle Occipital Gyrus,124
+Precuneus - Precuneus,ventral_DMN - Right Superior Frontal Gyrus, Middle Frontal Gyrus,ventral_DMN - Left Middle Occipital Gyrus,124
+Precuneus - Left Angular Gyrus,ventral_DMN - Right Parahippocampal Gyrus,ventral_DMN - Left Middle Occipital Gyrus,124
+Precuneus - Precuneus,ventral_DMN - Right Lobule IX,ventral_DMN - Left Middle Occipital Gyrus,124
+Auditory - Left Superior Temporal Gyrus, Heschl's Gyrus,ventral_DMN - Right Retrosplenial Cortex, Posterior Cingulate Cortex,ventral_DMN - Right Parahippocampal Gyrus,124
+Auditory - Left Superior Temporal Gyrus, Heschl's Gyrus,ventral_DMN - Right Lobule IX,ventral_DMN - Right Parahippocampal Gyrus,124
+Precuneus - Precuneus,ventral_DMN - Left Retrosplenial Cortex, Posterior Cingulate Cortex,ventral_DMN - Right Angular Gyrus, Middle Occipital Gyrus,124
+Auditory - Left Superior Temporal Gyrus, Heschl's Gyrus,ventral_DMN - Right Retrosplenial Cortex, Posterior Cingulate Cortex,Auditory - Right Thalamus,123
+Auditory - Right Superior Temporal Gyrus,ventral_DMN - Right Angular Gyrus, Middle Occipital Gyrus,Precuneus - Precuneus,123
+Auditory - Right Superior Temporal Gyrus,ventral_DMN - Left Retrosplenial Cortex, Posterior Cingulate Cortex,Precuneus - Left Angular Gyrus,123
+Auditory - Left Superior Temporal Gyrus, Heschl's Gyrus,ventral_DMN - Left Middle Occipital Gyrus,Precuneus - Left Angular Gyrus,123
+Auditory - Right Thalamus,ventral_DMN - Left Middle Frontal Gyrus,Precuneus - Right Angular Gyrus,123
+Auditory - Right Superior Temporal Gyrus,ventral_DMN - Left Middle Occipital Gyrus,Precuneus - Right Angular Gyrus,123
+Precuneus - Midcingulate Cortex, Posterior Cingulate Cortex,ventral_DMN - Right Superior Frontal Gyrus, Middle Frontal Gyrus,Precuneus - Right Angular Gyrus,123
+Auditory - Left Superior Temporal Gyrus, Heschl's Gyrus,ventral_DMN - Right Angular Gyrus, Middle Occipital Gyrus,Precuneus - Right Angular Gyrus,123
+ventral_DMN - Left Retrosplenial Cortex, Posterior Cingulate Cortex,ventral_DMN - Left Middle Frontal Gyrus,ventral_DMN - Left Parahippocampal Gyrus,123
+ventral_DMN - Left Middle Occipital Gyrus,ventral_DMN - Right Parahippocampal Gyrus,ventral_DMN - Right Retrosplenial Cortex, Posterior Cingulate Cortex,123
+ventral_DMN - Left Middle Frontal Gyrus,ventral_DMN - Right Lobule IX,ventral_DMN - Right Retrosplenial Cortex, Posterior Cingulate Cortex,123
+Precuneus - Midcingulate Cortex, Posterior Cingulate Cortex,Precuneus - Left Angular Gyrus,ventral_DMN - Precuneus,123
+ventral_DMN - Left Middle Frontal Gyrus,ventral_DMN - Left Middle Occipital Gyrus,ventral_DMN - Precuneus,123
+Auditory - Right Superior Temporal Gyrus,ventral_DMN - Precuneus,ventral_DMN - Right Parahippocampal Gyrus,123
+ventral_DMN - Left Middle Frontal Gyrus,ventral_DMN - Precuneus,ventral_DMN - Right Lobule IX,123
+ventral_DMN - Right Retrosplenial Cortex, Posterior Cingulate Cortex,ventral_DMN - Right Superior Frontal Gyrus, Middle Frontal Gyrus,ventral_DMN - Right Lobule IX,123
+Auditory - Left Superior Temporal Gyrus, Heschl's Gyrus,ventral_DMN - Left Retrosplenial Cortex, Posterior Cingulate Cortex,Auditory - Right Thalamus,122
+Auditory - Right Thalamus,ventral_DMN - Precuneus,Precuneus - Midcingulate Cortex, Posterior Cingulate Cortex,122
+Auditory - Right Thalamus,ventral_DMN - Left Middle Frontal Gyrus,Precuneus - Left Angular Gyrus,122
+Precuneus - Midcingulate Cortex, Posterior Cingulate Cortex,ventral_DMN - Left Retrosplenial Cortex, Posterior Cingulate Cortex,ventral_DMN - Left Middle Frontal Gyrus,122
+Precuneus - Midcingulate Cortex, Posterior Cingulate Cortex,ventral_DMN - Right Retrosplenial Cortex, Posterior Cingulate Cortex,ventral_DMN - Left Middle Frontal Gyrus,122
+ventral_DMN - Left Middle Frontal Gyrus,ventral_DMN - Right Superior Frontal Gyrus, Middle Frontal Gyrus,ventral_DMN - Left Parahippocampal Gyrus,122
+Auditory - Right Thalamus,ventral_DMN - Left Retrosplenial Cortex, Posterior Cingulate Cortex,ventral_DMN - Left Middle Occipital Gyrus,122
+ventral_DMN - Left Middle Frontal Gyrus,ventral_DMN - Left Parahippocampal Gyrus,ventral_DMN - Right Retrosplenial Cortex, Posterior Cingulate Cortex,122
+Auditory - Left Superior Temporal Gyrus, Heschl's Gyrus,ventral_DMN - Left Retrosplenial Cortex, Posterior Cingulate Cortex,ventral_DMN - Precuneus,122
+ventral_DMN - Right Retrosplenial Cortex, Posterior Cingulate Cortex,ventral_DMN - Right Superior Frontal Gyrus, Middle Frontal Gyrus,ventral_DMN - Precuneus,122
+Precuneus - Right Angular Gyrus,ventral_DMN - Left Retrosplenial Cortex, Posterior Cingulate Cortex,ventral_DMN - Right Superior Frontal Gyrus, Middle Frontal Gyrus,122
+Auditory - Right Superior Temporal Gyrus,ventral_DMN - Right Lobule IX,ventral_DMN - Right Parahippocampal Gyrus,122
+Auditory - Right Thalamus,ventral_DMN - Left Middle Frontal Gyrus,Precuneus - Precuneus,121
+Auditory - Right Thalamus,ventral_DMN - Right Parahippocampal Gyrus,ventral_DMN - Left Retrosplenial Cortex, Posterior Cingulate Cortex,121
+Precuneus - Right Angular Gyrus,ventral_DMN - Right Lobule IX,ventral_DMN - Left Retrosplenial Cortex, Posterior Cingulate Cortex,121
+Precuneus - Right Angular Gyrus,ventral_DMN - Left Retrosplenial Cortex, Posterior Cingulate Cortex,ventral_DMN - Left Middle Frontal Gyrus,121
+Auditory - Right Superior Temporal Gyrus,ventral_DMN - Right Retrosplenial Cortex, Posterior Cingulate Cortex,ventral_DMN - Left Middle Frontal Gyrus,121
+Auditory - Left Superior Temporal Gyrus, Heschl's Gyrus,Precuneus - Precuneus,ventral_DMN - Left Parahippocampal Gyrus,121
+Precuneus - Right Angular Gyrus,ventral_DMN - Precuneus,ventral_DMN - Left Parahippocampal Gyrus,121
+Auditory - Right Thalamus,ventral_DMN - Left Parahippocampal Gyrus,ventral_DMN - Left Middle Occipital Gyrus,121
+Auditory - Right Superior Temporal Gyrus,ventral_DMN - Right Retrosplenial Cortex, Posterior Cingulate Cortex,ventral_DMN - Right Superior Frontal Gyrus, Middle Frontal Gyrus,121
+Auditory - Right Thalamus,ventral_DMN - Right Retrosplenial Cortex, Posterior Cingulate Cortex,ventral_DMN - Right Superior Frontal Gyrus, Middle Frontal Gyrus,121
+Auditory - Left Superior Temporal Gyrus, Heschl's Gyrus,Precuneus - Right Angular Gyrus,ventral_DMN - Right Parahippocampal Gyrus,121
+ventral_DMN - Left Retrosplenial Cortex, Posterior Cingulate Cortex,ventral_DMN - Right Superior Frontal Gyrus, Middle Frontal Gyrus,ventral_DMN - Right Parahippocampal Gyrus,121
+ventral_DMN - Left Retrosplenial Cortex, Posterior Cingulate Cortex,ventral_DMN - Precuneus,ventral_DMN - Right Lobule IX,121
+Auditory - Right Thalamus,ventral_DMN - Right Superior Frontal Gyrus, Middle Frontal Gyrus,Precuneus - Midcingulate Cortex, Posterior Cingulate Cortex,120
+Auditory - Left Superior Temporal Gyrus, Heschl's Gyrus,Precuneus - Midcingulate Cortex, Posterior Cingulate Cortex,ventral_DMN - Left Parahippocampal Gyrus,120
+Auditory - Left Superior Temporal Gyrus, Heschl's Gyrus,Precuneus - Right Angular Gyrus,ventral_DMN - Left Parahippocampal Gyrus,120
+Precuneus - Precuneus,ventral_DMN - Precuneus,ventral_DMN - Left Parahippocampal Gyrus,120
+Precuneus - Precuneus,ventral_DMN - Right Lobule IX,ventral_DMN - Left Parahippocampal Gyrus,120
+Auditory - Left Superior Temporal Gyrus, Heschl's Gyrus,ventral_DMN - Left Retrosplenial Cortex, Posterior Cingulate Cortex,ventral_DMN - Left Middle Occipital Gyrus,120
+Auditory - Right Thalamus,ventral_DMN - Left Middle Frontal Gyrus,ventral_DMN - Left Middle Occipital Gyrus,120
+Precuneus - Precuneus,ventral_DMN - Precuneus,ventral_DMN - Right Retrosplenial Cortex, Posterior Cingulate Cortex,120
+Precuneus - Right Angular Gyrus,ventral_DMN - Right Lobule IX,ventral_DMN - Right Retrosplenial Cortex, Posterior Cingulate Cortex,120
+Auditory - Left Superior Temporal Gyrus, Heschl's Gyrus,Precuneus - Left Angular Gyrus,ventral_DMN - Right Parahippocampal Gyrus,120
+ventral_DMN - Left Retrosplenial Cortex, Posterior Cingulate Cortex,ventral_DMN - Left Middle Frontal Gyrus,ventral_DMN - Right Parahippocampal Gyrus,120
+Auditory - Right Superior Temporal Gyrus,ventral_DMN - Right Retrosplenial Cortex, Posterior Cingulate Cortex,ventral_DMN - Right Parahippocampal Gyrus,120
+Precuneus - Right Angular Gyrus,ventral_DMN - Precuneus,ventral_DMN - Right Parahippocampal Gyrus,120
+ventral_DMN - Right Retrosplenial Cortex, Posterior Cingulate Cortex,ventral_DMN - Right Superior Frontal Gyrus, Middle Frontal Gyrus,ventral_DMN - Right Parahippocampal Gyrus,120
+Auditory - Right Thalamus,ventral_DMN - Left Retrosplenial Cortex, Posterior Cingulate Cortex,ventral_DMN - Right Angular Gyrus, Middle Occipital Gyrus,120
+Precuneus - Right Angular Gyrus,ventral_DMN - Right Retrosplenial Cortex, Posterior Cingulate Cortex,ventral_DMN - Right Angular Gyrus, Middle Occipital Gyrus,120
+Precuneus - Left Angular Gyrus,ventral_DMN - Right Parahippocampal Gyrus,ventral_DMN - Right Angular Gyrus, Middle Occipital Gyrus,120
+Auditory - Right Superior Temporal Gyrus,Precuneus - Precuneus,ventral_DMN - Right Lobule IX,120
+Precuneus - Left Angular Gyrus,ventral_DMN - Precuneus,ventral_DMN - Right Lobule IX,120
+ventral_DMN - Right Retrosplenial Cortex, Posterior Cingulate Cortex,ventral_DMN - Precuneus,ventral_DMN - Right Lobule IX,120

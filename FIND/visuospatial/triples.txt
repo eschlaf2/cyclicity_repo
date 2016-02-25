@@ -1,0 +1,78 @@
+/Users/emilyschlafly/Work/cyclicity_repo/FIND/visuospatial
+Total subjects: 200
+Right Inferior Parietal Lobule,Right Lobule VI, Crus I,Right Frontal Operculum, Inferior Frontal Gyrus,166
+Right Inferior Parietal Lobule,Right Middle Temporal Gyrus,Right Frontal Operculum, Inferior Frontal Gyrus,157
+Left Inferior Parietal Sulcus,Right Lobule VI, Crus I,Left Frontal Operculum, Inferior Frontal Gyrus,156
+Right Inferior Parietal Lobule,Left Lobule VII, Lobule VIIb,Right Frontal Operculum, Inferior Frontal Gyrus,155
+Left Frontal Operculum, Inferior Frontal Gyrus,Right Inferior Parietal Lobule,Right Lobule VI, Crus I,154
+Left Inferior Parietal Sulcus,Left Lobule VII, Lobule VIIb,Left Frontal Operculum, Inferior Frontal Gyrus,153
+Right Inferior Parietal Lobule,Right Lobule VIII, Lobule VIIb,Right Frontal Operculum, Inferior Frontal Gyrus,152
+Right Frontal Operculum, Inferior Frontal Gyrus,Right Lobule VIII, Lobule VIIb,Right Lobule VI, Crus I,150
+Left Inferior Parietal Sulcus,Right Lobule VI, Crus I,Right Frontal Operculum, Inferior Frontal Gyrus,149
+Left Frontal Operculum, Inferior Frontal Gyrus,Right Lobule VIII, Lobule VIIb,Right Lobule VI, Crus I,148
+Left Inferior Parietal Sulcus,Left Lobule VII, Lobule VIIb,Right Frontal Operculum, Inferior Frontal Gyrus,147
+Left Inferior Parietal Sulcus,Right Middle Temporal Gyrus,Left Frontal Operculum, Inferior Frontal Gyrus,146
+Left Inferior Parietal Sulcus,Right Lobule VIII, Lobule VIIb,Left Frontal Operculum, Inferior Frontal Gyrus,145
+Left Frontal Operculum, Inferior Frontal Gyrus,Right Inferior Parietal Lobule,Right Middle Temporal Gyrus,145
+Left Middle Frontal Gyrus, Superior Frontal Gyrus, Precentral Gyrus,Left Inferior Parietal Sulcus,Left Lobule VII, Lobule VIIb,144
+Left Middle Frontal Gyrus, Superior Frontal Gyrus, Precentral Gyrus,Left Inferior Parietal Sulcus,Right Lobule VI, Crus I,143
+Left Middle Frontal Gyrus, Superior Frontal Gyrus, Precentral Gyrus,Right Lobule VIII, Lobule VIIb,Right Lobule VI, Crus I,143
+Left Frontal Operculum, Inferior Frontal Gyrus,Right Inferior Parietal Lobule,Left Lobule VII, Lobule VIIb,142
+Left Frontal Operculum, Inferior Frontal Gyrus,Right Inferior Parietal Lobule,Right Lobule VIII, Lobule VIIb,142
+Left Middle Frontal Gyrus, Superior Frontal Gyrus, Precentral Gyrus,Right Inferior Parietal Lobule,Right Lobule VI, Crus I,141
+Right Middle Frontal Gyrus,Right Lobule VIII, Lobule VIIb,Right Lobule VI, Crus I,141
+Left Inferior Temporal Gyrus,Right Lobule VIII, Lobule VIIb,Right Lobule VI, Crus I,140
+Left Inferior Parietal Sulcus,Right Middle Temporal Gyrus,Right Frontal Operculum, Inferior Frontal Gyrus,139
+Left Middle Frontal Gyrus, Superior Frontal Gyrus, Precentral Gyrus,Left Inferior Parietal Sulcus,Right Lobule VIII, Lobule VIIb,137
+Left Inferior Parietal Sulcus,Right Lobule VIII, Lobule VIIb,Right Lobule VI, Crus I,137
+Left Inferior Parietal Sulcus,Right Lobule VIII, Lobule VIIb,Right Frontal Operculum, Inferior Frontal Gyrus,136
+Left Middle Frontal Gyrus, Superior Frontal Gyrus, Precentral Gyrus,Left Inferior Parietal Sulcus,Right Middle Temporal Gyrus,136
+Right Inferior Parietal Lobule,Right Lobule VIII, Lobule VIIb,Right Lobule VI, Crus I,136
+Left Inferior Parietal Sulcus,Right Lobule VI, Crus I,Right Middle Frontal Gyrus,135
+Left Middle Frontal Gyrus, Superior Frontal Gyrus, Precentral Gyrus,Right Inferior Parietal Lobule,Right Middle Temporal Gyrus,135
+Left Frontal Operculum, Inferior Frontal Gyrus,Right Middle Frontal Gyrus,Left Lobule VII, Lobule VIIb,134
+Left Middle Frontal Gyrus, Superior Frontal Gyrus, Precentral Gyrus,Right Inferior Parietal Lobule,Right Lobule VIII, Lobule VIIb,134
+Right Middle Frontal Gyrus,Right Inferior Parietal Lobule,Right Lobule VI, Crus I,134
+Left Middle Frontal Gyrus, Superior Frontal Gyrus, Precentral Gyrus,Right Inferior Parietal Lobule,Left Lobule VII, Lobule VIIb,133
+Left Middle Frontal Gyrus, Superior Frontal Gyrus, Precentral Gyrus,Right Lobule VI, Crus I,Left Frontal Operculum, Inferior Frontal Gyrus,132
+Left Frontal Operculum, Inferior Frontal Gyrus,Right Middle Temporal Gyrus,Right Lobule VI, Crus I,132
+Right Frontal Operculum, Inferior Frontal Gyrus,Right Middle Temporal Gyrus,Right Lobule VI, Crus I,132
+Left Inferior Parietal Sulcus,Right Middle Temporal Gyrus,Right Middle Frontal Gyrus,131
+Left Inferior Parietal Sulcus,Right Lobule VIII, Lobule VIIb,Right Middle Frontal Gyrus,131
+Right Middle Frontal Gyrus,Right Inferior Parietal Lobule,Right Middle Temporal Gyrus,131
+Right Middle Temporal Gyrus,Right Lobule VIII, Lobule VIIb,Right Lobule VI, Crus I,130
+Left Middle Frontal Gyrus, Superior Frontal Gyrus, Precentral Gyrus,Right Middle Temporal Gyrus,Left Frontal Operculum, Inferior Frontal Gyrus,129
+Left Frontal Operculum, Inferior Frontal Gyrus,Left Inferior Temporal Gyrus,Left Lobule VII, Lobule VIIb,129
+Right Middle Frontal Gyrus,Right Inferior Parietal Lobule,Right Lobule VIII, Lobule VIIb,129
+Left Frontal Operculum, Inferior Frontal Gyrus,Right Middle Frontal Gyrus,Right Lobule VI, Crus I,129
+Left Middle Frontal Gyrus, Superior Frontal Gyrus, Precentral Gyrus,Right Middle Temporal Gyrus,Right Lobule VI, Crus I,129
+Left Middle Frontal Gyrus, Superior Frontal Gyrus, Precentral Gyrus,Left Lobule VII, Lobule VIIb,Left Frontal Operculum, Inferior Frontal Gyrus,128
+Right Inferior Parietal Lobule,Right Middle Temporal Gyrus,Left Lobule VII, Lobule VIIb,128
+Left Middle Frontal Gyrus, Superior Frontal Gyrus, Precentral Gyrus,Right Lobule VIII, Lobule VIIb,Left Frontal Operculum, Inferior Frontal Gyrus,127
+Left Inferior Parietal Sulcus,Left Lobule VII, Lobule VIIb,Right Middle Frontal Gyrus,127
+Left Inferior Temporal Gyrus,Left Lobule VII, Lobule VIIb,Right Frontal Operculum, Inferior Frontal Gyrus,127
+Right Middle Frontal Gyrus,Left Lobule VII, Lobule VIIb,Right Frontal Operculum, Inferior Frontal Gyrus,127
+Right Middle Frontal Gyrus,Left Lobule VII, Lobule VIIb,Right Lobule VI, Crus I,127
+Left Middle Frontal Gyrus, Superior Frontal Gyrus, Precentral Gyrus,Right Middle Temporal Gyrus,Left Lobule VII, Lobule VIIb,126
+Right Frontal Operculum, Inferior Frontal Gyrus,Right Middle Temporal Gyrus,Left Lobule VII, Lobule VIIb,126
+Left Frontal Operculum, Inferior Frontal Gyrus,Left Inferior Temporal Gyrus,Right Lobule VI, Crus I,126
+Right Middle Frontal Gyrus,Right Middle Temporal Gyrus,Right Lobule VI, Crus I,126
+Left Middle Frontal Gyrus, Superior Frontal Gyrus, Precentral Gyrus,Right Lobule VI, Crus I,Right Frontal Operculum, Inferior Frontal Gyrus,125
+Left Frontal Operculum, Inferior Frontal Gyrus,Right Middle Temporal Gyrus,Left Lobule VII, Lobule VIIb,125
+Left Inferior Temporal Gyrus,Left Lobule VII, Lobule VIIb,Right Lobule VI, Crus I,125
+Left Inferior Temporal Gyrus,Right Inferior Parietal Lobule,Right Lobule VI, Crus I,124
+Left Inferior Temporal Gyrus,Right Middle Temporal Gyrus,Right Lobule VI, Crus I,124
+Left Inferior Temporal Gyrus,Right Lobule VI, Crus I,Right Frontal Operculum, Inferior Frontal Gyrus,123
+Left Frontal Operculum, Inferior Frontal Gyrus,Right Middle Frontal Gyrus,Right Middle Temporal Gyrus,123
+Left Inferior Temporal Gyrus,Right Inferior Parietal Lobule,Right Middle Temporal Gyrus,123
+Right Inferior Parietal Lobule,Right Middle Temporal Gyrus,Right Lobule VI, Crus I,123
+Left Middle Frontal Gyrus, Superior Frontal Gyrus, Precentral Gyrus,Right Middle Temporal Gyrus,Right Frontal Operculum, Inferior Frontal Gyrus,122
+Left Middle Frontal Gyrus, Superior Frontal Gyrus, Precentral Gyrus,Left Lobule VII, Lobule VIIb,Right Frontal Operculum, Inferior Frontal Gyrus,122
+Left Frontal Operculum, Inferior Frontal Gyrus,Right Middle Frontal Gyrus,Right Lobule VIII, Lobule VIIb,122
+Left Inferior Parietal Sulcus,Right Middle Temporal Gyrus,Right Lobule VI, Crus I,122
+Left Frontal Operculum, Inferior Frontal Gyrus,Left Lobule VII, Lobule VIIb,Right Lobule VI, Crus I,122
+Right Middle Frontal Gyrus,Right Lobule VI, Crus I,Right Frontal Operculum, Inferior Frontal Gyrus,121
+Right Frontal Operculum, Inferior Frontal Gyrus,Left Lobule VII, Lobule VIIb,Right Lobule VI, Crus I,121
+Left Inferior Parietal Sulcus,Right Lobule VI, Crus I,Left Inferior Temporal Gyrus,120
+Right Frontal Operculum, Inferior Frontal Gyrus,Right Lobule VIII, Lobule VIIb,Left Lobule VII, Lobule VIIb,120
+Left Inferior Temporal Gyrus,Right Inferior Parietal Lobule,Right Lobule VIII, Lobule VIIb,120

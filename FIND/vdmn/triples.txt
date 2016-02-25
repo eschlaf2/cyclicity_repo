@@ -1,0 +1,69 @@
+/Users/emilyschlafly/Work/cyclicity_repo/FIND/vdmn
+Total subjects: 200
+ventral_DMN - Left Middle Occipital Gyrus,ventral_DMN - Precuneus,ventral_DMN - Right Parahippocampal Gyrus,172
+ventral_DMN - Left Parahippocampal Gyrus,ventral_DMN - Left Middle Occipital Gyrus,ventral_DMN - Precuneus,171
+ventral_DMN - Left Retrosplenial Cortex, Posterior Cingulate Cortex,ventral_DMN - Left Middle Occipital Gyrus,ventral_DMN - Precuneus,165
+ventral_DMN - Left Parahippocampal Gyrus,ventral_DMN - Right Angular Gyrus, Middle Occipital Gyrus,ventral_DMN - Precuneus,159
+ventral_DMN - Precuneus,ventral_DMN - Right Parahippocampal Gyrus,ventral_DMN - Right Angular Gyrus, Middle Occipital Gyrus,159
+ventral_DMN - Left Middle Frontal Gyrus,ventral_DMN - Precuneus,ventral_DMN - Left Parahippocampal Gyrus,157
+ventral_DMN - Left Middle Occipital Gyrus,ventral_DMN - Precuneus,ventral_DMN - Right Retrosplenial Cortex, Posterior Cingulate Cortex,155
+ventral_DMN - Left Parahippocampal Gyrus,ventral_DMN - Right Retrosplenial Cortex, Posterior Cingulate Cortex,ventral_DMN - Precuneus,155
+ventral_DMN - Left Retrosplenial Cortex, Posterior Cingulate Cortex,ventral_DMN - Left Middle Occipital Gyrus,ventral_DMN - Right Lobule IX,153
+ventral_DMN - Left Retrosplenial Cortex, Posterior Cingulate Cortex,ventral_DMN - Precuneus,ventral_DMN - Left Parahippocampal Gyrus,151
+ventral_DMN - Left Parahippocampal Gyrus,ventral_DMN - Right Superior Frontal Gyrus, Middle Frontal Gyrus,ventral_DMN - Precuneus,150
+ventral_DMN - Left Retrosplenial Cortex, Posterior Cingulate Cortex,ventral_DMN - Right Angular Gyrus, Middle Occipital Gyrus,ventral_DMN - Precuneus,150
+ventral_DMN - Left Middle Frontal Gyrus,ventral_DMN - Precuneus,ventral_DMN - Right Parahippocampal Gyrus,149
+ventral_DMN - Left Parahippocampal Gyrus,ventral_DMN - Left Middle Occipital Gyrus,ventral_DMN - Right Lobule IX,149
+ventral_DMN - Left Middle Frontal Gyrus,ventral_DMN - Right Lobule IX,ventral_DMN - Left Parahippocampal Gyrus,146
+ventral_DMN - Right Retrosplenial Cortex, Posterior Cingulate Cortex,ventral_DMN - Right Angular Gyrus, Middle Occipital Gyrus,ventral_DMN - Precuneus,146
+ventral_DMN - Right Retrosplenial Cortex, Posterior Cingulate Cortex,ventral_DMN - Precuneus,ventral_DMN - Right Parahippocampal Gyrus,146
+ventral_DMN - Left Middle Occipital Gyrus,ventral_DMN - Right Lobule IX,ventral_DMN - Right Parahippocampal Gyrus,146
+ventral_DMN - Left Parahippocampal Gyrus,ventral_DMN - Right Retrosplenial Cortex, Posterior Cingulate Cortex,ventral_DMN - Right Lobule IX,146
+ventral_DMN - Left Retrosplenial Cortex, Posterior Cingulate Cortex,ventral_DMN - Left Middle Occipital Gyrus,ventral_DMN - Left Parahippocampal Gyrus,145
+ventral_DMN - Precuneus,ventral_DMN - Right Parahippocampal Gyrus,ventral_DMN - Right Superior Frontal Gyrus, Middle Frontal Gyrus,145
+ventral_DMN - Left Retrosplenial Cortex, Posterior Cingulate Cortex,ventral_DMN - Right Angular Gyrus, Middle Occipital Gyrus,ventral_DMN - Right Lobule IX,145
+ventral_DMN - Left Middle Occipital Gyrus,ventral_DMN - Precuneus,ventral_DMN - Right Lobule IX,144
+ventral_DMN - Left Parahippocampal Gyrus,ventral_DMN - Right Superior Frontal Gyrus, Middle Frontal Gyrus,ventral_DMN - Right Lobule IX,144
+ventral_DMN - Left Parahippocampal Gyrus,ventral_DMN - Right Angular Gyrus, Middle Occipital Gyrus,ventral_DMN - Right Lobule IX,144
+ventral_DMN - Left Retrosplenial Cortex, Posterior Cingulate Cortex,ventral_DMN - Right Angular Gyrus, Middle Occipital Gyrus,ventral_DMN - Left Parahippocampal Gyrus,142
+ventral_DMN - Left Middle Occipital Gyrus,ventral_DMN - Right Lobule IX,ventral_DMN - Right Retrosplenial Cortex, Posterior Cingulate Cortex,142
+ventral_DMN - Left Parahippocampal Gyrus,ventral_DMN - Right Retrosplenial Cortex, Posterior Cingulate Cortex,ventral_DMN - Right Angular Gyrus, Middle Occipital Gyrus,142
+ventral_DMN - Left Retrosplenial Cortex, Posterior Cingulate Cortex,ventral_DMN - Right Lobule IX,ventral_DMN - Left Parahippocampal Gyrus,141
+ventral_DMN - Left Retrosplenial Cortex, Posterior Cingulate Cortex,ventral_DMN - Right Superior Frontal Gyrus, Middle Frontal Gyrus,ventral_DMN - Right Lobule IX,141
+ventral_DMN - Right Retrosplenial Cortex, Posterior Cingulate Cortex,ventral_DMN - Right Angular Gyrus, Middle Occipital Gyrus,ventral_DMN - Right Lobule IX,140
+ventral_DMN - Right Parahippocampal Gyrus,ventral_DMN - Right Angular Gyrus, Middle Occipital Gyrus,ventral_DMN - Right Lobule IX,140
+ventral_DMN - Left Parahippocampal Gyrus,ventral_DMN - Right Retrosplenial Cortex, Posterior Cingulate Cortex,ventral_DMN - Left Middle Occipital Gyrus,139
+ventral_DMN - Left Retrosplenial Cortex, Posterior Cingulate Cortex,ventral_DMN - Right Superior Frontal Gyrus, Middle Frontal Gyrus,ventral_DMN - Left Parahippocampal Gyrus,138
+ventral_DMN - Left Retrosplenial Cortex, Posterior Cingulate Cortex,ventral_DMN - Precuneus,ventral_DMN - Right Parahippocampal Gyrus,138
+ventral_DMN - Left Retrosplenial Cortex, Posterior Cingulate Cortex,ventral_DMN - Right Superior Frontal Gyrus, Middle Frontal Gyrus,ventral_DMN - Precuneus,137
+ventral_DMN - Precuneus,ventral_DMN - Right Lobule IX,ventral_DMN - Right Angular Gyrus, Middle Occipital Gyrus,137
+ventral_DMN - Right Superior Frontal Gyrus, Middle Frontal Gyrus,ventral_DMN - Right Lobule IX,ventral_DMN - Right Parahippocampal Gyrus,135
+ventral_DMN - Left Middle Frontal Gyrus,ventral_DMN - Right Lobule IX,ventral_DMN - Right Parahippocampal Gyrus,134
+ventral_DMN - Left Middle Frontal Gyrus,ventral_DMN - Left Middle Occipital Gyrus,ventral_DMN - Precuneus,133
+ventral_DMN - Left Middle Occipital Gyrus,ventral_DMN - Precuneus,ventral_DMN - Right Superior Frontal Gyrus, Middle Frontal Gyrus,133
+ventral_DMN - Right Retrosplenial Cortex, Posterior Cingulate Cortex,ventral_DMN - Right Angular Gyrus, Middle Occipital Gyrus,ventral_DMN - Right Parahippocampal Gyrus,133
+ventral_DMN - Right Retrosplenial Cortex, Posterior Cingulate Cortex,ventral_DMN - Right Lobule IX,ventral_DMN - Right Parahippocampal Gyrus,133
+ventral_DMN - Left Middle Frontal Gyrus,ventral_DMN - Precuneus,ventral_DMN - Right Lobule IX,133
+ventral_DMN - Left Retrosplenial Cortex, Posterior Cingulate Cortex,ventral_DMN - Precuneus,ventral_DMN - Right Lobule IX,132
+ventral_DMN - Left Retrosplenial Cortex, Posterior Cingulate Cortex,ventral_DMN - Left Middle Frontal Gyrus,ventral_DMN - Precuneus,131
+ventral_DMN - Left Retrosplenial Cortex, Posterior Cingulate Cortex,ventral_DMN - Left Middle Occipital Gyrus,ventral_DMN - Right Parahippocampal Gyrus,131
+ventral_DMN - Right Retrosplenial Cortex, Posterior Cingulate Cortex,ventral_DMN - Precuneus,ventral_DMN - Right Lobule IX,131
+ventral_DMN - Left Parahippocampal Gyrus,ventral_DMN - Right Retrosplenial Cortex, Posterior Cingulate Cortex,ventral_DMN - Right Superior Frontal Gyrus, Middle Frontal Gyrus,130
+ventral_DMN - Left Retrosplenial Cortex, Posterior Cingulate Cortex,ventral_DMN - Right Superior Frontal Gyrus, Middle Frontal Gyrus,ventral_DMN - Right Parahippocampal Gyrus,130
+ventral_DMN - Left Retrosplenial Cortex, Posterior Cingulate Cortex,ventral_DMN - Left Middle Frontal Gyrus,ventral_DMN - Right Lobule IX,130
+ventral_DMN - Left Middle Occipital Gyrus,ventral_DMN - Right Parahippocampal Gyrus,ventral_DMN - Right Retrosplenial Cortex, Posterior Cingulate Cortex,129
+ventral_DMN - Left Retrosplenial Cortex, Posterior Cingulate Cortex,ventral_DMN - Right Angular Gyrus, Middle Occipital Gyrus,ventral_DMN - Right Parahippocampal Gyrus,129
+ventral_DMN - Precuneus,ventral_DMN - Right Lobule IX,ventral_DMN - Right Superior Frontal Gyrus, Middle Frontal Gyrus,128
+ventral_DMN - Right Retrosplenial Cortex, Posterior Cingulate Cortex,ventral_DMN - Right Superior Frontal Gyrus, Middle Frontal Gyrus,ventral_DMN - Right Lobule IX,128
+ventral_DMN - Left Middle Frontal Gyrus,ventral_DMN - Precuneus,ventral_DMN - Right Retrosplenial Cortex, Posterior Cingulate Cortex,126
+ventral_DMN - Right Retrosplenial Cortex, Posterior Cingulate Cortex,ventral_DMN - Right Superior Frontal Gyrus, Middle Frontal Gyrus,ventral_DMN - Right Parahippocampal Gyrus,126
+ventral_DMN - Left Retrosplenial Cortex, Posterior Cingulate Cortex,ventral_DMN - Left Middle Frontal Gyrus,ventral_DMN - Left Parahippocampal Gyrus,125
+ventral_DMN - Right Retrosplenial Cortex, Posterior Cingulate Cortex,ventral_DMN - Right Superior Frontal Gyrus, Middle Frontal Gyrus,ventral_DMN - Precuneus,125
+ventral_DMN - Left Middle Frontal Gyrus,ventral_DMN - Left Parahippocampal Gyrus,ventral_DMN - Right Retrosplenial Cortex, Posterior Cingulate Cortex,124
+ventral_DMN - Left Middle Frontal Gyrus,ventral_DMN - Right Lobule IX,ventral_DMN - Right Retrosplenial Cortex, Posterior Cingulate Cortex,124
+ventral_DMN - Left Retrosplenial Cortex, Posterior Cingulate Cortex,ventral_DMN - Right Lobule IX,ventral_DMN - Right Parahippocampal Gyrus,124
+ventral_DMN - Left Middle Frontal Gyrus,ventral_DMN - Right Parahippocampal Gyrus,ventral_DMN - Right Retrosplenial Cortex, Posterior Cingulate Cortex,123
+ventral_DMN - Left Middle Frontal Gyrus,ventral_DMN - Left Middle Occipital Gyrus,ventral_DMN - Right Lobule IX,122
+ventral_DMN - Left Parahippocampal Gyrus,ventral_DMN - Precuneus,ventral_DMN - Right Lobule IX,122
+ventral_DMN - Precuneus,ventral_DMN - Right Superior Frontal Gyrus, Middle Frontal Gyrus,ventral_DMN - Right Angular Gyrus, Middle Occipital Gyrus,121
+ventral_DMN - Left Retrosplenial Cortex, Posterior Cingulate Cortex,ventral_DMN - Left Middle Frontal Gyrus,ventral_DMN - Right Parahippocampal Gyrus,120

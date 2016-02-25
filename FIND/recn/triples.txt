@@ -1,0 +1,14 @@
+/Users/emilyschlafly/Work/cyclicity_repo/FIND/recn
+Total subjects: 200
+RECN - Right Inferior Parietal Gyrus, Supramariginal Gyrus, Angular Gyrus,RECN - Left Crus I, Crus II, Lobule VI,RECN - Right Superior Frontal Gyrus,174
+RECN - Right Middle Frontal Gyrus, Right Superior Frontal Gyrus,RECN - Left Crus I, Crus II, Lobule VI,RECN - Right Superior Frontal Gyrus,167
+RECN - Right Middle Frontal Gyrus,RECN - Left Crus I, Crus II, Lobule VI,RECN - Right Superior Frontal Gyrus,164
+RECN - Right Superior Frontal Gyrus,RECN - Right Caudate,RECN - Left Crus I, Crus II, Lobule VI,140
+RECN - Right Middle Frontal Gyrus, Right Superior Frontal Gyrus,RECN - Right Middle Frontal Gyrus,RECN - Right Superior Frontal Gyrus,135
+RECN - Right Inferior Parietal Gyrus, Supramariginal Gyrus, Angular Gyrus,RECN - Right Caudate,RECN - Right Superior Frontal Gyrus,135
+RECN - Right Middle Frontal Gyrus, Right Superior Frontal Gyrus,RECN - Right Caudate,RECN - Right Superior Frontal Gyrus,132
+RECN - Right Middle Frontal Gyrus, Right Superior Frontal Gyrus,RECN - Right Middle Frontal Gyrus,RECN - Left Crus I, Crus II, Lobule VI,132
+RECN - Right Middle Frontal Gyrus,RECN - Right Superior Frontal Gyrus,RECN - Right Inferior Parietal Gyrus, Supramariginal Gyrus, Angular Gyrus,125
+RECN - Right Middle Frontal Gyrus, Right Superior Frontal Gyrus,RECN - Right Inferior Parietal Gyrus, Supramariginal Gyrus, Angular Gyrus,RECN - Left Crus I, Crus II, Lobule VI,124
+RECN - Right Middle Frontal Gyrus, Right Superior Frontal Gyrus,RECN - Right Middle Frontal Gyrus,RECN - Right Caudate,120
+RECN - Right Middle Frontal Gyrus, Right Superior Frontal Gyrus,RECN - Right Inferior Parietal Gyrus, Supramariginal Gyrus, Angular Gyrus,RECN - Right Caudate,120

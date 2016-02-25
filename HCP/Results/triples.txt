@@ -1,0 +1,773 @@
+/Users/emilyschlafly/Work/cyclicity_repo/HCP/Results
+Total subjects: 200
+precuneus,r amygdala,l superior temporal sulcus,144
+precuneus,r amygdala,l superior temporal junction,143
+l inferior frontal lobe,r ventral intraparietal sulcus,l ventral intraparietal sulcus,142
+precuneus,r amygdala,r frontal eye field,141
+l parahippocampus,l primary auditory cortex,r superior occipital lobe,141
+precuneus,r inferior frontal lobe,r frontal eye field,140
+r inferior frontal lobe,r ventral intraparietal sulcus,l ventral intraparietal sulcus,140
+precuneus,l anterior insula,r inferior partietal lobe,140
+r ventral intraparietal sulcus,l ventral intraparietal sulcus,r anterior insula,140
+r ventral intraparietal sulcus,l ventral intraparietal sulcus,l anterior insula,140
+r inferior frontal lobe,r frontal eye field,l ventral intraparietal sulcus,139
+precuneus,l anterior insula,l posterior intraparietal sulc,139
+precuneus,l anterior insula,l superior temporal sulcus,139
+r parahippocampus,l superior temporal junction,precuneus,138
+precuneus,l anterior insula,r frontal eye field,138
+precuneus,r anterior insula,l posterior intraparietal sulc,138
+precuneus,r amygdala,l posterior intraparietal sulc,138
+precuneus,r inferior frontal lobe,r superior temporal sulcus,138
+l parahippocampus,l primary auditory cortex,r primary visual cortex,138
+precuneus,r mid frontal gyrus,l posterior intraparietal sulc,137
+l superior temporal sulcus,l primary visual cortex,r amygdala,137
+r ventral intraparietal sulcus,l ventral intraparietal sulcus,l amygdala,137
+l parahippocampus,r inferior frontal lobe,r superior occipital lobe,137
+l primary auditory cortex,r primary visual cortex,r primary auditory cortex,136
+precuneus,l anterior insula,r posterior intraparietal sulc,136
+precuneus,r inferior frontal lobe,r inferior partietal lobe,136
+precuneus,r amygdala,r inferior partietal lobe,136
+l posterior intraparietal sulc,l cuneus,r superior temporal junction,136
+precuneus,l amygdala,l superior temporal junction,136
+precuneus,l inferior frontal lobe,r superior temporal sulcus,136
+precuneus,l anterior insula,r superior temporal sulcus,136
+l ventral intraparietal sulcus,r amygdala,l superior temporal sulcus,136
+r anterior insula,r superior occipital lobe,l cuneus,136
+r parahippocampus,l posterior intraparietal sulc,precuneus,135
+r parahippocampus,r superior temporal sulcus,precuneus,135
+r inferior frontal lobe,l superior temporal sulcus,l ventral intraparietal sulcus,135
+precuneus,l inferior frontal lobe,l posterior intraparietal sulc,135
+precuneus,r inferior frontal lobe,l posterior intraparietal sulc,135
+r primary auditory cortex,r mid frontal gyrus,l posterior intraparietal sulc,135
+precuneus,r amygdala,l inferior parietal lobe,135
+precuneus,l cuneus,r inferior partietal lobe,135
+l inferior frontal lobe,r posterior intraparietal sulc,r amygdala,135
+l inferior frontal lobe,l mid frontal gyrus,r amygdala,135
+l primary auditory cortex,r superior occipital lobe,r amygdala,135
+l parahippocampus,r inferior frontal lobe,r primary visual cortex,135
+l primary auditory cortex,r superior occipital lobe,l cuneus,135
+l parahippocampus,l anterior insula,r superior occipital lobe,135
+r parahippocampus,r inferior partietal lobe,precuneus,134
+l primary auditory cortex,r superior occipital lobe,r primary auditory cortex,134
+l parahippocampus,l anterior insula,r ventral intraparietal sulcus,134
+l posterior intraparietal sulc,l cuneus,r mid frontal gyrus,134
+r posterior intraparietal sulc,r amygdala,l anterior insula,134
+l inferior frontal lobe,r ventral intraparietal sulcus,r amygdala,134
+l primary auditory cortex,r posterior intraparietal sulc,r amygdala,134
+l parahippocampus,r inferior frontal lobe,r cuneus,134
+r parahippocampus,l superior temporal sulcus,precuneus,133
+l parahippocampus,r inferior frontal lobe,r frontal eye field,133
+l parahippocampus,l inferior frontal lobe,r ventral intraparietal sulcus,133
+precuneus,l anterior insula,r ventral intraparietal sulcus,133
+r parahippocampus,r ventral intraparietal sulcus,l ventral intraparietal sulcus,133
+r inferior frontal lobe,r superior temporal sulcus,l ventral intraparietal sulcus,133
+r inferior frontal lobe,r cuneus,l ventral intraparietal sulcus,133
+r primary auditory cortex,l anterior insula,r posterior intraparietal sulc,133
+precuneus,l amygdala,l posterior intraparietal sulc,133
+precuneus,r anterior insula,r inferior partietal lobe,133
+l parahippocampus,r inferior frontal lobe,r superior temporal sulcus,133
+precuneus,r amygdala,r superior temporal sulcus,133
+precuneus,l inferior frontal lobe,l superior temporal sulcus,133
+precuneus,r anterior insula,l superior temporal sulcus,133
+l ventral intraparietal sulcus,l anterior insula,l superior temporal sulcus,133
+r primary auditory cortex,r amygdala,l superior temporal sulcus,133
+r ventral intraparietal sulcus,l ventral intraparietal sulcus,r amygdala,133
+l inferior frontal lobe,r superior temporal sulcus,r amygdala,133
+r frontal eye field,l ventral intraparietal sulcus,l cuneus,133
+l parahippocampus,l amygdala,r superior occipital lobe,133
+precuneus,r amygdala,l primary auditory cortex,132
+r inferior frontal lobe,r frontal eye field,r primary auditory cortex,132
+l primary auditory cortex,r posterior intraparietal sulc,r primary auditory cortex,132
+precuneus,l inferior frontal lobe,r ventral intraparietal sulcus,132
+r inferior frontal lobe,r superior occipital lobe,l ventral intraparietal sulcus,132
+precuneus,l inferior frontal lobe,r posterior intraparietal sulc,132
+l parahippocampus,r mid frontal gyrus,l posterior intraparietal sulc,132
+precuneus,l inferior frontal lobe,r inferior partietal lobe,132
+precuneus,l primary auditory cortex,r inferior partietal lobe,132
+precuneus,l anterior insula,l superior temporal junction,132
+r posterior intraparietal sulc,r amygdala,l superior temporal sulcus,132
+r ventral intraparietal sulcus,l cuneus,r anterior insula,132
+l primary auditory cortex,l primary visual cortex,r amygdala,132
+l parahippocampus,l amygdala,r primary visual cortex,132
+r ventral intraparietal sulcus,l ventral intraparietal sulcus,l cuneus,132
+precuneus,r amygdala,r cuneus,132
+r parahippocampus,r frontal eye field,precuneus,131
+medial prefrontal cortex,r amygdala,l inferior frontal lobe,131
+precuneus,r anterior insula,r frontal eye field,131
+r parahippocampus,l superior temporal sulcus,l ventral intraparietal sulcus,131
+l parahippocampus,l anterior insula,l inferior parietal lobe,131
+precuneus,l anterior insula,l inferior parietal lobe,131
+l parahippocampus,l amygdala,l inferior parietal lobe,131
+precuneus,l amygdala,r superior temporal junction,131
+l ventral intraparietal sulcus,l cuneus,r superior temporal junction,131
+precuneus,r inferior frontal lobe,l superior temporal junction,131
+l ventral intraparietal sulcus,r anterior insula,l superior temporal sulcus,131
+l parahippocampus,l anterior insula,l superior temporal sulcus,131
+r primary auditory cortex,l anterior insula,l superior temporal sulcus,131
+l ventral intraparietal sulcus,l amygdala,l superior temporal sulcus,131
+r ventral intraparietal sulcus,l ventral intraparietal sulcus,l mid frontal gyrus,131
+l primary auditory cortex,r primary visual cortex,r amygdala,131
+l superior temporal sulcus,l cuneus,r amygdala,131
+r inferior frontal lobe,r frontal eye field,l amygdala,131
+l primary auditory cortex,l ventral intraparietal sulcus,l amygdala,131
+l parahippocampus,l inferior frontal lobe,r primary visual cortex,131
+l parahippocampus,l inferior frontal lobe,r cuneus,131
+l parahippocampus,l primary auditory cortex,r cuneus,131
+l parahippocampus,l inferior frontal lobe,r superior occipital lobe,131
+precuneus,l primary auditory cortex,r superior occipital lobe,131
+l parahippocampus,r anterior insula,r superior occipital lobe,131
+precuneus,r anterior insula,r superior occipital lobe,131
+precuneus,r amygdala,l inferior frontal lobe,130
+medial prefrontal cortex,r amygdala,l primary auditory cortex,130
+l inferior frontal lobe,r posterior intraparietal sulc,r primary auditory cortex,130
+r inferior frontal lobe,r primary visual cortex,r primary auditory cortex,130
+precuneus,l inferior frontal lobe,r frontal eye field,130
+l frontal eye field,r ventral intraparietal sulcus,l ventral intraparietal sulcus,130
+l inferior frontal lobe,l superior temporal sulcus,l ventral intraparietal sulcus,130
+l parahippocampus,r inferior frontal lobe,l inferior parietal lobe,130
+precuneus,l amygdala,l inferior parietal lobe,130
+r ventral intraparietal sulcus,l ventral intraparietal sulcus,r superior temporal junction,130
+precuneus,l anterior insula,r superior temporal junction,130
+r posterior intraparietal sulc,l cuneus,r superior temporal junction,130
+precuneus,l inferior frontal lobe,l superior temporal junction,130
+precuneus,r inferior frontal lobe,l superior temporal sulcus,130
+precuneus,l amygdala,l superior temporal sulcus,130
+medial prefrontal cortex,r amygdala,r anterior insula,130
+l posterior intraparietal sulc,l cuneus,r anterior insula,130
+l superior temporal sulcus,l cuneus,r anterior insula,130
+r ventral intraparietal sulcus,r amygdala,l anterior insula,130
+l mid frontal gyrus,r amygdala,l anterior insula,130
+l superior temporal sulcus,l primary visual cortex,l anterior insula,130
+posterior cingulate cortex,precuneus,r amygdala,130
+l inferior frontal lobe,l primary visual cortex,r amygdala,130
+r frontal eye field,l posterior intraparietal sulc,l cuneus,130
+r superior temporal junction,r superior occipital lobe,l cuneus,130
+l anterior insula,l superior occipital lobe,l cuneus,130
+l parahippocampus,l anterior insula,r cuneus,130
+l parahippocampus,l amygdala,r cuneus,130
+precuneus,l anterior insula,r superior occipital lobe,130
+l ventral intraparietal sulcus,l amygdala,l superior occipital lobe,130
+l parahippocampus,posterior cingulate cortex,precuneus,129
+l inferior frontal lobe,r primary visual cortex,r primary auditory cortex,129
+precuneus,l cuneus,r frontal eye field,129
+precuneus,r anterior insula,r ventral intraparietal sulcus,129
+l parahippocampus,r ventral intraparietal sulcus,l ventral intraparietal sulcus,129
+precuneus,l primary auditory cortex,r posterior intraparietal sulc,129
+r primary auditory cortex,l mid frontal gyrus,r posterior intraparietal sulc,129
+l parahippocampus,r inferior frontal lobe,l posterior intraparietal sulc,129
+precuneus,l primary auditory cortex,l posterior intraparietal sulc,129
+l parahippocampus,l anterior insula,l posterior intraparietal sulc,129
+l parahippocampus,r inferior frontal lobe,r inferior partietal lobe,129
+l parahippocampus,l anterior insula,r inferior partietal lobe,129
+precuneus,l amygdala,r inferior partietal lobe,129
+r inferior partietal lobe,l amygdala,r superior temporal junction,129
+precuneus,l cuneus,r superior temporal junction,129
+r ventral intraparietal sulcus,l cuneus,r superior temporal junction,129
+precuneus,l cuneus,l superior temporal junction,129
+r inferior partietal lobe,r amygdala,l anterior insula,129
+r inferior partietal lobe,l amygdala,l anterior insula,129
+l primary auditory cortex,l ventral intraparietal sulcus,r amygdala,129
+r anterior insula,l primary visual cortex,r amygdala,129
+r anterior insula,r superior occipital lobe,r amygdala,129
+r inferior frontal lobe,r superior temporal sulcus,l amygdala,129
+l primary auditory cortex,r superior occipital lobe,l amygdala,129
+r primary auditory cortex,r mid frontal gyrus,r primary visual cortex,129
+l primary auditory cortex,r posterior intraparietal sulc,l cuneus,129
+l primary auditory cortex,r primary visual cortex,l cuneus,129
+r anterior insula,r cuneus,l cuneus,129
+r superior temporal junction,l superior occipital lobe,l cuneus,129
+r anterior insula,l superior occipital lobe,l cuneus,129
+r amygdala,l superior occipital lobe,l cuneus,129
+precuneus,l inferior frontal lobe,r cuneus,129
+l parahippocampus,l anterior insula,l superior occipital lobe,129
+l parahippocampus,l superior temporal junction,precuneus,128
+l inferior frontal lobe,r ventral intraparietal sulcus,r primary auditory cortex,128
+r inferior frontal lobe,r superior temporal sulcus,r primary auditory cortex,128
+r primary auditory cortex,l anterior insula,r frontal eye field,128
+r primary auditory cortex,r amygdala,r frontal eye field,128
+precuneus,l amygdala,r frontal eye field,128
+r primary auditory cortex,l anterior insula,r ventral intraparietal sulcus,128
+precuneus,r amygdala,r ventral intraparietal sulcus,128
+l parahippocampus,l anterior insula,r posterior intraparietal sulc,128
+precuneus,l amygdala,r posterior intraparietal sulc,128
+precuneus,l frontal eye field,l posterior intraparietal sulc,128
+precuneus,l superior occipital lobe,l posterior intraparietal sulc,128
+precuneus,r primary auditory cortex,l inferior parietal lobe,128
+precuneus,r mid frontal gyrus,r inferior partietal lobe,128
+r primary auditory cortex,r amygdala,l superior temporal junction,128
+precuneus,l amygdala,r superior temporal sulcus,128
+l parahippocampus,l amygdala,r anterior insula,128
+r ventral intraparietal sulcus,l amygdala,r anterior insula,128
+r posterior intraparietal sulc,l cuneus,r anterior insula,128
+r superior temporal junction,r amygdala,l anterior insula,128
+r superior temporal sulcus,r amygdala,l anterior insula,128
+r frontal eye field,l amygdala,l anterior insula,128
+r ventral intraparietal sulcus,l amygdala,l anterior insula,128
+l primary auditory cortex,r primary visual cortex,l anterior insula,128
+r posterior intraparietal sulc,l cuneus,l anterior insula,128
+l primary auditory cortex,r inferior partietal lobe,r amygdala,128
+l inferior frontal lobe,r mid frontal gyrus,r amygdala,128
+l inferior frontal lobe,l cuneus,r amygdala,128
+l inferior frontal lobe,r superior occipital lobe,r amygdala,128
+l primary auditory cortex,r inferior partietal lobe,l amygdala,128
+l primary auditory cortex,l primary visual cortex,l amygdala,128
+r anterior insula,l primary visual cortex,l amygdala,128
+r primary auditory cortex,r amygdala,r primary visual cortex,128
+l primary auditory cortex,r cuneus,l cuneus,128
+precuneus,r inferior frontal lobe,r cuneus,128
+precuneus,l anterior insula,r cuneus,128
+l ventral intraparietal sulcus,l amygdala,r cuneus,128
+precuneus,r inferior frontal lobe,r superior occipital lobe,128
+l ventral intraparietal sulcus,r anterior insula,r superior occipital lobe,128
+precuneus,r amygdala,r superior occipital lobe,128
+l ventral intraparietal sulcus,l anterior insula,l superior occipital lobe,128
+r parahippocampus,l inferior parietal lobe,precuneus,127
+r parahippocampus,r superior temporal junction,precuneus,127
+r parahippocampus,l parahippocampus,r inferior frontal lobe,127
+r inferior frontal lobe,r superior occipital lobe,r primary auditory cortex,127
+l primary auditory cortex,r superior occipital lobe,l frontal eye field,127
+l parahippocampus,l anterior insula,r frontal eye field,127
+l parahippocampus,r inferior frontal lobe,r ventral intraparietal sulcus,127
+l parahippocampus,l primary auditory cortex,l ventral intraparietal sulcus,127
+r inferior frontal lobe,l primary auditory cortex,l ventral intraparietal sulcus,127
+medial prefrontal cortex,r ventral intraparietal sulcus,l ventral intraparietal sulcus,127
+l primary auditory cortex,r ventral intraparietal sulcus,l ventral intraparietal sulcus,127
+r primary auditory cortex,r mid frontal gyrus,r posterior intraparietal sulc,127
+precuneus,r anterior insula,r posterior intraparietal sulc,127
+precuneus,r amygdala,r posterior intraparietal sulc,127
+precuneus,r superior temporal junction,l posterior intraparietal sulc,127
+precuneus,l mid frontal gyrus,l posterior intraparietal sulc,127
+l parahippocampus,l inferior frontal lobe,l inferior parietal lobe,127
+precuneus,l inferior frontal lobe,l inferior parietal lobe,127
+precuneus,r superior temporal junction,r inferior partietal lobe,127
+l ventral intraparietal sulcus,l cuneus,r inferior partietal lobe,127
+precuneus,r amygdala,r superior temporal junction,127
+l parahippocampus,l inferior frontal lobe,r superior temporal sulcus,127
+l parahippocampus,l anterior insula,r superior temporal sulcus,127
+l frontal eye field,l anterior insula,r superior temporal sulcus,127
+l parahippocampus,r amygdala,l superior temporal sulcus,127
+r ventral intraparietal sulcus,r amygdala,r anterior insula,127
+l posterior intraparietal sulc,l amygdala,r anterior insula,127
+l superior temporal sulcus,l amygdala,l anterior insula,127
+l superior temporal sulcus,r primary visual cortex,l anterior insula,127
+r ventral intraparietal sulcus,l cuneus,l anterior insula,127
+l superior temporal sulcus,l cuneus,l anterior insula,127
+r frontal eye field,l ventral intraparietal sulcus,r amygdala,127
+l inferior frontal lobe,l posterior intraparietal sulc,r amygdala,127
+l inferior frontal lobe,r primary visual cortex,r amygdala,127
+l anterior insula,l primary visual cortex,r amygdala,127
+l inferior frontal lobe,r cuneus,r amygdala,127
+l anterior insula,r superior occipital lobe,r amygdala,127
+l primary auditory cortex,r primary visual cortex,l amygdala,127
+posterior cingulate cortex,l primary auditory cortex,r primary visual cortex,127
+l parahippocampus,l anterior insula,r primary visual cortex,127
+l parahippocampus,l primary auditory cortex,l primary visual cortex,127
+l inferior frontal lobe,r ventral intraparietal sulcus,l cuneus,127
+r frontal eye field,r posterior intraparietal sulc,l cuneus,127
+r mid frontal gyrus,r cuneus,l cuneus,127
+r amygdala,r cuneus,l cuneus,127
+precuneus,l amygdala,r cuneus,127
+r primary auditory cortex,l anterior insula,r superior occipital lobe,127
+precuneus,l amygdala,r superior occipital lobe,127
+l ventral intraparietal sulcus,l amygdala,r superior occipital lobe,127
+medial prefrontal cortex,l posterior intraparietal sulc,precuneus,126
+l inferior frontal lobe,l superior temporal sulcus,r primary auditory cortex,126
+precuneus,l primary auditory cortex,r frontal eye field,126
+posterior cingulate cortex,r anterior insula,r frontal eye field,126
+l inferior frontal lobe,r cuneus,l ventral intraparietal sulcus,126
+precuneus,r inferior frontal lobe,r posterior intraparietal sulc,126
+l parahippocampus,l primary auditory cortex,r posterior intraparietal sulc,126
+r inferior frontal lobe,r frontal eye field,l posterior intraparietal sulc,126
+r primary auditory cortex,l anterior insula,l posterior intraparietal sulc,126
+precuneus,r inferior frontal lobe,l inferior parietal lobe,126
+l parahippocampus,l primary auditory cortex,l inferior parietal lobe,126
+l parahippocampus,r amygdala,l inferior parietal lobe,126
+l parahippocampus,l primary auditory cortex,r inferior partietal lobe,126
+precuneus,r mid frontal gyrus,l superior temporal junction,126
+l parahippocampus,r inferior frontal lobe,l superior temporal sulcus,126
+posterior cingulate cortex,r anterior insula,l superior temporal sulcus,126
+r posterior intraparietal sulc,l cuneus,l mid frontal gyrus,126
+precuneus,r amygdala,r anterior insula,126
+r posterior intraparietal sulc,r amygdala,r anterior insula,126
+l posterior intraparietal sulc,r amygdala,r anterior insula,126
+l mid frontal gyrus,r amygdala,r anterior insula,126
+r inferior partietal lobe,l amygdala,r anterior insula,126
+r frontal eye field,l ventral intraparietal sulcus,l anterior insula,126
+medial prefrontal cortex,r amygdala,l anterior insula,126
+l posterior intraparietal sulc,r amygdala,l anterior insula,126
+r posterior intraparietal sulc,l amygdala,l anterior insula,126
+r superior temporal sulcus,l amygdala,l anterior insula,126
+l inferior frontal lobe,r primary auditory cortex,r amygdala,126
+l inferior frontal lobe,r inferior partietal lobe,r amygdala,126
+r parahippocampus,l primary visual cortex,r amygdala,126
+l superior temporal sulcus,r superior occipital lobe,r amygdala,126
+r parahippocampus,l parahippocampus,l amygdala,126
+l primary auditory cortex,r posterior intraparietal sulc,l amygdala,126
+r inferior frontal lobe,r inferior partietal lobe,l amygdala,126
+l superior temporal sulcus,l primary visual cortex,l amygdala,126
+r anterior insula,r superior occipital lobe,l amygdala,126
+l parahippocampus,r mid frontal gyrus,r primary visual cortex,126
+l inferior frontal lobe,l superior temporal sulcus,l primary visual cortex,126
+l primary auditory cortex,l ventral intraparietal sulcus,l cuneus,126
+l inferior frontal lobe,r cuneus,l cuneus,126
+r superior temporal junction,r cuneus,l cuneus,126
+l anterior insula,r superior occipital lobe,l cuneus,126
+r mid frontal gyrus,l superior occipital lobe,l cuneus,126
+precuneus,l inferior frontal lobe,r superior occipital lobe,126
+r primary auditory cortex,r anterior insula,r superior occipital lobe,126
+precuneus,l anterior insula,l superior occipital lobe,126
+precuneus,r amygdala,l superior occipital lobe,126
+l ventral intraparietal sulcus,r amygdala,l superior occipital lobe,126
+r parahippocampus,r posterior intraparietal sulc,precuneus,125
+r parahippocampus,l primary visual cortex,precuneus,125
+precuneus,l amygdala,l primary auditory cortex,125
+r inferior frontal lobe,r posterior intraparietal sulc,r primary auditory cortex,125
+l inferior frontal lobe,r superior temporal sulcus,r primary auditory cortex,125
+posterior cingulate cortex,r inferior frontal lobe,r frontal eye field,125
+l parahippocampus,l primary auditory cortex,r ventral intraparietal sulcus,125
+l parahippocampus,r anterior insula,r ventral intraparietal sulcus,125
+l parahippocampus,l amygdala,r ventral intraparietal sulcus,125
+r primary auditory cortex,r ventral intraparietal sulcus,l ventral intraparietal sulcus,125
+l parahippocampus,l superior temporal sulcus,l ventral intraparietal sulcus,125
+l primary auditory cortex,r superior occipital lobe,l ventral intraparietal sulcus,125
+l parahippocampus,l inferior frontal lobe,l posterior intraparietal sulc,125
+r inferior frontal lobe,r mid frontal gyrus,l posterior intraparietal sulc,125
+precuneus,r primary auditory cortex,r inferior partietal lobe,125
+r posterior intraparietal sulc,l cuneus,r inferior partietal lobe,125
+l parahippocampus,l amygdala,r superior temporal junction,125
+l posterior intraparietal sulc,l amygdala,r superior temporal junction,125
+r primary auditory cortex,r mid frontal gyrus,l superior temporal junction,125
+r ventral intraparietal sulcus,l ventral intraparietal sulcus,r superior temporal sulcus,125
+l parahippocampus,l inferior frontal lobe,l superior temporal sulcus,125
+r ventral intraparietal sulcus,r amygdala,l superior temporal sulcus,125
+r inferior partietal lobe,r amygdala,l superior temporal sulcus,125
+l ventral intraparietal sulcus,l cuneus,l superior temporal sulcus,125
+posterior cingulate cortex,r anterior insula,r mid frontal gyrus,125
+r posterior intraparietal sulc,l cuneus,r mid frontal gyrus,125
+l frontal eye field,l anterior insula,l mid frontal gyrus,125
+r posterior intraparietal sulc,r primary visual cortex,l mid frontal gyrus,125
+l parahippocampus,r inferior frontal lobe,r anterior insula,125
+r primary auditory cortex,r amygdala,r anterior insula,125
+r frontal eye field,l amygdala,r anterior insula,125
+l ventral intraparietal sulcus,l amygdala,r anterior insula,125
+l superior temporal sulcus,l amygdala,r anterior insula,125
+precuneus,r amygdala,l anterior insula,125
+l ventral intraparietal sulcus,l amygdala,l anterior insula,125
+r ventral intraparietal sulcus,r primary visual cortex,l anterior insula,125
+r posterior intraparietal sulc,r primary visual cortex,l anterior insula,125
+r parahippocampus,l parahippocampus,r amygdala,125
+l inferior frontal lobe,l ventral intraparietal sulcus,r amygdala,125
+l superior temporal sulcus,r primary visual cortex,r amygdala,125
+l anterior insula,l superior occipital lobe,r amygdala,125
+l parahippocampus,r amygdala,r primary visual cortex,125
+r inferior frontal lobe,l superior temporal sulcus,l primary visual cortex,125
+l inferior frontal lobe,r posterior intraparietal sulc,l cuneus,125
+r superior temporal junction,r primary visual cortex,l cuneus,125
+r anterior insula,r primary visual cortex,l cuneus,125
+l superior temporal junction,r superior occipital lobe,l cuneus,125
+r mid frontal gyrus,r superior occipital lobe,l cuneus,125
+l parahippocampus,r amygdala,r cuneus,125
+r parahippocampus,l superior temporal sulcus,r superior occipital lobe,125
+l parahippocampus,r mid frontal gyrus,r superior occipital lobe,125
+l parahippocampus,l amygdala,l superior occipital lobe,125
+l parahippocampus,r frontal eye field,precuneus,124
+l parahippocampus,r inferior partietal lobe,precuneus,124
+r inferior frontal lobe,l posterior intraparietal sulc,r primary auditory cortex,124
+r inferior frontal lobe,l superior temporal sulcus,r primary auditory cortex,124
+l inferior frontal lobe,r cuneus,r primary auditory cortex,124
+r inferior frontal lobe,r cuneus,r primary auditory cortex,124
+l primary auditory cortex,r cuneus,r primary auditory cortex,124
+l inferior frontal lobe,r superior occipital lobe,r primary auditory cortex,124
+r parahippocampus,r superior temporal sulcus,l frontal eye field,124
+r inferior frontal lobe,r superior temporal sulcus,l frontal eye field,124
+posterior cingulate cortex,l primary auditory cortex,r frontal eye field,124
+precuneus,l frontal eye field,r frontal eye field,124
+posterior cingulate cortex,l anterior insula,r frontal eye field,124
+posterior cingulate cortex,r ventral intraparietal sulcus,l ventral intraparietal sulcus,124
+l frontal eye field,l superior temporal sulcus,l ventral intraparietal sulcus,124
+r inferior frontal lobe,r mid frontal gyrus,l ventral intraparietal sulcus,124
+l parahippocampus,l inferior frontal lobe,r posterior intraparietal sulc,124
+precuneus,l mid frontal gyrus,r posterior intraparietal sulc,124
+l parahippocampus,l primary auditory cortex,l posterior intraparietal sulc,124
+l parahippocampus,r superior temporal junction,l posterior intraparietal sulc,124
+r primary auditory cortex,r superior temporal junction,l posterior intraparietal sulc,124
+l parahippocampus,l amygdala,l posterior intraparietal sulc,124
+precuneus,r anterior insula,l inferior parietal lobe,124
+posterior cingulate cortex,l superior temporal junction,r inferior partietal lobe,124
+r posterior intraparietal sulc,r primary visual cortex,r inferior partietal lobe,124
+l ventral intraparietal sulcus,l amygdala,r superior temporal junction,124
+l inferior parietal lobe,l cuneus,r superior temporal junction,124
+precuneus,r anterior insula,l superior temporal junction,124
+l ventral intraparietal sulcus,l cuneus,l superior temporal junction,124
+r primary auditory cortex,l anterior insula,r superior temporal sulcus,124
+l posterior intraparietal sulc,l amygdala,r mid frontal gyrus,124
+l ventral intraparietal sulcus,l cuneus,r anterior insula,124
+l posterior intraparietal sulc,l amygdala,l anterior insula,124
+l mid frontal gyrus,l amygdala,l anterior insula,124
+r frontal eye field,l posterior intraparietal sulc,r amygdala,124
+l anterior insula,l cuneus,r amygdala,124
+l primary auditory cortex,r cuneus,r amygdala,124
+l parahippocampus,r posterior intraparietal sulc,r primary visual cortex,124
+r primary auditory cortex,l anterior insula,r primary visual cortex,124
+r primary auditory cortex,l amygdala,r primary visual cortex,124
+l parahippocampus,r inferior frontal lobe,l primary visual cortex,124
+l frontal eye field,l superior temporal sulcus,l primary visual cortex,124
+l parahippocampus,l anterior insula,l primary visual cortex,124
+l anterior insula,r cuneus,l cuneus,124
+r frontal eye field,r superior occipital lobe,l cuneus,124
+l amygdala,l superior occipital lobe,l cuneus,124
+precuneus,l primary auditory cortex,r cuneus,124
+l parahippocampus,r mid frontal gyrus,r cuneus,124
+precuneus,r anterior insula,r cuneus,124
+l ventral intraparietal sulcus,r amygdala,r cuneus,124
+l parahippocampus,r amygdala,r superior occipital lobe,124
+r posterior intraparietal sulc,r primary visual cortex,l superior occipital lobe,124
+r parahippocampus,posterior cingulate cortex,precuneus,123
+l parahippocampus,l posterior intraparietal sulc,precuneus,123
+r parahippocampus,r cuneus,precuneus,123
+medial prefrontal cortex,l amygdala,r inferior frontal lobe,123
+l inferior frontal lobe,l posterior intraparietal sulc,r primary auditory cortex,123
+l primary auditory cortex,l primary visual cortex,r primary auditory cortex,123
+l inferior frontal lobe,r superior temporal sulcus,l frontal eye field,123
+posterior cingulate cortex,r anterior insula,r ventral intraparietal sulcus,123
+r inferior frontal lobe,r anterior insula,r ventral intraparietal sulcus,123
+precuneus,l amygdala,r ventral intraparietal sulcus,123
+r parahippocampus,r frontal eye field,l ventral intraparietal sulcus,123
+r inferior frontal lobe,r posterior intraparietal sulc,l ventral intraparietal sulcus,123
+r inferior frontal lobe,l inferior parietal lobe,l ventral intraparietal sulcus,123
+r inferior frontal lobe,r inferior partietal lobe,l ventral intraparietal sulcus,123
+r parahippocampus,r superior temporal sulcus,l ventral intraparietal sulcus,123
+l inferior frontal lobe,r superior temporal sulcus,l ventral intraparietal sulcus,123
+r inferior frontal lobe,r anterior insula,l ventral intraparietal sulcus,123
+l parahippocampus,l anterior insula,l ventral intraparietal sulcus,123
+r inferior frontal lobe,l superior occipital lobe,l ventral intraparietal sulcus,123
+r inferior frontal lobe,r frontal eye field,r posterior intraparietal sulc,123
+r parahippocampus,l superior temporal sulcus,r posterior intraparietal sulc,123
+r primary auditory cortex,l superior occipital lobe,r posterior intraparietal sulc,123
+precuneus,l ventral intraparietal sulcus,l posterior intraparietal sulc,123
+r primary auditory cortex,l inferior parietal lobe,l posterior intraparietal sulc,123
+l parahippocampus,r anterior insula,l posterior intraparietal sulc,123
+r primary auditory cortex,r anterior insula,l posterior intraparietal sulc,123
+l parahippocampus,r mid frontal gyrus,l inferior parietal lobe,123
+l ventral intraparietal sulcus,l amygdala,l inferior parietal lobe,123
+l parahippocampus,r superior temporal junction,r inferior partietal lobe,123
+r ventral intraparietal sulcus,r mid frontal gyrus,r superior temporal junction,123
+l parahippocampus,l anterior insula,r superior temporal junction,123
+r posterior intraparietal sulc,l cuneus,l superior temporal junction,123
+precuneus,l primary auditory cortex,r superior temporal sulcus,123
+precuneus,l cuneus,r superior temporal sulcus,123
+l ventral intraparietal sulcus,l cuneus,r superior temporal sulcus,123
+r primary auditory cortex,r anterior insula,l superior temporal sulcus,123
+posterior cingulate cortex,l anterior insula,l superior temporal sulcus,123
+medial prefrontal cortex,r amygdala,l superior temporal sulcus,123
+l posterior intraparietal sulc,r amygdala,l superior temporal sulcus,123
+l parahippocampus,l amygdala,l superior temporal sulcus,123
+posterior cingulate cortex,r inferior frontal lobe,r mid frontal gyrus,123
+precuneus,r inferior frontal lobe,r mid frontal gyrus,123
+l ventral intraparietal sulcus,l cuneus,r mid frontal gyrus,123
+r frontal eye field,l ventral intraparietal sulcus,r anterior insula,123
+r inferior partietal lobe,r amygdala,r anterior insula,123
+l mid frontal gyrus,l amygdala,r anterior insula,123
+l superior temporal sulcus,l primary visual cortex,r anterior insula,123
+l ventral intraparietal sulcus,r amygdala,l anterior insula,123
+l primary auditory cortex,r superior occipital lobe,l anterior insula,123
+r parahippocampus,medial prefrontal cortex,r amygdala,123
+r parahippocampus,r primary auditory cortex,r amygdala,123
+l primary auditory cortex,r primary auditory cortex,r amygdala,123
+l primary auditory cortex,r ventral intraparietal sulcus,r amygdala,123
+r frontal eye field,r posterior intraparietal sulc,r amygdala,123
+l primary auditory cortex,l posterior intraparietal sulc,r amygdala,123
+r parahippocampus,r superior temporal sulcus,r amygdala,123
+l primary auditory cortex,l cuneus,r amygdala,123
+l primary auditory cortex,r frontal eye field,l amygdala,123
+r frontal eye field,l ventral intraparietal sulcus,l amygdala,123
+r inferior frontal lobe,l mid frontal gyrus,l amygdala,123
+l anterior insula,l primary visual cortex,l amygdala,123
+l anterior insula,l superior occipital lobe,l amygdala,123
+r primary auditory cortex,l inferior parietal lobe,r primary visual cortex,123
+l parahippocampus,l superior temporal sulcus,r primary visual cortex,123
+l parahippocampus,r anterior insula,r primary visual cortex,123
+r primary auditory cortex,r anterior insula,r primary visual cortex,123
+precuneus,r amygdala,r primary visual cortex,123
+l parahippocampus,l superior temporal sulcus,l primary visual cortex,123
+precuneus,r anterior insula,l primary visual cortex,123
+r mid frontal gyrus,r primary visual cortex,l cuneus,123
+r superior temporal junction,l primary visual cortex,l cuneus,123
+r inferior frontal lobe,r cuneus,l cuneus,123
+l inferior frontal lobe,r superior occipital lobe,l cuneus,123
+r inferior frontal lobe,r superior occipital lobe,l cuneus,123
+r amygdala,r superior occipital lobe,l cuneus,123
+l mid frontal gyrus,l superior occipital lobe,l cuneus,123
+r primary auditory cortex,r amygdala,r cuneus,123
+l mid frontal gyrus,l superior occipital lobe,r cuneus,123
+l parahippocampus,posterior cingulate cortex,r superior occipital lobe,123
+r primary auditory cortex,l inferior parietal lobe,r superior occipital lobe,123
+r parahippocampus,l superior temporal junction,r superior occipital lobe,123
+l parahippocampus,l superior temporal junction,r superior occipital lobe,123
+l parahippocampus,l superior temporal sulcus,r superior occipital lobe,123
+r primary auditory cortex,r mid frontal gyrus,r superior occipital lobe,123
+l frontal eye field,l anterior insula,r superior occipital lobe,123
+l ventral intraparietal sulcus,l anterior insula,r superior occipital lobe,123
+r parahippocampus,r ventral intraparietal sulcus,precuneus,122
+l parahippocampus,r superior temporal sulcus,precuneus,122
+l inferior frontal lobe,r ventral intraparietal sulcus,r inferior frontal lobe,122
+precuneus,l anterior insula,l primary auditory cortex,122
+l primary auditory cortex,r frontal eye field,r primary auditory cortex,122
+l primary auditory cortex,l posterior intraparietal sulc,r primary auditory cortex,122
+r parahippocampus,r primary visual cortex,r primary auditory cortex,122
+r parahippocampus,l superior temporal junction,l frontal eye field,122
+precuneus,r inferior frontal lobe,r ventral intraparietal sulcus,122
+r primary auditory cortex,r anterior insula,r ventral intraparietal sulcus,122
+l frontal eye field,l anterior insula,r ventral intraparietal sulcus,122
+l parahippocampus,r frontal eye field,l ventral intraparietal sulcus,122
+medial prefrontal cortex,l superior temporal sulcus,l ventral intraparietal sulcus,122
+l frontal eye field,r cuneus,l ventral intraparietal sulcus,122
+l inferior frontal lobe,r superior occipital lobe,l ventral intraparietal sulcus,122
+l parahippocampus,l superior occipital lobe,l ventral intraparietal sulcus,122
+l frontal eye field,l superior occipital lobe,l ventral intraparietal sulcus,122
+l parahippocampus,r inferior frontal lobe,r posterior intraparietal sulc,122
+r primary auditory cortex,l inferior parietal lobe,r posterior intraparietal sulc,122
+r primary auditory cortex,r anterior insula,r posterior intraparietal sulc,122
+l ventral intraparietal sulcus,l anterior insula,r posterior intraparietal sulc,122
+precuneus,l superior occipital lobe,r posterior intraparietal sulc,122
+l parahippocampus,r frontal eye field,l posterior intraparietal sulc,122
+r primary auditory cortex,l mid frontal gyrus,l posterior intraparietal sulc,122
+r primary auditory cortex,r amygdala,l posterior intraparietal sulc,122
+l parahippocampus,posterior cingulate cortex,l inferior parietal lobe,122
+posterior cingulate cortex,l primary auditory cortex,r inferior partietal lobe,122
+precuneus,l frontal eye field,r inferior partietal lobe,122
+l inferior frontal lobe,r superior temporal sulcus,r inferior partietal lobe,122
+l parahippocampus,r mid frontal gyrus,r inferior partietal lobe,122
+r primary auditory cortex,l anterior insula,r inferior partietal lobe,122
+l frontal eye field,l anterior insula,r inferior partietal lobe,122
+precuneus,r inferior frontal lobe,r superior temporal junction,122
+medial prefrontal cortex,r mid frontal gyrus,r superior temporal junction,122
+medial prefrontal cortex,l cuneus,r superior temporal junction,122
+l parahippocampus,l amygdala,l superior temporal junction,122
+l ventral intraparietal sulcus,l amygdala,l superior temporal junction,122
+r posterior intraparietal sulc,r primary visual cortex,l superior temporal junction,122
+medial prefrontal cortex,l inferior frontal lobe,r superior temporal sulcus,122
+precuneus,r anterior insula,r superior temporal sulcus,122
+medial prefrontal cortex,l anterior insula,r superior temporal sulcus,122
+precuneus,l frontal eye field,l superior temporal sulcus,122
+r ventral intraparietal sulcus,l ventral intraparietal sulcus,l superior temporal sulcus,122
+l parahippocampus,r inferior frontal lobe,r mid frontal gyrus,122
+l primary auditory cortex,r cuneus,l mid frontal gyrus,122
+l primary auditory cortex,r superior occipital lobe,l mid frontal gyrus,122
+l parahippocampus,r amygdala,r anterior insula,122
+medial prefrontal cortex,l amygdala,r anterior insula,122
+precuneus,l amygdala,r anterior insula,122
+r primary auditory cortex,r amygdala,l anterior insula,122
+r frontal eye field,r amygdala,l anterior insula,122
+l posterior intraparietal sulc,l cuneus,l anterior insula,122
+l inferior frontal lobe,l inferior parietal lobe,r amygdala,122
+l inferior frontal lobe,r superior temporal junction,r amygdala,122
+l primary auditory cortex,r superior temporal sulcus,r amygdala,122
+posterior cingulate cortex,precuneus,l amygdala,122
+l inferior frontal lobe,r ventral intraparietal sulcus,l amygdala,122
+r inferior frontal lobe,r mid frontal gyrus,l amygdala,122
+l primary auditory cortex,r cuneus,l amygdala,122
+precuneus,l primary auditory cortex,r primary visual cortex,122
+l parahippocampus,l inferior frontal lobe,l primary visual cortex,122
+precuneus,l anterior insula,l primary visual cortex,122
+l inferior frontal lobe,l superior temporal sulcus,l cuneus,122
+r anterior insula,l primary visual cortex,l cuneus,122
+l amygdala,r cuneus,l cuneus,122
+l amygdala,r superior occipital lobe,l cuneus,122
+r frontal eye field,l superior occipital lobe,l cuneus,122
+r primary auditory cortex,r mid frontal gyrus,r cuneus,122
+l ventral intraparietal sulcus,r anterior insula,r cuneus,122
+r primary auditory cortex,l anterior insula,r cuneus,122
+l ventral intraparietal sulcus,l anterior insula,r cuneus,122
+posterior cingulate cortex,l primary auditory cortex,r superior occipital lobe,122
+r primary auditory cortex,r amygdala,r superior occipital lobe,122
+r inferior frontal lobe,r frontal eye field,l superior occipital lobe,122
+l ventral intraparietal sulcus,l mid frontal gyrus,l superior occipital lobe,122
+r inferior frontal lobe,r anterior insula,l superior occipital lobe,122
+l ventral intraparietal sulcus,r anterior insula,l superior occipital lobe,122
+r inferior frontal lobe,l anterior insula,l superior occipital lobe,122
+r primary auditory cortex,l anterior insula,l superior occipital lobe,122
+l parahippocampus,r inferior frontal lobe,medial prefrontal cortex,121
+l parahippocampus,r posterior intraparietal sulc,precuneus,121
+l parahippocampus,l superior temporal sulcus,precuneus,121
+posterior cingulate cortex,precuneus,l inferior frontal lobe,121
+l parahippocampus,r amygdala,l inferior frontal lobe,121
+posterior cingulate cortex,r amygdala,l inferior frontal lobe,121
+medial prefrontal cortex,r primary auditory cortex,r inferior frontal lobe,121
+medial prefrontal cortex,r amygdala,r inferior frontal lobe,121
+l parahippocampus,l amygdala,l primary auditory cortex,121
+l inferior frontal lobe,r frontal eye field,r primary auditory cortex,121
+r parahippocampus,l superior temporal junction,r primary auditory cortex,121
+r inferior frontal lobe,l superior temporal junction,r primary auditory cortex,121
+l inferior frontal lobe,l mid frontal gyrus,l frontal eye field,121
+l parahippocampus,r amygdala,r frontal eye field,121
+medial prefrontal cortex,r frontal eye field,l ventral intraparietal sulcus,121
+l inferior frontal lobe,r frontal eye field,l ventral intraparietal sulcus,121
+l inferior frontal lobe,r posterior intraparietal sulc,l ventral intraparietal sulcus,121
+r parahippocampus,l superior temporal junction,l ventral intraparietal sulcus,121
+r inferior frontal lobe,l superior temporal junction,l ventral intraparietal sulcus,121
+r inferior frontal lobe,r primary visual cortex,l ventral intraparietal sulcus,121
+r parahippocampus,r cuneus,l ventral intraparietal sulcus,121
+l ventral intraparietal sulcus,l mid frontal gyrus,r posterior intraparietal sulc,121
+r primary auditory cortex,r amygdala,r posterior intraparietal sulc,121
+l parahippocampus,l amygdala,r posterior intraparietal sulc,121
+r primary auditory cortex,l amygdala,r posterior intraparietal sulc,121
+l ventral intraparietal sulcus,l amygdala,r posterior intraparietal sulc,121
+precuneus,r frontal eye field,l posterior intraparietal sulc,121
+l inferior frontal lobe,r mid frontal gyrus,l posterior intraparietal sulc,121
+l ventral intraparietal sulcus,r mid frontal gyrus,l posterior intraparietal sulc,121
+l parahippocampus,l mid frontal gyrus,l posterior intraparietal sulc,121
+precuneus,l primary auditory cortex,l inferior parietal lobe,121
+l parahippocampus,l superior temporal junction,l inferior parietal lobe,121
+l parahippocampus,l mid frontal gyrus,l inferior parietal lobe,121
+precuneus,l superior occipital lobe,l inferior parietal lobe,121
+l parahippocampus,l inferior frontal lobe,r inferior partietal lobe,121
+precuneus,l ventral intraparietal sulcus,r inferior partietal lobe,121
+r ventral intraparietal sulcus,l ventral intraparietal sulcus,r inferior partietal lobe,121
+r primary auditory cortex,r mid frontal gyrus,r inferior partietal lobe,121
+precuneus,l mid frontal gyrus,r inferior partietal lobe,121
+l posterior intraparietal sulc,l cuneus,r inferior partietal lobe,121
+medial prefrontal cortex,l anterior insula,r superior temporal junction,121
+l frontal eye field,l anterior insula,r superior temporal junction,121
+r inferior partietal lobe,l cuneus,r superior temporal junction,121
+precuneus,l primary auditory cortex,l superior temporal junction,121
+r posterior intraparietal sulc,r amygdala,l superior temporal junction,121
+r inferior partietal lobe,r amygdala,l superior temporal junction,121
+r inferior partietal lobe,l amygdala,l superior temporal junction,121
+r inferior partietal lobe,l primary visual cortex,l superior temporal junction,121
+l inferior parietal lobe,r cuneus,l superior temporal junction,121
+r ventral intraparietal sulcus,r mid frontal gyrus,l superior temporal sulcus,121
+r posterior intraparietal sulc,r anterior insula,l superior temporal sulcus,121
+l frontal eye field,l anterior insula,l superior temporal sulcus,121
+r ventral intraparietal sulcus,l ventral intraparietal sulcus,r mid frontal gyrus,121
+precuneus,r amygdala,r mid frontal gyrus,121
+l parahippocampus,l anterior insula,r anterior insula,121
+l frontal eye field,l amygdala,r anterior insula,121
+r posterior intraparietal sulc,l amygdala,r anterior insula,121
+l primary auditory cortex,l ventral intraparietal sulcus,l anterior insula,121
+l inferior parietal lobe,r amygdala,l anterior insula,121
+r parahippocampus,precuneus,r amygdala,121
+r parahippocampus,r superior temporal junction,r amygdala,121
+r ventral intraparietal sulcus,l cuneus,r amygdala,121
+l anterior insula,r cuneus,r amygdala,121
+l primary auditory cortex,r ventral intraparietal sulcus,l amygdala,121
+r inferior frontal lobe,l posterior intraparietal sulc,l amygdala,121
+l primary auditory cortex,l posterior intraparietal sulc,l amygdala,121
+l inferior frontal lobe,r superior temporal sulcus,l amygdala,121
+r superior temporal junction,l primary visual cortex,l amygdala,121
+l anterior insula,r superior occipital lobe,l amygdala,121
+r primary auditory cortex,r ventral intraparietal sulcus,r primary visual cortex,121
+r parahippocampus,l superior temporal sulcus,l primary visual cortex,121
+r inferior frontal lobe,r anterior insula,l primary visual cortex,121
+posterior cingulate cortex,precuneus,l cuneus,121
+l primary auditory cortex,r ventral intraparietal sulcus,l cuneus,121
+r parahippocampus,l superior temporal sulcus,l cuneus,121
+r amygdala,r primary visual cortex,l cuneus,121
+l ventral intraparietal sulcus,r mid frontal gyrus,r cuneus,121
+l parahippocampus,r anterior insula,r cuneus,121
+l frontal eye field,l superior temporal sulcus,r superior occipital lobe,121
+r inferior frontal lobe,r mid frontal gyrus,l superior occipital lobe,121
+r posterior intraparietal sulc,r amygdala,l superior occipital lobe,121
+precuneus,l amygdala,l superior occipital lobe,121
+r parahippocampus,r superior temporal sulcus,medial prefrontal cortex,120
+l parahippocampus,r superior temporal junction,precuneus,120
+posterior cingulate cortex,precuneus,r inferior frontal lobe,120
+l inferior frontal lobe,l ventral intraparietal sulcus,r inferior frontal lobe,120
+posterior cingulate cortex,precuneus,r primary auditory cortex,120
+l primary auditory cortex,r ventral intraparietal sulcus,r primary auditory cortex,120
+r inferior frontal lobe,r inferior partietal lobe,r primary auditory cortex,120
+l primary auditory cortex,r inferior partietal lobe,r primary auditory cortex,120
+r parahippocampus,l superior temporal sulcus,r primary auditory cortex,120
+r inferior frontal lobe,r anterior insula,r primary auditory cortex,120
+l parahippocampus,l primary auditory cortex,r frontal eye field,120
+r primary auditory cortex,r mid frontal gyrus,r frontal eye field,120
+r parahippocampus,l superior temporal sulcus,r ventral intraparietal sulcus,120
+l parahippocampus,r amygdala,r ventral intraparietal sulcus,120
+r primary auditory cortex,r amygdala,r ventral intraparietal sulcus,120
+l parahippocampus,l inferior frontal lobe,l ventral intraparietal sulcus,120
+l frontal eye field,r frontal eye field,l ventral intraparietal sulcus,120
+r inferior frontal lobe,l posterior intraparietal sulc,l ventral intraparietal sulcus,120
+r primary auditory cortex,l inferior parietal lobe,l ventral intraparietal sulcus,120
+posterior cingulate cortex,l primary auditory cortex,r posterior intraparietal sulc,120
+r inferior frontal lobe,l primary auditory cortex,r posterior intraparietal sulc,120
+precuneus,l frontal eye field,r posterior intraparietal sulc,120
+r primary auditory cortex,l superior temporal sulcus,r posterior intraparietal sulc,120
+l parahippocampus,l mid frontal gyrus,r posterior intraparietal sulc,120
+l frontal eye field,l anterior insula,r posterior intraparietal sulc,120
+precuneus,r primary auditory cortex,l posterior intraparietal sulc,120
+precuneus,l cuneus,l posterior intraparietal sulc,120
+l parahippocampus,r superior temporal junction,l inferior parietal lobe,120
+l ventral intraparietal sulcus,l cuneus,l inferior parietal lobe,120
+r parahippocampus,r superior temporal junction,r inferior partietal lobe,120
+r inferior frontal lobe,r superior temporal sulcus,r inferior partietal lobe,120
+posterior cingulate cortex,r anterior insula,r inferior partietal lobe,120
+posterior cingulate cortex,l anterior insula,r superior temporal junction,120
+r primary auditory cortex,l anterior insula,r superior temporal junction,120
+l parahippocampus,r inferior frontal lobe,l superior temporal junction,120
+r ventral intraparietal sulcus,l ventral intraparietal sulcus,l superior temporal junction,120
+r primary auditory cortex,l anterior insula,l superior temporal junction,120
+l ventral intraparietal sulcus,r amygdala,l superior temporal junction,120
+r primary auditory cortex,l amygdala,l superior temporal junction,120
+posterior cingulate cortex,r inferior frontal lobe,r superior temporal sulcus,120
+precuneus,l mid frontal gyrus,r superior temporal sulcus,120
+l ventral intraparietal sulcus,l anterior insula,r superior temporal sulcus,120
+medial prefrontal cortex,r amygdala,r superior temporal sulcus,120
+l parahippocampus,l amygdala,r superior temporal sulcus,120
+l ventral intraparietal sulcus,r mid frontal gyrus,l superior temporal sulcus,120
+l parahippocampus,r anterior insula,l superior temporal sulcus,120
+posterior cingulate cortex,precuneus,r mid frontal gyrus,120
+l posterior intraparietal sulc,r amygdala,r mid frontal gyrus,120
+precuneus,l amygdala,r mid frontal gyrus,120
+precuneus,l inferior frontal lobe,l mid frontal gyrus,120
+precuneus,l anterior insula,l mid frontal gyrus,120
+l posterior intraparietal sulc,l cuneus,l mid frontal gyrus,120
+l frontal eye field,l anterior insula,r anterior insula,120
+l ventral intraparietal sulcus,r amygdala,r anterior insula,120
+r mid frontal gyrus,r amygdala,r anterior insula,120
+r primary auditory cortex,l amygdala,r anterior insula,120
+r ventral intraparietal sulcus,r primary visual cortex,r anterior insula,120
+l superior temporal sulcus,r primary visual cortex,r anterior insula,120
+r frontal eye field,l posterior intraparietal sulc,l anterior insula,120
+l superior temporal sulcus,r amygdala,l anterior insula,120
+l primary auditory cortex,l primary visual cortex,l anterior insula,120
+l inferior frontal lobe,l frontal eye field,r amygdala,120
+r anterior insula,r primary visual cortex,r amygdala,120
+r parahippocampus,l cuneus,r amygdala,120
+l ventral intraparietal sulcus,l cuneus,r amygdala,120
+l posterior intraparietal sulc,l cuneus,r amygdala,120
+l primary auditory cortex,r superior temporal sulcus,l amygdala,120
+r parahippocampus,l primary visual cortex,l amygdala,120
+r inferior frontal lobe,l primary visual cortex,l amygdala,120
+r inferior frontal lobe,r cuneus,l amygdala,120
+r inferior frontal lobe,r superior occipital lobe,l amygdala,120
+precuneus,l inferior frontal lobe,r primary visual cortex,120
+precuneus,r inferior frontal lobe,r primary visual cortex,120
+l inferior frontal lobe,r ventral intraparietal sulcus,r primary visual cortex,120
+r frontal eye field,r posterior intraparietal sulc,r primary visual cortex,120
+r primary auditory cortex,l superior temporal sulcus,r primary visual cortex,120
+r primary auditory cortex,l mid frontal gyrus,r primary visual cortex,120
+precuneus,l amygdala,r primary visual cortex,120
+precuneus,l inferior frontal lobe,l primary visual cortex,120
+precuneus,l primary auditory cortex,l primary visual cortex,120
+l inferior frontal lobe,r ventral intraparietal sulcus,l primary visual cortex,120
+r primary auditory cortex,r mid frontal gyrus,l primary visual cortex,120
+l parahippocampus,r anterior insula,l primary visual cortex,120
+precuneus,r amygdala,l primary visual cortex,120
+l parahippocampus,l amygdala,l primary visual cortex,120
+l inferior parietal lobe,r cuneus,l primary visual cortex,120
+r amygdala,r cuneus,l primary visual cortex,120
+l superior temporal junction,r superior occipital lobe,l primary visual cortex,120
+l primary auditory cortex,l posterior intraparietal sulc,l cuneus,120
+l inferior frontal lobe,r primary visual cortex,l cuneus,120
+l frontal eye field,r cuneus,l cuneus,120
+r frontal eye field,r cuneus,l cuneus,120
+l primary auditory cortex,l superior occipital lobe,l cuneus,120
+l frontal eye field,l superior occipital lobe,l cuneus,120
+precuneus,l frontal eye field,r cuneus,120
+r inferior frontal lobe,l primary auditory cortex,r superior occipital lobe,120
+l parahippocampus,r superior temporal junction,r superior occipital lobe,120
+l frontal eye field,r anterior insula,r superior occipital lobe,120
+r primary auditory cortex,l amygdala,r superior occipital lobe,120
+r inferior frontal lobe,r superior temporal sulcus,l superior occipital lobe,120
+l ventral intraparietal sulcus,r mid frontal gyrus,l superior occipital lobe,120
+l parahippocampus,r amygdala,l superior occipital lobe,120

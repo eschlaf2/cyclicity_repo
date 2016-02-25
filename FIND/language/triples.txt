@@ -1,0 +1,10 @@
+/Users/emilyschlafly/Work/cyclicity_repo/FIND/language
+Total subjects: 200
+Language - Inferior Frontal Gyrus,Language - Left Middle Temporal Gyrus, Angular Gyrus,Language - Left Crus I,152
+Language - Inferior Frontal Gyrus,Language - Left Middle Temporal Gyrus, Superior Temporal Gyrus, Supramarginal Gyrus, Angular Gyrus,Language - Left Crus I,148
+Language - Inferior Frontal Gyrus,Language - Right Supramarginal Gyrus, Superior Temporal Gyrus, Middle Temporal Gyrus,Language - Left Crus I,144
+Language - Inferior Frontal Gyrus,Language - Right Inferior Frontal Gyrus,Language - Left Crus I,136
+Language - Left Middle Temporal Gyrus,Language - Left Middle Temporal Gyrus, Angular Gyrus,Language - Left Crus I,132
+Language - Left Middle Temporal Gyrus,Language - Left Middle Temporal Gyrus, Superior Temporal Gyrus, Supramarginal Gyrus, Angular Gyrus,Language - Left Crus I,130
+Language - Left Middle Temporal Gyrus,Language - Right Supramarginal Gyrus, Superior Temporal Gyrus, Middle Temporal Gyrus,Language - Left Crus I,128
+Language - Left Middle Temporal Gyrus,Language - Right Inferior Frontal Gyrus,Language - Left Crus I,121
