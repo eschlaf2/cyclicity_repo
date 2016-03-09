@@ -1,0 +1,104 @@
+Auditory - Left Superior Temporal Gyrus, Heschl's Gyrus
+Auditory - Right Superior Temporal Gyrus
+Auditory - Right Thalamus
+Auditory - Auditory
+Basal_Ganglia - Left Thalamus, Caudate
+Basal_Ganglia - right Thalamus, Caudate, Putamen
+Basal_Ganglia - Left Inferior frontal Gyrus
+Basal_Ganglia - Right Inferior Frontal Gyrus
+Basal_Ganglia - Pons
+Basal_Ganglia - Basal_Ganglia
+LECN - Left Middle Frontal Gyrus, Superior Frontal Gyrus
+LECN - Left Inferior Frontal Gyrus, Orbitofrontal Gyrus
+LECN - Left Superior Parietal Gyrus, Inferior Parietal Gyrus, Precuneus, Angular Gyrus
+LECN - Left Inferior Temporal Gyrus, Middle Temporal Gyrus
+LECN - Right Crus I
+LECN - Left Thalamus
+LECN - LECN
+Language - Inferior Frontal Gyrus
+Language - Left Middle Temporal Gyrus
+Language - Left Middle Temporal Gyrus, Angular Gyrus
+Language - Left Middle Temporal Gyrus, Superior Temporal Gyrus, Supramarginal Gyrus, Angular Gyrus
+Language - Right Inferior Frontal Gyrus
+Language - Right Supramarginal Gyrus, Superior Temporal Gyrus, Middle Temporal Gyrus
+Language - Left Crus I
+Language - Language
+Precuneus - Midcingulate Cortex, Posterior Cingulate Cortex
+Precuneus - Precuneus
+Precuneus - Left Angular Gyrus
+Precuneus - Right Angular Gyrus
+Precuneus - Precuneus
+RECN - Right Middle Frontal Gyrus, Right Superior Frontal Gyrus
+RECN - Right Middle Frontal Gyrus
+RECN - Right Inferior Parietal Gyrus, Supramariginal Gyrus, Angular Gyrus
+RECN - Right Superior Frontal Gyrus
+RECN - Left Crus I, Crus II, Lobule VI
+RECN - Right Caudate
+RECN - RECN
+Sensorimotor - Left Precentral Gyrus, Postcentral Gyrus
+Sensorimotor - Right Precentral Gyrus, Postcentral Gyrus
+Sensorimotor - Right Supplementary Motor Area
+Sensorimotor - Left Thalamus
+Sensorimotor - Bilateral Lobule IV, Lobule V, Lobule VI
+Sensorimotor - Right Thalamus
+Sensorimotor - Sensorimotor
+Visuospatial - Left Middle Frontal Gyrus, Superior Frontal Gyrus, Precentral Gyrus
+Visuospatial - Left Inferior Parietal Sulcus
+Visuospatial - Left Frontal Operculum, Inferior Frontal Gyrus
+Visuospatial - Left Inferior Temporal Gyrus
+Visuospatial - Right Middle Frontal Gyrus
+Visuospatial - Right Inferior Parietal Lobule
+Visuospatial - Right Frontal Operculum, Inferior Frontal Gyrus
+Visuospatial - Right Middle Temporal Gyrus
+Visuospatial - Left Lobule VII, Lobule VIIb
+Visuospatial - Right Lobule VIII, Lobule VIIb
+Visuospatial - Right Lobule VI, Crus I
+Visuospatial - Visuospatial
+anterior_Salience - Left Middle Frontal Gyrus
+anterior_Salience - Left Insula
+anterior_Salience - Anterior Cigulate Cortes, Medial Profrontal Cortex, Supplemenetary Motor Area
+anterior_Salience - Right Middle Frontal Gyrus
+anterior_Salience - Right Insula
+anterior_Salience - Left Lobule VI, Crus I
+anterior_Salience - Right Lobule VI, Crus I
+anterior_Salience - anterior_Salience
+dorsal_DMN - Medial Prefrontal Cortex, Anterior Cingulate Cortex, Orbitofrontal Cortex
+dorsal_DMN - Left Angular Gyrus
+dorsal_DMN - Right Superior Frontal Gyrus
+dorsal_DMN - Posterior Cingulate Cortex, Precuneus
+dorsal_DMN - Midcingulate Cortex
+dorsal_DMN - Right Angular Gyrus
+dorsal_DMN - Left and Right Thalamus
+dorsal_DMN - Left Hippocampus
+dorsal_DMN - Right Hippocampus
+dorsal_DMN - dDMN
+high_Visual - Left Middle Occipital Gyrus, Superior Occipital Gyrus
+high_Visual - Right Middle Occipital Gyrus, Superior Occipital Gyrus
+high_Visual - high_Visual
+post_Salience - Left Middle Frontal Gyrus
+post_Salience - Left Supramarginal Gyrus, Inferior Parietal Gyrus
+post_Salience - Left Precuneus
+post_Salience - Right Midcungulate Cortex
+post_Salience - Right Superior Parietal Gyrus, Precuneus
+post_Salience - Right Supramarginal Gyrus, Inferior Parietal Gyrus
+post_Salience - Left Thalamus
+post_Salience - Lobule VI
+post_Salience - Left Posterior Insula, Putament
+post_Salience - Right Thalamus
+post_Salience - Lobule VI
+post_Salience - Right Posterior Insula
+post_Salience - post_Salience
+prim_Visual - Calcarine Sulcus
+prim_Visual - Left Thalamus
+prim_Visual - prim_Visual
+ventral_DMN - Left Retrosplenial Cortex, Posterior Cingulate Cortex
+ventral_DMN - Left Middle Frontal Gyrus
+ventral_DMN - Left Parahippocampal Gyrus
+ventral_DMN - Left Middle Occipital Gyrus
+ventral_DMN - Right Retrosplenial Cortex, Posterior Cingulate Cortex
+ventral_DMN - Precuneus
+ventral_DMN - Right Superior Frontal Gyrus, Middle Frontal Gyrus
+ventral_DMN - Right Parahippocampal Gyrus
+ventral_DMN - Right Angular Gyrus, Middle Occipital Gyrus
+ventral_DMN - Right Lobule IX
+ventral_DMN - vDMN

@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.15 (TeX Live 2014) (preloaded format=pdflatex 2014.5.25)  17 FEB 2016 17:06
+This is pdfTeX, Version 3.14159265-2.6-1.40.15 (TeX Live 2014) (preloaded format=pdflatex 2014.5.25)  9 MAR 2016 01:26
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -978,28 +978,250 @@ Package pdftex.def Info: pictures/refine_cyclicity_output_n12_evals-eps-convert
 ed-to.pdf used on input line 554.
 (pdftex.def)             Requested size: 430.00462pt x 141.44835pt.
  [15]
-[16 <./pictures/refine_cyclicity_output_n5_evals-eps-converted-to.pdf> <./pictu
-res/refine_cyclicity_output_n8_evals-eps-converted-to.pdf> <./pictures/refine_c
-yclicity_output_n12_evals-eps-converted-to.pdf>] (./Notes.aux) ) 
+Package epstopdf Info: Source file: <pictures/hist_n5_FIND_all.eps>
+(epstopdf)                    date: 2016-03-08 21:27:45
+(epstopdf)                    size: 79197 bytes
+(epstopdf)             Output file: <pictures/hist_n5_FIND_all-eps-converted-to
+.pdf>
+(epstopdf)                    date: 2016-03-08 21:28:27
+(epstopdf)                    size: 16738 bytes
+(epstopdf)             Command: <repstopdf --outfile=pictures/hist_n5_FIND_all-
+eps-converted-to.pdf pictures/hist_n5_FIND_all.eps>
+(epstopdf)             \includegraphics on input line 560.
+Package epstopdf Info: Output file is already uptodate.
+
+<pictures/hist_n5_FIND_all-eps-converted-to.pdf, id=324, 1444.39626pt x 451.687
+5pt>
+File: pictures/hist_n5_FIND_all-eps-converted-to.pdf Graphic file (type pdf)
+ <use pictures/hist_n5_FIND_all-eps-converted-to.pdf>
+Package pdftex.def Info: pictures/hist_n5_FIND_all-eps-converted-to.pdf used on
+ input line 560.
+(pdftex.def)             Requested size: 430.00462pt x 166.95634pt.
+Package epstopdf Info: Source file: <pictures/hist_n5_cyclicity_aud-prec-vdmn.e
+ps>
+(epstopdf)                    date: 2016-03-08 21:40:15
+(epstopdf)                    size: 13651 bytes
+(epstopdf)             Output file: <pictures/hist_n5_cyclicity_aud-prec-vdmn-e
+ps-converted-to.pdf>
+(epstopdf)                    date: 2016-03-08 21:48:21
+(epstopdf)                    size: 8335 bytes
+(epstopdf)             Command: <repstopdf --outfile=pictures/hist_n5_cyclicity
+_aud-prec-vdmn-eps-converted-to.pdf pictures/hist_n5_cyclicity_aud-prec-vdmn.ep
+s>
+(epstopdf)             \includegraphics on input line 561.
+Package epstopdf Info: Output file is already uptodate.
+
+<pictures/hist_n5_cyclicity_aud-prec-vdmn-eps-converted-to.pdf, id=326, 1444.39
+626pt x 451.6875pt>
+File: pictures/hist_n5_cyclicity_aud-prec-vdmn-eps-converted-to.pdf Graphic fil
+e (type pdf)
+
+<use pictures/hist_n5_cyclicity_aud-prec-vdmn-eps-converted-to.pdf>
+Package pdftex.def Info: pictures/hist_n5_cyclicity_aud-prec-vdmn-eps-converted
+-to.pdf used on input line 561.
+(pdftex.def)             Requested size: 430.00462pt x 166.95634pt.
+Package epstopdf Info: Source file: <pictures/hist_n5_cyclicity_FIND_RECN-LECN-
+dDMN-vDMN.eps>
+(epstopdf)                    date: 2016-03-08 21:47:51
+(epstopdf)                    size: 16324 bytes
+(epstopdf)             Output file: <pictures/hist_n5_cyclicity_FIND_RECN-LECN-
+dDMN-vDMN-eps-converted-to.pdf>
+(epstopdf)                    date: 2016-03-08 21:48:23
+(epstopdf)                    size: 9055 bytes
+(epstopdf)             Command: <repstopdf --outfile=pictures/hist_n5_cyclicity
+_FIND_RECN-LECN-dDMN-vDMN-eps-converted-to.pdf pictures/hist_n5_cyclicity_FIND_
+RECN-LECN-dDMN-vDMN.eps>
+(epstopdf)             \includegraphics on input line 562.
+Package epstopdf Info: Output file is already uptodate.
+
+<pictures/hist_n5_cyclicity_FIND_RECN-LECN-dDMN-vDMN-eps-converted-to.pdf, id=3
+28, 1444.39626pt x 451.6875pt>
+File: pictures/hist_n5_cyclicity_FIND_RECN-LECN-dDMN-vDMN-eps-converted-to.pdf 
+Graphic file (type pdf)
+
+<use pictures/hist_n5_cyclicity_FIND_RECN-LECN-dDMN-vDMN-eps-converted-to.pdf>
+Package pdftex.def Info: pictures/hist_n5_cyclicity_FIND_RECN-LECN-dDMN-vDMN-ep
+s-converted-to.pdf used on input line 562.
+(pdftex.def)             Requested size: 430.00462pt x 166.95634pt.
+Package epstopdf Info: Source file: <pictures/eval_ratio_new_FIND_all.eps>
+(epstopdf)                    date: 2016-03-08 22:35:48
+(epstopdf)                    size: 84936 bytes
+(epstopdf)             Output file: <pictures/eval_ratio_new_FIND_all-eps-conve
+rted-to.pdf>
+(epstopdf)                    date: 2016-03-08 22:39:07
+(epstopdf)                    size: 34778 bytes
+(epstopdf)             Command: <repstopdf --outfile=pictures/eval_ratio_new_FI
+ND_all-eps-converted-to.pdf pictures/eval_ratio_new_FIND_all.eps>
+(epstopdf)             \includegraphics on input line 568.
+Package epstopdf Info: Output file is already uptodate.
+
+<pictures/eval_ratio_new_FIND_all-eps-converted-to.pdf, id=330, 561.09625pt x 4
+21.575pt>
+File: pictures/eval_ratio_new_FIND_all-eps-converted-to.pdf Graphic file (type 
+pdf)
+ <use pictures/eval_ratio_new_FIND_all-eps-converted-to.pdf>
+Package pdftex.def Info: pictures/eval_ratio_new_FIND_all-eps-converted-to.pdf 
+used on input line 568.
+(pdftex.def)             Requested size: 193.50076pt x 145.3792pt.
+Package epstopdf Info: Source file: <pictures/eval_ratio_new_aud-prec-vdmn.eps>
+
+(epstopdf)                    date: 2016-03-08 23:07:20
+(epstopdf)                    size: 84992 bytes
+(epstopdf)             Output file: <pictures/eval_ratio_new_aud-prec-vdmn-eps-
+converted-to.pdf>
+(epstopdf)                    date: 2016-03-08 23:08:18
+(epstopdf)                    size: 35285 bytes
+(epstopdf)             Command: <repstopdf --outfile=pictures/eval_ratio_new_au
+d-prec-vdmn-eps-converted-to.pdf pictures/eval_ratio_new_aud-prec-vdmn.eps>
+(epstopdf)             \includegraphics on input line 569.
+Package epstopdf Info: Output file is already uptodate.
+
+<pictures/eval_ratio_new_aud-prec-vdmn-eps-converted-to.pdf, id=331, 561.09625p
+t x 421.575pt>
+File: pictures/eval_ratio_new_aud-prec-vdmn-eps-converted-to.pdf Graphic file (
+type pdf)
+
+<use pictures/eval_ratio_new_aud-prec-vdmn-eps-converted-to.pdf>
+Package pdftex.def Info: pictures/eval_ratio_new_aud-prec-vdmn-eps-converted-to
+.pdf used on input line 569.
+(pdftex.def)             Requested size: 193.50076pt x 145.3792pt.
+Package epstopdf Info: Source file: <pictures/eval_ratio_new_FIND_Visuospatial.
+eps>
+(epstopdf)                    date: 2016-03-08 22:47:28
+(epstopdf)                    size: 84833 bytes
+(epstopdf)             Output file: <pictures/eval_ratio_new_FIND_Visuospatial-
+eps-converted-to.pdf>
+(epstopdf)                    date: 2016-03-08 22:47:36
+(epstopdf)                    size: 34911 bytes
+(epstopdf)             Command: <repstopdf --outfile=pictures/eval_ratio_new_FI
+ND_Visuospatial-eps-converted-to.pdf pictures/eval_ratio_new_FIND_Visuospatial.
+eps>
+(epstopdf)             \includegraphics on input line 570.
+Package epstopdf Info: Output file is already uptodate.
+
+<pictures/eval_ratio_new_FIND_Visuospatial-eps-converted-to.pdf, id=332, 561.09
+625pt x 421.575pt>
+File: pictures/eval_ratio_new_FIND_Visuospatial-eps-converted-to.pdf Graphic fi
+le (type pdf)
+
+<use pictures/eval_ratio_new_FIND_Visuospatial-eps-converted-to.pdf>
+Package pdftex.def Info: pictures/eval_ratio_new_FIND_Visuospatial-eps-converte
+d-to.pdf used on input line 570.
+(pdftex.def)             Requested size: 193.50076pt x 145.3792pt.
+Package epstopdf Info: Source file: <pictures/eval_ratio_new_FIND_dDMN.eps>
+(epstopdf)                    date: 2016-03-08 23:06:07
+(epstopdf)                    size: 85015 bytes
+(epstopdf)             Output file: <pictures/eval_ratio_new_FIND_dDMN-eps-conv
+erted-to.pdf>
+(epstopdf)                    date: 2016-03-08 23:08:19
+(epstopdf)                    size: 34518 bytes
+(epstopdf)             Command: <repstopdf --outfile=pictures/eval_ratio_new_FI
+ND_dDMN-eps-converted-to.pdf pictures/eval_ratio_new_FIND_dDMN.eps>
+(epstopdf)             \includegraphics on input line 571.
+Package epstopdf Info: Output file is already uptodate.
+
+<pictures/eval_ratio_new_FIND_dDMN-eps-converted-to.pdf, id=333, 561.09625pt x 
+421.575pt>
+File: pictures/eval_ratio_new_FIND_dDMN-eps-converted-to.pdf Graphic file (type
+ pdf)
+ <use pictures/eval_ratio_new_FIND_dDMN-eps-converted-to.pdf>
+Package pdftex.def Info: pictures/eval_ratio_new_FIND_dDMN-eps-converted-to.pdf
+ used on input line 571.
+(pdftex.def)             Requested size: 193.50076pt x 145.3792pt.
+Package epstopdf Info: Source file: <pictures/eval_ratio_new_FIND_LECN.eps>
+(epstopdf)                    date: 2016-03-08 22:40:53
+(epstopdf)                    size: 85347 bytes
+(epstopdf)             Output file: <pictures/eval_ratio_new_FIND_LECN-eps-conv
+erted-to.pdf>
+(epstopdf)                    date: 2016-03-08 22:42:52
+(epstopdf)                    size: 35252 bytes
+(epstopdf)             Command: <repstopdf --outfile=pictures/eval_ratio_new_FI
+ND_LECN-eps-converted-to.pdf pictures/eval_ratio_new_FIND_LECN.eps>
+(epstopdf)             \includegraphics on input line 572.
+Package epstopdf Info: Output file is already uptodate.
+
+<pictures/eval_ratio_new_FIND_LECN-eps-converted-to.pdf, id=334, 561.09625pt x 
+421.575pt>
+File: pictures/eval_ratio_new_FIND_LECN-eps-converted-to.pdf Graphic file (type
+ pdf)
+ <use pictures/eval_ratio_new_FIND_LECN-eps-converted-to.pdf>
+Package pdftex.def Info: pictures/eval_ratio_new_FIND_LECN-eps-converted-to.pdf
+ used on input line 572.
+(pdftex.def)             Requested size: 193.50076pt x 145.3792pt.
+Package epstopdf Info: Source file: <pictures/eval_ratio_new_FIND_sensorimotor.
+eps>
+(epstopdf)                    date: 2016-03-08 22:42:00
+(epstopdf)                    size: 85516 bytes
+(epstopdf)             Output file: <pictures/eval_ratio_new_FIND_sensorimotor-
+eps-converted-to.pdf>
+(epstopdf)                    date: 2016-03-08 22:42:53
+(epstopdf)                    size: 34500 bytes
+(epstopdf)             Command: <repstopdf --outfile=pictures/eval_ratio_new_FI
+ND_sensorimotor-eps-converted-to.pdf pictures/eval_ratio_new_FIND_sensorimotor.
+eps>
+(epstopdf)             \includegraphics on input line 573.
+Package epstopdf Info: Output file is already uptodate.
+
+<pictures/eval_ratio_new_FIND_sensorimotor-eps-converted-to.pdf, id=335, 561.09
+625pt x 421.575pt>
+File: pictures/eval_ratio_new_FIND_sensorimotor-eps-converted-to.pdf Graphic fi
+le (type pdf)
+
+<use pictures/eval_ratio_new_FIND_sensorimotor-eps-converted-to.pdf>
+Package pdftex.def Info: pictures/eval_ratio_new_FIND_sensorimotor-eps-converte
+d-to.pdf used on input line 573.
+(pdftex.def)             Requested size: 193.50076pt x 145.3792pt.
+ [16 <./pictures/refine_cyclicity_output_n5_evals-eps-converted-to.pdf> <./pict
+ures/refine_cyclicity_output_n8_evals-eps-converted-to.pdf> <./pictures/refine_
+cyclicity_output_n12_evals-eps-converted-to.pdf>] [17 <./pictures/hist_n5_FIND_
+all-eps-converted-to.pdf> <./pictures/hist_n5_cyclicity_aud-prec-vdmn-eps-conve
+rted-to.pdf> <./pictures/hist_n5_cyclicity_FIND_RECN-LECN-dDMN-vDMN-eps-convert
+ed-to.pdf>] [18 <./pictures/eval_ratio_new_FIND_all-eps-converted-to.pdf> <./pi
+ctures/eval_ratio_new_aud-prec-vdmn-eps-converted-to.pdf> <./pictures/eval_rati
+o_new_FIND_Visuospatial-eps-converted-to.pdf> <./pictures/eval_ratio_new_FIND_d
+DMN-eps-converted-to.pdf> <./pictures/eval_ratio_new_FIND_LECN-eps-converted-to
+.pdf> <./pictures/eval_ratio_new_FIND_sensorimotor-eps-converted-to.pdf>]
+Package epstopdf Info: Source file: <pictures/top10_p1_trips_corr.eps>
+(epstopdf)                    date: 2016-03-09 00:53:45
+(epstopdf)                    size: 11255 bytes
+(epstopdf)             Output file: <pictures/top10_p1_trips_corr-eps-converted
+-to.pdf>
+(epstopdf)                    date: 2016-03-09 01:01:32
+(epstopdf)                    size: 7688 bytes
+(epstopdf)             Command: <repstopdf --outfile=pictures/top10_p1_trips_co
+rr-eps-converted-to.pdf pictures/top10_p1_trips_corr.eps>
+(epstopdf)             \includegraphics on input line 588.
+Package epstopdf Info: Output file is already uptodate.
+
+<pictures/top10_p1_trips_corr-eps-converted-to.pdf, id=422, 561.09625pt x 421.5
+75pt>
+File: pictures/top10_p1_trips_corr-eps-converted-to.pdf Graphic file (type pdf)
+
+ <use pictures/top10_p1_trips_corr-eps-converted-to.pdf>
+Package pdftex.def Info: pictures/top10_p1_trips_corr-eps-converted-to.pdf used
+ on input line 588.
+(pdftex.def)             Requested size: 215.0023pt x 161.53816pt.
+ [19 <./pictures/top10_p1_trips_corr-eps-converted-to.pdf>] (./Notes.aux) ) 
 Here is how much of TeX's memory you used:
- 4895 strings out of 493117
- 82655 string characters out of 6135433
- 181250 words of memory out of 5000000
- 8265 multiletter control sequences out of 15000+600000
+ 4948 strings out of 493117
+ 85477 string characters out of 6135433
+ 181279 words of memory out of 5000000
+ 8308 multiletter control sequences out of 15000+600000
  8065 words of font info for 29 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  42i,10n,40p,1066b,1490s stack positions out of 5000i,500n,10000p,200000b,80000s
-</usr/local/tex
-live/2014/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb></usr/local/texl
-ive/2014/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb></usr/local/texli
-ve/2014/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb></usr/local/texliv
-e/2014/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/local/texlive/
-2014/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/local/texlive/2
-014/texmf-dist/fonts/type1/public/amsfonts/cm/cmtt10.pfb>
-Output written on Notes.pdf (16 pages, 627197 bytes).
+</us
+r/local/texlive/2014/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb></usr
+/local/texlive/2014/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb></usr/
+local/texlive/2014/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb></usr/l
+ocal/texlive/2014/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/loc
+al/texlive/2014/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb></usr/local/
+texlive/2014/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/local/t
+exlive/2014/texmf-dist/fonts/type1/public/amsfonts/cm/cmtt10.pfb>
+Output written on Notes.pdf (19 pages, 858266 bytes).
 PDF statistics:
- 369 PDF objects out of 1000 (max. 8388607)
- 253 compressed objects within 3 object streams
+ 459 PDF objects out of 1000 (max. 8388607)
+ 315 compressed objects within 4 object streams
  0 named destinations out of 1000 (max. 500000)
- 311 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 379 words of extra memory for PDF output out of 10000 (max. 10000000)
 

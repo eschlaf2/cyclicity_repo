@@ -1,5 +1,5 @@
-!mv refine_cyclicity_output.mat refine_cyclicity_output_FIND_n5.mat
-load refine_cyclicity_output_FIND_n5
+% !mv refine_cyclicity_output.mat refine_cyclicity_output_FIND_n5.mat
+% load refine_cyclicity_output_FIND_n5
 for i = 1:3
 figure(1)
 subplot(1,3,i)
@@ -12,7 +12,7 @@ ylabel('pax')
 figure(2)
 subplot(1,3,i)
 evals = [eval_ratio{:,i}];
-plot(evals(:),'b.');
+plot(sort(evals(:)),'b.');
 title(['Group ',num2str(i)])
 axis('tight')
 xlabel('subject')

@@ -554,4 +554,59 @@ Taking cyclicity into account:
 \includegraphics[trim= 20 0 50 0, clip, width=\textwidth]{pictures/refine_cyclicity_output_n12_evals.eps}
 \end{figure}
 
+\section{3/8/16}
+\begin{figure}
+\label{fig:hist}
+\includegraphics[trim= 150 0 130 0, clip, width = \textwidth]{pictures/hist_n5_FIND_all.eps}
+\includegraphics[trim= 150 0 130 0, clip, width = \textwidth]{pictures/hist_n5_cyclicity_aud-prec-vdmn.eps}
+\includegraphics[trim= 150 0 130 0, clip, width = \textwidth]{pictures/hist_n5_cyclicity_FIND_RECN-LECN-dDMN-vDMN.eps}
+\caption{}
+\end{figure}
+\begin{figure}
+\label{fig:eval_ratio}
+\centering
+\includegraphics[width=.45\textwidth]{pictures/eval_ratio_new_FIND_all.eps}
+\includegraphics[width=.45\textwidth]{pictures/eval_ratio_new_aud-prec-vdmn.eps}
+\includegraphics[width=.45\textwidth]{pictures/eval_ratio_new_FIND_Visuospatial.eps}
+\includegraphics[width=.45\textwidth]{pictures/eval_ratio_new_FIND_dDMN.eps}
+\includegraphics[width=.45\textwidth]{pictures/eval_ratio_new_FIND_LECN.eps}
+\includegraphics[width=.45\textwidth]{pictures/eval_ratio_new_FIND_sensorimotor.eps}
+\caption{}
+\end{figure}
+\subsection{Comparison of champions: triples v. phases}
+Out of curiosity, I wanted to compare the regions that show up the most in the top triples (those that are present in at least 70\% of subjects) to the regions that have the highest phase magnitudes. I was expecting the regions to more or less match up since those with higher phase magnitudes are considered more certain, but they often don't, and in some cases, a region which is very low on the phase rating, is very high in the triples rating. Note, in particular, regions 92, 10, and 6 in the first, second, and third plots, respectively, in figure (\ref{fig:hist}).
+
+Something that may also be informative, but less surprising, is a closer look at the eigenvalue ratios. Figure (\ref{fig:eval_ratio}) shows the eigenvalue ratios for several regions or groups of regions. The top two plots show eigenvalue ratios for larger sets of regions - the plot on the left shows all regions and the plot on the right shows those in the auditory, precuneus and ventral DMN functional groups. The next row of plots shows the eigenvalue ratios for single functional groups which we would expect to be coherent in a resting state - visuospatial and dorsal DMN. The plots on the bottom row show the ratios for functional groups which we expect to be unrelated to a resting state - left executive control and sensorimotor. 
+
+A few differences that stand out in the bottom plots are the fact that the dark blue line jumps around more, the light blue line crosses over the green, and the maximal values are much higher (greater than 200 vs. less than 50). 
+
+The green represents the ratio of $\lambda_1:\lambda_2$ sorted in ascending order. The light blue line is the ratio $\lambda_2:\lambda_3$ (also sorted). The dark blue is $\lambda_2:\lambda_3$, but this time sorted using the ordering of the sorted $\lambda_1:\lambda_2$ trace so that the ratios can be directly compared. The red line shows a cubic fit of the blue line (other fits might be more informative... exp2 fits the ordered ratios pretty well).
+
+\subsection{Correlations}
+\begin{figure}
+\label{fig:corr1}
+\includegraphics[width=.5\textwidth]{pictures/top10_p1_trips_corr.eps}
+\begin{tabular}{|l|l|}
+\hline
+1&030907\\
+2&010305\\
+3&010907\\
+4&030604\\
+5&010306\\
+6&030504\\
+7&030804\\
+8&031004\\
+9&030607\\
+10&010309\\
+11&030904\\
+12&010310\\
+13&030507\\
+14&010307\\
+\hline
+\end{tabular}
+\caption{}
+\end{figure}
+Figure (\ref{fig:corr1}) shows the correlation between Group 1 cyclic-normalized triples. For each subject, the algorithm generates triples from the permutation and then for each triple in the set of champions, the algorithm counts which other champion triples are present and then adds one to the corresponding place in the correlation matrix. The algorithm is way too slow right now, but I wanted to make sure this is what we are trying to look at before optimizing.
+
+
 \end{document}
