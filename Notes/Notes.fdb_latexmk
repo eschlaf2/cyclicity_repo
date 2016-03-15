@@ -1,5 +1,5 @@
 # Fdb version 3
-["pdflatex"] 1457508385 "Notes.tex" "Notes.pdf" "Notes" 1457508387
+["pdflatex"] 1458056578 "Notes.tex" "Notes.pdf" "Notes" 1458056580
   "../Movies/Recent_data/Results/genre_results_table.txt" 1453793486 352 74f24ad13486b249c0bc17edb2fac236 ""
   "/usr/local/texlive/2014/texmf-dist/fonts/map/fontname/texfonts.map" 1272929888 3287 e6b82fe08f5336d4d5ebc73fb1152e87 ""
   "/usr/local/texlive/2014/texmf-dist/fonts/tfm/public/cm/cmbx10.tfm" 1136768653 1328 c834bbb027764024c09d3d2bf908b5f0 ""
@@ -19,6 +19,7 @@
   "/usr/local/texlive/2014/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb" 1248133631 32080 340ef9bf63678554ee606688e7b5339d ""
   "/usr/local/texlive/2014/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb" 1248133631 36299 5f9df58c2139e7edcf37c8fca4bd384d ""
   "/usr/local/texlive/2014/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb" 1248133631 35752 024fb6c41858982481f6968b5fc26508 ""
+  "/usr/local/texlive/2014/texmf-dist/fonts/type1/public/amsfonts/cm/cmr6.pfb" 1248133631 32734 69e00a6b65cedb993666e42eedb3d48f ""
   "/usr/local/texlive/2014/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb" 1248133631 32726 0a1aea6fcd6468ee2cf64d891f5c43c8 ""
   "/usr/local/texlive/2014/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb" 1248133631 32569 5e5ddc8df908dea60932f3c484a54c0d ""
   "/usr/local/texlive/2014/texmf-dist/fonts/type1/public/amsfonts/cm/cmtt10.pfb" 1248133631 31099 c85edf1dd5b9e826d67c9c7293b6786c ""
@@ -64,8 +65,8 @@
   "/usr/local/texlive/2014/texmf-var/fonts/map/pdftex/updmap/pdftex.map" 1401025944 1445653 26a0aacf3d70032b1ec192e8c7792117 ""
   "/usr/local/texlive/2014/texmf-var/web2c/pdftex/pdflatex.fmt" 1401025990 3832012 904d82bdcc8abf2b1cd296990b82553b ""
   "/usr/local/texlive/2014/texmf.cnf" 1401025936 577 a59edbde8d3a8c549d0eeaab1739e2ff ""
-  "Notes.aux" 1457508386 4780 9e99025b441ed27386837fc4e53cf0d8 ""
-  "Notes.tex" 1457508385 26127 9325356acd2d6dc09670ecffff2a020f ""
+  "Notes.aux" 1458056580 4850 a026d05184216aa94db6ee3b477ba9bf ""
+  "Notes.tex" 1458056578 27174 a362247cdd286773bbf5a80c45d53270 ""
   "pictures/1_24_16/phases_shift18-eps-converted-to.pdf" 1453683789 6324 dbc14ef7afe82f38ad44560eb7664686 ""
   "pictures/1_24_16/phases_shift18.eps" 1453683113 12363 ef23eb31cb649e2300a738c46e63b130 ""
   "pictures/1_24_16/sine_cpsn_noNoise-eps-converted-to.pdf" 1453678937 5525 8c427c19490d236082f916d7517d9164 ""
@@ -154,6 +155,6 @@
   "tables/movie_word_perm_results_p2.txt" 1454478719 91 3769c7a255d98e6dee4004ebf1a01cdf ""
   "tables/movie_word_perm_results_p3.txt" 1454478755 92 9cbdc60621c658429bf4e3fbd379b180 ""
   (generated)
+  "Notes.aux"
   "Notes.pdf"
   "Notes.log"
-  "Notes.aux"
