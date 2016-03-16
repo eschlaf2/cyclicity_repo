@@ -609,8 +609,8 @@ The green represents the ratio of $\lambda_1:\lambda_2$ sorted in ascending orde
 Figure (\ref{fig:corr1}) shows the correlation between Group 1 cyclic-normalized triples. For each subject, the algorithm generates triples from the permutation and then for each triple in the set of champions, the algorithm counts which other champion triples are present and then adds one to the corresponding place in the correlation matrix. The algorithm is way too slow right now, but I wanted to make sure this is what we are trying to look at before optimizing.
 
 \section{3/15/16}
-\begin{table}
-\tiny
+\subsection{Regions}
+\begin{table}[H]
 \begin{tabular}{ll}
 1 & r parahippocampus\\
 2 & l parahippocampus\\
@@ -646,6 +646,34 @@ Figure (\ref{fig:corr1}) shows the correlation between Group 1 cyclic-normalized
 32 & r superior occipital lobe\\
 33 & l superior occipital lobe\\
 \end{tabular}
+\caption{Regions from Fatima and Sara}
 \end{table}
+
+\subsection{Comparison of champions using scatter plots}
+\begin{figure}
+\centering
+\includegraphics[width=.32\textwidth]{pictures/scatter_n5_cyclicity_FIND_all.png}
+\includegraphics[width=.32\textwidth]{pictures/scatter_n5_cyclicity_aud-prec-vdmn.png}
+\includegraphics[width=.32\textwidth]{pictures/scatter_n5_cyclicity_FIND_RECN-LECN-dDMN-vDMN.png}
+\caption{Same data as \ref{fig:hist}, but displayed as scatter plots. }
+\end{figure}
+
+\subsection{Correlations (continued)}
+Recall Figure \ref{fig:corr1} shows the correlations between the triples which are present in at least 60\% of subjects from the top 10 regions (in terms of phase magnitude, phase 1). The following plots show similar analyses.
+\begin{figure}
+\begin{minipage}{.49\textwidth}
+\includegraphics[width=\textwidth]{pictures/correlations_Results.png}
+\caption{Triples: present in at least 70\% of subjects. Regions: Fatima \& Sara - all}
+\end{minipage}
+\begin{minipage}{.49\textwidth}
+\includegraphics[width=\textwidth]{pictures/correlations_n10_p2.png}
+\caption{Triples: $\geq$ 60\%. Regions: F\&S - top 10, phase 2}
+\end{minipage}
+\begin{minipage}{.49\textwidth}
+\includegraphics[width=\textwidth]{pictures/correlations_FIND-visuospatial_c70.png}
+\caption{Triples: $\geq$ 70\%. Regions: FIND - visuospatial}
+\end{minipage}
+
+\end{figure}
 
 \end{document}
