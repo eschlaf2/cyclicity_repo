@@ -1,0 +1,26 @@
+The 200 subjects are resting-state fMRI scans taken from the WU-Minn Human Connectome Project (HCP) data set. The data are available directly from the HCP website (https://db.humanconnectome.org/data/projects/HCP_900) or alternatively using the Amazon S3 server (credentials should be obtained from the website and then a program like Cyberduck can be used to browse the HCP directory). Additionally, in order to download data (curl) from the command line, there is a set of scripts (s3-bash) available for download from https://aws.amazon.com/code/Amazon-S3/943. Once downloaded, the nifti files (.nii.gz) can be further processed for use in Matlab using packages available from Mathworks (http://www.mathworks.com/matlabcentral/fileexchange/8797-tools-for-nifti-and-analyze-image). 
+
+The subjects were scanned using a customized Siemens 3T “Connectome Skyra” at Washington University in St. Louis Missouri using the following parameters:
+	Repetition time (TR): 720 ms
+	Voxel dimension: 2x2x2 mm
+	Frames per run: 1200 (total run duration = 14:33)
+The scans that we downloaded have been preprocessed to remove distortions and register the data to standard MNI coordinate space.
+
+The subjects themselves are “healthy adults, ages 22-35, whose race/ethnicity is representative of the US population.” [http://humanconnectome.org/data/] A variety of additional information is recorded for each subject including, for example, measures of alertness, cognition, and sensory functions (audition is measured using a Words in Noise test and all subjects with this parameter recorded have scores between -2.0 and 14.0 on a scale of -2.0 to 26.0 with lower scores indicative of better performance).
+
+
+=============================================================================
+Script for downloading .nii.gz from Amazon S3
+=============================================================================
+#!/bin/bash
+
+subjects=$(cat subj_list_200)
+U=AKIAJN7A7BV75WZOKXWQ
+P=AWSSecretAccessKeyIdFile
+
+for subj in $(eval echo $subjects)
+        do
+            export subj
+            ./s3-get -k $U -s $P /hcp-openaccess/HCP/$subj/MNINonLinear/Results/rfMRI_REST1_LR/rfMRI_REST1_LR.nii.gz > $subj.nii.gz
+done
+=============================================================================
