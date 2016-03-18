@@ -1,0 +1,28 @@
+/Users/emilyschlafly/Work/cyclicity_repo/HCP
+Total subjects: 200
+r mid frontal gyrus,r inferior partietal lobe,precuneus,135
+r inferior partietal lobe,precuneus,l ventral intraparietal sulcus,134
+l posterior intraparietal sulc,precuneus,r mid frontal gyrus,131
+l posterior intraparietal sulc,l ventral intraparietal sulcus,r mid frontal gyrus,130
+l superior temporal junction,precuneus,r mid frontal gyrus,130
+r ventral intraparietal sulcus,l ventral intraparietal sulcus,posterior cingulate cortex,129
+posterior cingulate cortex,precuneus,l ventral intraparietal sulcus,129
+l superior temporal junction,r inferior partietal lobe,posterior cingulate cortex,127
+r superior temporal junction,r inferior partietal lobe,posterior cingulate cortex,126
+r superior temporal junction,r inferior partietal lobe,precuneus,126
+r ventral intraparietal sulcus,l ventral intraparietal sulcus,r superior temporal junction,125
+r ventral intraparietal sulcus,l ventral intraparietal sulcus,r superior temporal sulcus,125
+r mid frontal gyrus,r superior temporal junction,precuneus,125
+r ventral intraparietal sulcus,r inferior partietal lobe,precuneus,124
+l posterior intraparietal sulc,l ventral intraparietal sulcus,r superior temporal junction,123
+r superior temporal junction,precuneus,l ventral intraparietal sulcus,123
+r mid frontal gyrus,posterior cingulate cortex,precuneus,123
+l posterior intraparietal sulc,l ventral intraparietal sulcus,posterior cingulate cortex,122
+r mid frontal gyrus,r ventral intraparietal sulcus,l ventral intraparietal sulcus,122
+l superior temporal junction,precuneus,l ventral intraparietal sulcus,122
+l posterior intraparietal sulc,l ventral intraparietal sulcus,r superior temporal sulcus,121
+l posterior intraparietal sulc,r ventral intraparietal sulcus,r mid frontal gyrus,120
+r ventral intraparietal sulcus,l ventral intraparietal sulcus,r inferior partietal lobe,120
+r superior temporal sulcus,precuneus,l ventral intraparietal sulcus,120
+l superior temporal junction,r inferior partietal lobe,precuneus,120
+r superior temporal sulcus,r inferior partietal lobe,precuneus,120

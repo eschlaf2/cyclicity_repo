@@ -1,0 +1,16 @@
+/Users/emilyschlafly/Work/cyclicity_repo/HCP
+Total subjects: 200
+l primary auditory cortex,r ventral intraparietal sulcus,l ventral intraparietal sulcus,137
+l cuneus,l primary auditory cortex,r primary visual cortex,133
+l cuneus,r ventral intraparietal sulcus,l ventral intraparietal sulcus,133
+l primary auditory cortex,r cuneus,precuneus,130
+l cuneus,l primary auditory cortex,r cuneus,129
+l primary auditory cortex,r primary visual cortex,precuneus,127
+l primary auditory cortex,l posterior intraparietal sulc,precuneus,127
+l primary auditory cortex,r posterior intraparietal sulc,precuneus,127
+l primary auditory cortex,r cuneus,l ventral intraparietal sulcus,125
+l cuneus,l primary auditory cortex,r ventral intraparietal sulcus,124
+l primary auditory cortex,r ventral intraparietal sulcus,precuneus,123
+l cuneus,l primary auditory cortex,r posterior intraparietal sulc,123
+l primary auditory cortex,r primary visual cortex,l ventral intraparietal sulcus,122
+l cuneus,l primary auditory cortex,l ventral intraparietal sulcus,120
