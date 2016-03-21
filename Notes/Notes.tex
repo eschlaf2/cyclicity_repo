@@ -7,6 +7,7 @@
 \usepackage{csvsimple}
 \usepackage{wrapfig}
 \usepackage{longtable}
+\usepackage[urlcolor=blue,colorlinks=true]{hyperref}
 
 \begin{document}
 \section{1/24/16}
@@ -686,6 +687,18 @@ Recall Figure \ref{fig:corr1} shows the correlations between the triples which a
 \caption{Triples: $\geq$ 70\%. Regions: FIND - visuospatial \& sensorimotor}
 \end{minipage}
 \end{figure}
+
+\section{3/17/16}
+\subsection{Aggregate sorted lead matrix analysis}
+\begin{figure}[H]
+\centering
+\includegraphics[width=.49\textwidth]{pictures/mean_slm.png}
+\includegraphics[width=.49\textwidth]{pictures/std_slm.png}
+\caption{Mean sorted lead matrix. Note region 5 (precuneus) has the lowest mean value at -460.3 (lagging); region 8 (left primary auditory) has the highest mean value at 375.0 (leading).}
+\includegraphics[width=\textwidth]{pictures/agg_mean_cyclicity_fig.png}
+\caption{Result of cyclicity on mean sorted lead matrix.}
+\end{figure}
+Raw data can be found at \href{https://github.com/eschlaf2/cyclicity_repo/tree/master/HCP/Results/agg_slm}{cyclicity\_repo/HCP/Results/agg\_slm}.
 
 \section{Appendix 1: Lead matrix histograms for each (i,j) pair}
 \label{app:slm_hist}

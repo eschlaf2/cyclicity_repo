@@ -1,0 +1,147 @@
+\ProvidesPackage{beamerthemeCIC}  % this style was created by Sebastian B. Simonsen for CIC
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+\definecolor{cicbluebg}{HTML}{B7E4FA}
+\definecolor{cicheadgrey}{HTML}{E0E7E2}
+\definecolor{cicline}{HTML}{003874}
+\definecolor{cictext}{HTML}{6E6E6F}
+\definecolor{cictitle}{HTML}{004080}
+\mode<presentation>
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+\setbeamercolor{headline}{fg=cictitle,bg=cicbluebg}
+\setbeamercolor{headline2}{fg=cictitle,bg=cicheadgrey}
+\setbeamerfont{footer title}{size=\large,series=\bf}
+\setbeamercolor{footerbg}{fg=cictitle, bg=cicbluebg}
+\setbeamercolor{separation line}{bg=cicline}
+\setbeamercolor{title in headline}{fg=cictitle}
+\setbeamercolor{author in headline}{fg=cictitle}
+\setbeamercolor{institute in headline}{fg=cictitle}
+
+\setbeamercolor{framesubtitle}{fg=cictext, bg=cicheadgrey}
+
+\setbeamercolor{normal text}{fg=cictext, bg=white}
+\setbeamercolor{block body}{bg=white,fg=cicline}
+\setbeamercolor{block title}{fg=cictext, bg=cicbluebg}
+\setbeamerfont{block title}{size=\large,series=\bf}
+
+\setbeamertemplate{itemize items}[triangle]
+\setbeamertemplate{navigation symbols}{}  % no navigation on a poster
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\setbeamertemplate{block begin}{
+  \setlength{\parskip}{15pt}
+  \vskip.75ex
+  \begin{beamercolorbox}[rounded=true,shadow=true,leftskip=1cm,colsep*=.75ex]{block title}%
+    \usebeamerfont*{block title}\insertblocktitle
+  \end{beamercolorbox}%
+  {\ifbeamercolorempty[bg]{block body}{}{\nointerlineskip\vskip-0.5pt}}%
+  \usebeamerfont{block body}%
+  \begin{beamercolorbox}[rounded=true,shadow=true,colsep*=.75ex,sep=.75ex,vmode]{block body}%
+    \ifbeamercolorempty[bg]{block body}{\vskip-.25ex}{\vskip-.75ex}\vbox{}%
+  }
+  \setbeamertemplate{block end}{
+  \end{beamercolorbox}
+}
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\setbeamertemplate{headline}{  
+  \leavevmode
+
+  \begin{beamercolorbox}[wd=\paperwidth]{headline}
+    \begin{columns}[T]
+      \begin{column}{.02\paperwidth}
+      \end{column}
+      \begin{column}{.48\paperwidth}
+        \vskip2cm
+        \usebeamercolor{title in headline}{\color{fg}\textbf{\LARGE{\inserttitle}}\\[1ex]}   
+      \end{column}
+      % \begin{column}{.25\paperwidth}
+      %   \vskip2cm
+      %   % \begin{center}
+      %     % \includegraphics[width=1\linewidth]{ICEANDCLIMATE_COLOR.png}
+      %   % \end{center}
+      %   \vskip2ex
+      % \end{column}
+      \begin{column}{.5\paperwidth}
+        \vskip2cm
+        \usebeamercolor{author in headline}{\color{fg}\normalsize{\insertauthor}}\\
+        \usebeamercolor{institute in headline}{\color{fg}\small\insertinstitute}     
+      \end{column}
+    \end{columns}
+    \vskip3ex
+  \end{beamercolorbox}
+  
+    % \begin{beamercolorbox}[wd=\paperwidth]{headline}
+    % \vskip1cm
+    % \end{beamercolorbox}
+  
+  \begin{beamercolorbox}[wd=\paperwidth]{separation line}
+    \rule{1pt}{5pt}
+  \end{beamercolorbox}
+  
+  % \begin{beamercolorbox}[wd=\paperwidth]{headline2}
+  % \vskip4ex
+  %   \begin{columns}[T]
+  %     \begin{column}{.03\paperwidth}
+  %     \end{column}
+  %     \begin{column}{.77\paperwidth}
+  %       \usebeamercolor{author in headline}{\color{fg}\normalsize{\insertauthor}}\\
+  %       \usebeamercolor{institute in headline}{\color{fg}\insertinstitute}     
+  %     \end{column}
+  %     \begin{column}{.2\paperwidth}
+  %       \vskip1cm
+  %       \raggedleft{
+  %       \normalsize{\meetingname}}
+  %       \vskip1.5cm
+  %     \end{column}
+  %     \begin{column}{.03\paperwidth}
+  %     \end{column}
+  %   \end{columns}
+  %   \vskip3ex
+  % \end{beamercolorbox}
+}
+
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\setbeamertemplate{footline}{
+  \begin{beamercolorbox}[wd=\paperwidth]{separation line}
+    \rule{1pt}{5pt}
+  \end{beamercolorbox}
+  
+    \begin{beamercolorbox}[wd=\paperwidth]{footerbg}
+    \vskip4ex
+    \begin{columns}[T]
+      \begin{column}{.02\paperwidth}
+      \end{column}
+      \begin{column}{.33\paperwidth}
+      \usebeamerfont*{footer title} References :\\
+      ~\\
+      \small{\Refauthor}
+      \end{column}
+      \begin{column}{.40\paperwidth}
+      \usebeamerfont*{footer title} Acknowledgments :\\
+      ~\\
+      \small{\Acknowledgmentauthor}
+      \end{column}
+      \begin{column}{.26\paperwidth}
+      \usebeamerfont*{footer title} Contact :\\
+      ~\\
+      \small{\contactauthor}
+      \vskip1cm
+      \end{column}
+    \end{columns}
+  \end{beamercolorbox}
+}
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\mode<all>
+
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%% Local Variables: 
+%%% mode: latex
+%%% TeX-PDF-mode: t
+%%% TeX-master: "poster"
+%%% End: 
