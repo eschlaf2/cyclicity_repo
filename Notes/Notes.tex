@@ -700,10 +700,63 @@ Recall Figure \ref{fig:corr1} shows the correlations between the triples which a
 \end{figure}
 Raw data can be found at \href{https://github.com/eschlaf2/cyclicity_repo/tree/master/HCP/Results/agg_slm}{cyclicity\_repo/HCP/Results/agg\_slm}.
 
+\section{3/30/16}
+\subsection{First look at Epilepsy data}
+I have run the preictal and interictal data from dogs 1 and 2. 
+\subsubsection{SLMs}
+The preictal data are consecutive 10 minute segments during the hour leading up to a seizure so that we might hope to see some trend in time slices from the same offset. Looking across the columns in the preictal data below, however, doesn't show any obvious trends. Interictal segments are randomly chosen from intervals in which the subject was not having a seizure (still in ten minute segments). 
+\begin{figure}[H]
+\centering
+\includegraphics[width=.49\textwidth]{pictures/24slm_Pre1.png}
+\includegraphics[width=.49\textwidth]{pictures/24slm_pre2.png}
+\includegraphics[width=.49\textwidth]{pictures/24slm_inter1.png}
+\includegraphics[width=.49\textwidth]{pictures/24slm_inter2.png}
+\caption{The top plots show 24 slms during preictal states so that each row represents a single pre-seizure period. The lower plots show the interictal segments which are unrelated with respect to time.}
+\end{figure}
+
+\subsubsection{Permutations}
+In the fMRI data we observed that the LPAC seemed to appear first is many of the permutations. In the preictal phases, the most prominent feature is region 6 which shows up in spot 3 of the permutations about 50\% of the time. Otherwise, the plots look similar to the interictal plots, but a bit tighter. This may simply be a product of the fact that there are far fewer preictal segments. For the interictal phases, in general, the lower numbered regions come earlier on and the higher numbered regions come later, but this is not really a very strong trend (note that max percentages are ~35 and 20\% for dogs 1 and 2, respectively.) 
+\begin{figure}[H]
+\centering
+\includegraphics[width=.22\textwidth]{pictures/permLoc_pre1.png}
+\includegraphics[width=.22\textwidth]{pictures/permLoc_pre2.png}
+\hfill
+\includegraphics[width=.22\textwidth]{pictures/permLoc_inter1.png}
+\includegraphics[width=.22\textwidth]{pictures/permLoc_inter2.png}
+\caption{Left plots show preictal; right plots show interictal}
+\end{figure}
+
+\subsubsection{Eigenvalue Ratios}
+These don't get that much above 2. Interictal ratios are a bit higher than preictal ratios. In the preictal periods of Dog 1, the 1:2 ratio is less than the 2:3 ratio and in the interictal plots of both dogs, the 1:2 and 2:3 ratios are very close together. 
+\begin{figure}[H]
+\centering
+\includegraphics[width=.22\textwidth]{pictures/evalRat_pre1.png}
+\includegraphics[width=.22\textwidth]{pictures/evalRat_pre2.png}
+\hfill
+\includegraphics[width=.22\textwidth]{pictures/evalRat_inter1.png}
+\includegraphics[width=.22\textwidth]{pictures/evalRat_inter2.png}
+\caption{Left plots show preictal; right plots show interictal}
+\end{figure}
+
+\subsubsection{Champion Regions}
+\begin{figure}[H]
+\centering
+\includegraphics[width=.49\textwidth]{pictures/phaseHist_pre1.png}
+\includegraphics[width=.49\textwidth]{pictures/phaseHist_pre2.png}
+\includegraphics[width=.49\textwidth]{pictures/phaseHist_inter1.png}
+\includegraphics[width=.49\textwidth]{pictures/phaseHist_inter2.png}
+\caption{Top plots show preictal; bottom plots show interictal.}
+\end{figure}
+
+
+
+
+% Appendices
 \section{Appendix 1: Lead matrix histograms for each (i,j) pair}
 \label{app:slm_hist}
 \begin{figure}[H]
 \input{tex_App1}
 \caption{Histograms of lead matrix values for each (i,j) pair. All histograms are on the same scale for easy comparison.}
 \end{figure}
+
 \end{document}

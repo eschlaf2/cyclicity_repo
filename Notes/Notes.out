@@ -23,4 +23,10 @@
 \BOOKMARK [2][-]{subsection.7.3}{Correlations \(continued\)}{section.7}% 23
 \BOOKMARK [1][-]{section.8}{3/17/16}{}% 24
 \BOOKMARK [2][-]{subsection.8.1}{Aggregate sorted lead matrix analysis}{section.8}% 25
-\BOOKMARK [1][-]{section.9}{Appendix 1: Lead matrix histograms for each \(i,j\) pair}{}% 26
+\BOOKMARK [1][-]{section.9}{3/30/16}{}% 26
+\BOOKMARK [2][-]{subsection.9.1}{First look at Epilepsy data}{section.9}% 27
+\BOOKMARK [3][-]{subsubsection.9.1.1}{SLMs}{subsection.9.1}% 28
+\BOOKMARK [3][-]{subsubsection.9.1.2}{Permutations}{subsection.9.1}% 29
+\BOOKMARK [3][-]{subsubsection.9.1.3}{Eigenvalue Ratios}{subsection.9.1}% 30
+\BOOKMARK [3][-]{subsubsection.9.1.4}{Champion Regions}{subsection.9.1}% 31
+\BOOKMARK [1][-]{section.10}{Appendix 1: Lead matrix histograms for each \(i,j\) pair}{}% 32

@@ -1,13 +1,13 @@
 # Fdb version 3
-["bibtex Poster"] 1458547086 "Poster.aux" "Poster.bbl" "Poster" 1458579706
+["bibtex Poster"] 1458596308 "Poster.aux" "Poster.bbl" "Poster" 1458939259
   "/usr/local/texlive/2014/texmf-dist/bibtex/bst/base/apalike.bst" 1292289607 24635 604dafcc79f521a11ea73e506e1fbd98 ""
-  "Poster.aux" 1458579706 1436 c6edd1b2f807af0c01d95883fedb0b67 ""
+  "Poster.aux" 1458939258 1436 c6edd1b2f807af0c01d95883fedb0b67 ""
   "Poster.bcf" 0 -1 0 ""
   "poster_bib.bib" 1458546045 528 4bb8dee1b9008466ece36e6a38b0e773 ""
   (generated)
-  "Poster.bbl"
   "Poster.blg"
-["pdflatex"] 1458579704 "Poster.tex" "Poster.pdf" "Poster" 1458579706
+  "Poster.bbl"
+["pdflatex"] 1458939256 "Poster.tex" "Poster.pdf" "Poster" 1458939259
   "/usr/local/texlive/2014/texmf-dist/fonts/enc/dvips/base/8r.enc" 1165713224 4850 80dc9bab7f31fb78a000ccfed0e27cab ""
   "/usr/local/texlive/2014/texmf-dist/fonts/map/fontname/texfonts.map" 1272929888 3287 e6b82fe08f5336d4d5ebc73fb1152e87 ""
   "/usr/local/texlive/2014/texmf-dist/fonts/tfm/adobe/helvetic/phvb7t.tfm" 1136768653 2240 eb56c13537f4d8a0bd3fafc25572b1bd ""
@@ -208,11 +208,11 @@
   "/usr/local/texlive/2014/texmf-var/fonts/map/pdftex/updmap/pdftex.map" 1401025944 1445653 26a0aacf3d70032b1ec192e8c7792117 ""
   "/usr/local/texlive/2014/texmf-var/web2c/pdftex/pdflatex.fmt" 1401025990 3832012 904d82bdcc8abf2b1cd296990b82553b ""
   "/usr/local/texlive/2014/texmf.cnf" 1401025936 577 a59edbde8d3a8c549d0eeaab1739e2ff ""
-  "Poster.aux" 1458579706 1436 c6edd1b2f807af0c01d95883fedb0b67 ""
-  "Poster.bbl" 1458547087 284 47f943a22ef584344a6e7948bf7448da "bibtex Poster"
-  "Poster.nav" 1458579706 258 79a1569fade3048a964524e7a35c06c5 ""
-  "Poster.out" 1458579705 0 d41d8cd98f00b204e9800998ecf8427e ""
-  "Poster.tex" 1458579704 7307 179055a631ab698d56f7702db9ce33e4 ""
+  "Poster.aux" 1458939258 1436 c6edd1b2f807af0c01d95883fedb0b67 ""
+  "Poster.bbl" 1458596309 284 47f943a22ef584344a6e7948bf7448da "bibtex Poster"
+  "Poster.nav" 1458939258 258 79a1569fade3048a964524e7a35c06c5 ""
+  "Poster.out" 1458939257 0 d41d8cd98f00b204e9800998ecf8427e ""
+  "Poster.tex" 1458596433 7240 077cf420cf3676680163968b924654eb ""
   "beamerthemeCIC.sty" 1458546744 5011 d89dc0c8fc28f2b188cd68bc778ca6d3 ""
   "pictures/poster/fig1.png" 1458055536 13346 941803f6d414793d386f49cd7b217730 ""
   "pictures/poster/fig4.png" 1458055597 14912 9865375bcd25cab9cd198447d85bfc19 ""
@@ -224,10 +224,10 @@
   "pictures/poster/toy_slm.png" 1458536732 6551 cf67ebd44e2da50910048c0fb1e59a60 ""
   "pictures/poster/toy_traces.png" 1458536349 14838 9dbdd5cd35cc8766626b062c04a33b9c ""
   (generated)
-  "Poster.nav"
+  "Poster.toc"
   "Poster.aux"
   "Poster.snm"
-  "Poster.log"
-  "Poster.toc"
   "Poster.out"
   "Poster.pdf"
+  "Poster.nav"
+  "Poster.log"
