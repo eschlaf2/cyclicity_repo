@@ -1,0 +1,45 @@
+\begin{table}[H]
+\begin{minipage}{.45\textwidth}
+\begin{tabular}{ll}
+1 & r parahippocampus\\
+2 & l parahippocampus\\
+3 & medial prefrontal cortex\\
+4 & posterior cingulate cortex\\
+5 & precuneus\\
+6 & l inferior frontal lobe\\
+7 & r inferior frontal lobe\\
+8 & l primary auditory cortex\\
+9 & r primary auditory cortex\\
+10 & l frontal eye field\\
+11 & r frontal eye field\\
+12 & r ventral intraparietal sulcus\\
+13 & l ventral intraparietal sulcus\\
+14 & r posterior intraparietal sulc\\
+15 & l posterior intraparietal sulc\\
+16 & l inferior parietal lobe\\
+17 & r inferior partietal lobe\\
+\end{tabular}
+\end{minipage}
+\hfill
+\begin{minipage}{.45\textwidth}
+\begin{tabular}{ll}
+18 & r superior temporal junction\\
+19 & l superior temporal junction\\
+20 & r superior temporal sulcus\\
+21 & l superior temporal sulcus\\
+22 & r mid frontal gyrus\\
+23 & l mid frontal gyrus\\
+24 & r anterior insula\\
+25 & l anterior insula\\
+26 & r amygdala\\
+27 & l amygdala\\
+28 & r primary visual cortex\\
+29 & l primary visual cortex\\
+30 & l cuneus\\
+31 & r cuneus\\
+32 & r superior occipital lobe\\
+33 & l superior occipital lobe\\
+\end{tabular}
+\end{minipage}
+\caption{Regions from Fatima and Sara}
+\end{table}

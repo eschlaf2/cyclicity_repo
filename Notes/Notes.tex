@@ -8,6 +8,7 @@
 \usepackage{wrapfig}
 \usepackage{longtable}
 \usepackage[urlcolor=blue,colorlinks=true]{hyperref}
+\usepackage{csquotes}
 
 \begin{document}
 \section{1/24/16}
@@ -788,11 +789,62 @@ These don't get that much above 2. Interictal ratios are a bit higher than preic
 \caption{Top plots show preictal; bottom plots show interictal.}
 \end{figure}
 
+\section{4/19/16}
+\subsection{Music data}
+Cyclicity analysis from subjects alternating one minute intervals of music and silence. The music portions and silence portions were separated and are considered separately. 
 
+Sara notes the following information with regards to data collection:
+\begin{displayquote}
+Alternated 1 minute periods of silence/music.  The first 5 volumes were not analyzed re. magnet stabilization.
+A volume is collected every 2 seconds.
+Music therefore likely begins around the 25th time point/volume in the matrix, silence resumes around the 55th, music starts again around 85th, then silence resumes at 115th to the end.
+Not that depending on the exact time the program and the scanner started this may fluctuate slighty, but I wouldn't think for more than a time point or so.
+\end{displayquote}
+
+For the analyses shown below, music intervals used were $\{25:54, 85:114\}$ and resting intervals were $\{1:24, 55:84, 115:144\}.$
+
+\subsubsection{SLMs}
+\begin{figure}[H]
+\includegraphics[width=.48\textwidth]{pictures/041916/slm_All_music.png}
+\includegraphics[width=.48\textwidth]{pictures/041916/slm_All_resting.png}
+\caption{Left - music; right - resting}
+\end{figure}
+
+\subsubsection{Eigenvalue ratios}
+\begin{figure}[H]
+\includegraphics[width=.49\textwidth]{pictures/041916/evalRatio_All_music.png}
+\includegraphics[width=.49\textwidth]{pictures/041916/evalRatio_All_resting.png}
+\caption{Left - music; right - resting}
+\end{figure}
+
+\subsubsection{Champions}
+\begin{figure}[H]
+\includegraphics[width=.49\textwidth]{pictures/041916/scatter_n10_All_music.png}
+\includegraphics[width=.49\textwidth]{pictures/041916/scatter_n10_All_resting.png}
+\includegraphics[width=.49\textwidth]{pictures/041916/scatter_n10_HiSev_music.png}
+\includegraphics[width=.49\textwidth]{pictures/041916/scatter_n10_HiSev_resting.png}
+\includegraphics[width=.49\textwidth]{pictures/041916/scatter_n10_LoSev_music.png}
+\includegraphics[width=.49\textwidth]{pictures/041916/scatter_n10_LoSev_resting.png}
+\caption{Champion regions for each subset of subjects}
+\end{figure}
+
+\subsubsection{Permutation locations}
+\begin{figure}[H]
+\includegraphics[width=.32\textwidth]{pictures/041916/perm_locationsAll_music.png}
+\includegraphics[width=.32\textwidth]{pictures/041916/perm_locationsHiSev_music.png}
+\includegraphics[width=.32\textwidth]{pictures/041916/perm_locationsLoSev_music.png}
+\includegraphics[width=.32\textwidth]{pictures/041916/perm_locationsAll_resting.png}
+\includegraphics[width=.32\textwidth]{pictures/041916/perm_locationsHiSev_resting.png}
+\includegraphics[width=.32\textwidth]{pictures/041916/perm_locationsLoSev_resting.png}
+\end{figure}
+
+For reference, recall that the regions are as follows:
+\input{tables/regions.txt}
 
 
 % Appendices
 \section{Appendix 1: Lead matrix histograms for each (i,j) pair}
+Regions are those from Fatima and Sara. Subjects are the set of 200 from HCP. Histograms are ordered based by mean value.
 \label{app:slm_hist}
 \begin{figure}[H]
 \input{tex_App1}
