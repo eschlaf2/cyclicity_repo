@@ -1,38 +1,42 @@
 \BOOKMARK [1][-]{section.1}{1/24/16}{}% 1
 \BOOKMARK [2][-]{subsection.1.1}{Permutation testing}{section.1}% 2
-\BOOKMARK [1][-]{section.2}{Listings}{}% 3
-\BOOKMARK [2][-]{subsection.2.1}{Movies}{section.2}% 4
-\BOOKMARK [3][-]{subsubsection.2.1.1}{Data Treatment}{subsection.2.1}% 5
-\BOOKMARK [1][-]{section.3}{2/2/16}{}% 6
-\BOOKMARK [2][-]{subsection.3.1}{Movie trends with words counts from New York Times}{section.3}% 7
-\BOOKMARK [2][-]{subsection.3.2}{Refining Movie-word results}{section.3}% 8
-\BOOKMARK [2][-]{subsection.3.3}{Impressions}{section.3}% 9
-\BOOKMARK [1][-]{section.4}{2/6/16}{}% 10
-\BOOKMARK [2][-]{subsection.4.1}{Recent movie data \(1955-2015\)}{section.4}% 11
-\BOOKMARK [1][-]{section.5}{2/16/16}{}% 12
-\BOOKMARK [2][-]{subsection.5.1}{Triples}{section.5}% 13
-\BOOKMARK [3][-]{subsubsection.5.1.1}{Group 1}{subsection.5.1}% 14
-\BOOKMARK [3][-]{subsubsection.5.1.2}{Group 3}{subsection.5.1}% 15
-\BOOKMARK [3][-]{subsubsection.5.1.3}{Eigenvalue Ratios}{subsection.5.1}% 16
-\BOOKMARK [1][-]{section.6}{3/8/16}{}% 17
-\BOOKMARK [2][-]{subsection.6.1}{Comparison of champions: triples v. phases}{section.6}% 18
-\BOOKMARK [2][-]{subsection.6.2}{Correlations}{section.6}% 19
-\BOOKMARK [1][-]{section.7}{3/15/16}{}% 20
-\BOOKMARK [2][-]{subsection.7.1}{Regions}{section.7}% 21
-\BOOKMARK [2][-]{subsection.7.2}{Comparison of champions using scatter plots}{section.7}% 22
-\BOOKMARK [2][-]{subsection.7.3}{Correlations \(continued\)}{section.7}% 23
-\BOOKMARK [1][-]{section.8}{3/17/16}{}% 24
-\BOOKMARK [2][-]{subsection.8.1}{Aggregate sorted lead matrix analysis}{section.8}% 25
-\BOOKMARK [1][-]{section.9}{3/30/16}{}% 26
-\BOOKMARK [2][-]{subsection.9.1}{First look at Epilepsy data}{section.9}% 27
-\BOOKMARK [3][-]{subsubsection.9.1.1}{SLMs}{subsection.9.1}% 28
-\BOOKMARK [3][-]{subsubsection.9.1.2}{Permutations}{subsection.9.1}% 29
-\BOOKMARK [3][-]{subsubsection.9.1.3}{Eigenvalue Ratios}{subsection.9.1}% 30
-\BOOKMARK [3][-]{subsubsection.9.1.4}{Champion Regions}{subsection.9.1}% 31
-\BOOKMARK [1][-]{section.10}{4/19/16}{}% 32
-\BOOKMARK [2][-]{subsection.10.1}{Music data}{section.10}% 33
-\BOOKMARK [3][-]{subsubsection.10.1.1}{SLMs}{subsection.10.1}% 34
-\BOOKMARK [3][-]{subsubsection.10.1.2}{Eigenvalue ratios}{subsection.10.1}% 35
-\BOOKMARK [3][-]{subsubsection.10.1.3}{Champions}{subsection.10.1}% 36
-\BOOKMARK [3][-]{subsubsection.10.1.4}{Permutation locations}{subsection.10.1}% 37
-\BOOKMARK [1][-]{section.11}{Appendix 1: Lead matrix histograms for each \(i,j\) pair}{}% 38
+\BOOKMARK [2][-]{subsection.1.2}{Movies}{section.1}% 3
+\BOOKMARK [3][-]{subsubsection.1.2.1}{Data Treatment}{subsection.1.2}% 4
+\BOOKMARK [1][-]{section.2}{2/2/16}{}% 5
+\BOOKMARK [2][-]{subsection.2.1}{Movie trends with words counts from New York Times}{section.2}% 6
+\BOOKMARK [2][-]{subsection.2.2}{Refining Movie-word results}{section.2}% 7
+\BOOKMARK [2][-]{subsection.2.3}{Impressions}{section.2}% 8
+\BOOKMARK [1][-]{section.3}{2/6/16}{}% 9
+\BOOKMARK [2][-]{subsection.3.1}{Recent movie data \(1955-2015\)}{section.3}% 10
+\BOOKMARK [1][-]{section.4}{2/16/16}{}% 11
+\BOOKMARK [2][-]{subsection.4.1}{Triples}{section.4}% 12
+\BOOKMARK [3][-]{subsubsection.4.1.1}{Group 1}{subsection.4.1}% 13
+\BOOKMARK [3][-]{subsubsection.4.1.2}{Group 3}{subsection.4.1}% 14
+\BOOKMARK [3][-]{subsubsection.4.1.3}{Eigenvalue Ratios}{subsection.4.1}% 15
+\BOOKMARK [1][-]{section.5}{3/8/16}{}% 16
+\BOOKMARK [2][-]{subsection.5.1}{Comparison of champions: triples v. phases}{section.5}% 17
+\BOOKMARK [2][-]{subsection.5.2}{Correlations}{section.5}% 18
+\BOOKMARK [1][-]{section.6}{3/15/16}{}% 19
+\BOOKMARK [2][-]{subsection.6.1}{Regions}{section.6}% 20
+\BOOKMARK [2][-]{subsection.6.2}{Comparison of champions using scatter plots}{section.6}% 21
+\BOOKMARK [2][-]{subsection.6.3}{Correlations \(continued\)}{section.6}% 22
+\BOOKMARK [1][-]{section.7}{3/17/16}{}% 23
+\BOOKMARK [2][-]{subsection.7.1}{Aggregate sorted lead matrix analysis}{section.7}% 24
+\BOOKMARK [1][-]{section.8}{3/30/16}{}% 25
+\BOOKMARK [2][-]{subsection.8.1}{First look at Epilepsy data}{section.8}% 26
+\BOOKMARK [3][-]{subsubsection.8.1.1}{SLMs}{subsection.8.1}% 27
+\BOOKMARK [3][-]{subsubsection.8.1.2}{Permutations}{subsection.8.1}% 28
+\BOOKMARK [3][-]{subsubsection.8.1.3}{Eigenvalue Ratios}{subsection.8.1}% 29
+\BOOKMARK [3][-]{subsubsection.8.1.4}{Champion Regions}{subsection.8.1}% 30
+\BOOKMARK [1][-]{section.9}{4/19/16}{}% 31
+\BOOKMARK [2][-]{subsection.9.1}{Music data}{section.9}% 32
+\BOOKMARK [3][-]{subsubsection.9.1.1}{SLMs}{subsection.9.1}% 33
+\BOOKMARK [3][-]{subsubsection.9.1.2}{Eigenvalue ratios}{subsection.9.1}% 34
+\BOOKMARK [3][-]{subsubsection.9.1.3}{Champions}{subsection.9.1}% 35
+\BOOKMARK [3][-]{subsubsection.9.1.4}{Permutation locations}{subsection.9.1}% 36
+\BOOKMARK [1][-]{section.10}{5/12/16}{}% 37
+\BOOKMARK [2][-]{subsection.10.1}{Results of the Pilot subjects}{section.10}% 38
+\BOOKMARK [3][-]{subsubsection.10.1.1}{Music intervals}{subsection.10.1}% 39
+\BOOKMARK [3][-]{subsubsection.10.1.2}{Silence intervals}{subsection.10.1}% 40
+\BOOKMARK [2][-]{subsection.10.2}{Side-by-side}{section.10}% 41
+\BOOKMARK [1][-]{section.11}{Appendix 1: Lead matrix histograms for each \(i,j\) pair}{}% 42

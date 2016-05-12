@@ -48,7 +48,6 @@ Increasing \verb|shift| to 18 (the period for the sine wave is 20) starts to mes
 The algorithm determines the starting point by finding the largest gap between points in the phase plot (greatest difference in angle). Once the phases are too spread out, the largest gap can easily be between a pair of middle points. Note, however, that still the algorithm cycles in the correct direction in each case. 
 
 
-\section{Listings}
 \lstset{language=Matlab, caption=cyclic\_distance}
 \begin{lstlisting}[frame=single]
 function [dist] = cyclic_distance(V1, V2)
@@ -840,6 +839,83 @@ For the analyses shown below, music intervals used were $\{25:54, 85:114\}$ and 
 
 For reference, recall that the regions are as follows:
 \input{tables/regions.txt}
+
+\section{5/12/16}
+	\subsection{Results of the Pilot subjects}
+	\subsubsection{Music intervals}
+		\newcommand\trimmedgraphic[1]{%
+		\includegraphics[trim=100 0 100 0, clip, width=.49\linewidth]{#1}%
+		}
+		\begin{figure}[H]
+			\centering
+			\trimmedgraphic{pictures/dodPilots/music1.png}
+			\trimmedgraphic{pictures/dodPilots/music2.png}
+			\trimmedgraphic{pictures/dodPilots/music3.png}
+			\trimmedgraphic{pictures/dodPilots/music4.png}
+			\trimmedgraphic{pictures/dodPilots/music5.png}
+		\end{figure}
+
+		\renewcommand\trimmedgraphic[1]{%
+		\includegraphics[width=.49\linewidth]{#1}%
+		}
+		\begin{figure}[H]
+			\centering
+			\trimmedgraphic{pictures/dodPilots/cyc_music_permLocationsstd.png}
+			\trimmedgraphic{pictures/dodPilots/cyc_music_permLocationsgray.png}
+			\trimmedgraphic{pictures/dodPilots/cyc_music_phaseHist.png}
+		\end{figure}
+
+	\subsubsection{Silence intervals}
+		\renewcommand\trimmedgraphic[1]{%
+		\includegraphics[trim=100 0 100 0, clip, width=.49\linewidth]{#1}%
+		}
+		\begin{figure}[H]
+		\centering
+			\trimmedgraphic{pictures/dodPilots/silence1.png}
+			\trimmedgraphic{pictures/dodPilots/silence2.png}
+			\trimmedgraphic{pictures/dodPilots/silence3.png}
+			\trimmedgraphic{pictures/dodPilots/silence4.png}
+			\trimmedgraphic{pictures/dodPilots/silence5.png}
+		\end{figure}
+
+		\renewcommand\trimmedgraphic[1]{%
+		\includegraphics[width=.49\linewidth]{#1}%
+		}
+		\begin{figure}[H]
+		\centering
+			\trimmedgraphic{pictures/dodPilots/cyc_silence_permLocationsstd.png}
+			\trimmedgraphic{pictures/dodPilots/cyc_silence_permLocationsgray.png}
+			\trimmedgraphic{pictures/dodPilots/cyc_silence_phaseHist.png}
+		\end{figure}
+
+	\subsection{Side-by-side}
+	\renewcommand\trimmedgraphic[1]{%
+		\includegraphics[trim=100 0 100 0, clip, width=.49\linewidth]{#1}%
+		}
+	\begin{figure}[H]
+		\centering
+		\trimmedgraphic{pictures/dodPilots/music1.png}
+		\trimmedgraphic{pictures/dodPilots/silence1.png}
+		\trimmedgraphic{pictures/dodPilots/music2.png}
+		\trimmedgraphic{pictures/dodPilots/silence2.png}
+		\trimmedgraphic{pictures/dodPilots/music3.png}
+		\trimmedgraphic{pictures/dodPilots/silence3.png}
+		\trimmedgraphic{pictures/dodPilots/music4.png}
+		\trimmedgraphic{pictures/dodPilots/silence4.png}
+		\trimmedgraphic{pictures/dodPilots/music5.png}
+		\trimmedgraphic{pictures/dodPilots/silence5.png}
+	\end{figure}
+	\begin{figure}[H]
+		\centering
+		\newcommand\w{.49}
+		\includegraphics[width=\w\linewidth]{pictures/dodPilots/cyc_music_permLocationsstd.png}
+		\includegraphics[width=\w\linewidth]{pictures/dodPilots/cyc_silence_permLocationsstd.png}
+		\includegraphics[width=\w\linewidth]{pictures/dodPilots/cyc_music_permLocationsgray.png}
+		\includegraphics[width=\w\linewidth]{pictures/dodPilots/cyc_silence_permLocationsgray.png}
+		\includegraphics[width=\w\linewidth]{pictures/dodPilots/cyc_music_phaseHist.png}
+		\includegraphics[width=\w\linewidth]{pictures/dodPilots/cyc_silence_phaseHist.png}
+	\end{figure}
+
 
 
 % Appendices
