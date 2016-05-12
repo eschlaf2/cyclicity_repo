@@ -1,0 +1,114 @@
+Now that we have a good idea of how the algorithm works and how to look at results, we can start to look at some real data. This section outlines the process for extracting subsets of data from the full fMRI scan data that Fatima and Sara give us. In general, we do not want to analyze each voxel separately, but rather specific regions. This section will show how to use the \verb|processRois| function to extract regions of interest (ROIs). Then once the data is processed, we will see how to apply the \verb|analyze_cyclicity| function to the processed files in their entirity or to specific ROIs or time intervals.
+
+\subsection{Extracting ROIs}
+
+ Inside the \textit{data} folder are four matrices which have been converted from nifti files to Matlab arrays, but have had no further processing done on them. The first thing we need to do is extract the regions that we are interested in analyzing. To do this we use the \verb|processRois| function. Navigate to the \textit{data} folder and run this command:
+
+\begin{lstlisting}
+processRois('Pilot*.mat');
+\end{lstlisting}
+
+This should generate processed versions of each file in the current directory. Note that if you wish to analyze a different set of regions, you may do so by passing a table variable with columns `regions' and `coords' (or the name of a file containing the variable).
+
+\subsection{Cyclicity of Processed Files}
+
+Now that we have the processed data, we can analyze all four files at once using the following command:
+
+\begin{lstlisting}
+output = analyze_cyclicity('processed_Pilot*.mat');
+\end{lstlisting}
+
+\begin{figure}
+\centering
+\includegraphics[width=\linewidth]{figs/evensNumbers.eps}
+\includegraphics[width=\linewidth]{figs/evensNames.eps}
+\caption{\small Cyclicity analysis of only even numbered regions with permutation given as region numbers (top) or region names (bottom).}
+\label{fig:evens}
+\end{figure}
+
+This should save a file named \textit{cyclicity.mat} in the current directory as well as a struct variable named \textit{output} to the workspace. To see the results type in the following:
+
+\begin{lstlisting}
+cyclicity_figs(output);
+\end{lstlisting}
+
+This should open the four figures (one for each subject) as well as save them in a folder called \textit{results\_figs}.
+
+\begin{figure}
+\centering
+\includegraphics[trim=100 0 100 0,clip,width=.49\textwidth]{figs/dataFig1.eps}
+\includegraphics[trim=100 0 100 0,clip,width=.49\textwidth]{figs/dataFig2.eps}
+\includegraphics[trim=100 0 100 0,clip,width=.49\textwidth]{figs/dataFig3.eps}
+\includegraphics[trim=100 0 100 0,clip,width=.49\textwidth]{figs/dataFig4.eps}
+\caption{Results of cyclicity analysis on four pilot subjects.}
+\label{fig:dataFigs}
+\end{figure}
+
+\subsubsection{Filter by Region}
+
+Note that if you want to look only at certain regions, or lines, of a data matrix you can pass the line numbers as the second argument to \verb|analyze_cyclicity| (\f~\ref{fig:evens}). For example, if you wanted to analyze only the even lines you could use the following command:\par
+
+\begin{lstlisting}
+output = analyze_cyclicity('processed_Pilot*.mat',[2:2:33]);
+cyclicity_figs(output,'row_labels',[2:2:33],'title','evens');
+\end{lstlisting}
+
+Or, to see the region names on the plots:
+
+\begin{lstlisting}
+rois = importdata('rois.mat');
+cyclicity_figs(output,'row_labels',...
+    rois.regions([2:2:33]),'title','evens');
+\end{lstlisting}
+
+Note that for the commands above, the figures will be saved in a folder called \textit{evens\_figs}.
+
+\subsubsection{Filter by Time}
+
+In several studies, there are intervals of silence and intervals of music so here, we may want to isolate intervals with music and without. In the pilot subjects in the \textit{data} folder, for example, Sara gives us the following supplemental information:
+
+\begin{displayquote}
+For all participants, the music/silence breakdown is as follows:
+
+1-34 = silence\\
+35-67 = first song\\
+68-100 = silence\\
+101-133 = second song\\
+134-166 = silence\\
+167-199 = third song\\
+200-232 = silence\\
+233-265 = fourth song\\
+266-300 = silence\\
+
+Note that all of the songs were jazz--no genre differences this time around.
+For Pilot 1, we didn't have the timing exactly right so we ended up short three images.  They just got cut off the end; the timing is still the same.
+
+Also, Pilot 2 has a little bit too much motion in one direction, so I would normally not have bothered to give you that data.  In this case, though, since you think you're just using it to set up the manual I included it.  
+\end{displayquote}
+
+So let's look at only the intervals of silence:
+
+\begin{figure}[H]
+\begin{lstlisting}
+silence = [(1:34) (68:100) (134:166) (200:232) (266:297)];
+outputSil = analyze_cyclicity('processed*.mat',[],silence);
+cyclicity_figs(outputSil,'title','silence');
+\end{lstlisting}
+\includegraphics[width=\linewidth]{figs/silence1.eps}
+\includegraphics[width=\linewidth]{figs/silence2.eps}
+\caption{\small Results from first two subjects during intervals of silence only.}
+\label{fig:silence}
+\end{figure}
+
+And how about the intervals with music:
+
+\begin{figure}[H]
+\begin{lstlisting}
+music = [(35:67) (101:133) (167:199) (233:265)];
+outputMus = analyze_cyclicity('processed*.mat',[],music);
+cyclicity_figs(outputMus,'title','music');
+\end{lstlisting}
+\includegraphics[width=\linewidth]{figs/music1.eps}
+\includegraphics[width=\linewidth]{figs/music2.eps}
+\caption\small Results from first two subjects during intervals with music.}
+\end{figure}

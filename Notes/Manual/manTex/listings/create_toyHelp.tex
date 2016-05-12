@@ -1,0 +1,26 @@
+\begin{lstlisting}[frame=single]
+function [toy_data, ss] = create_toy(data_type, varargin)
+Makes sample data. Choose what type of function to look at from
+'periodic', 'cyclic', 'gaussian', 'data', 'brownian'. 
+Note that 'brownian' type trajectories are random unrelated
+brownian motions.
+Default: 'periodic'. 
+Optional arguments:
+    rois:       number of trajectories. default = 9
+    freq:       frequency or number of periods for 'periodic'
+                or 'cyclic' type. 
+                default = 5
+    time:       number of time points. default = 100
+    noise:      stdev of noise with respect to stdev 
+                of signal.
+                (e.g. noise=0.25 means signal to noise ratio 
+                ((sigma_signal/sigma_noise)^2) is (1/0.25)^2.
+                default = 0
+    shift:      maximum time steps between between signals.
+                default = 5
+    peaks:      number of peaks for 'gaussian' type. 
+                default = 7
+Output: 
+    toy_data:   specified data set
+    ss:         expected sort order
+\end{lstlisting}
