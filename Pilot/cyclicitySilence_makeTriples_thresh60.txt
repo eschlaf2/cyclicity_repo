@@ -1,0 +1,4 @@
+/Users/emilyschlafly/Work/cyclicity_repo/Pilot
+Total subjects: 4
+1,11,3,4
+2,11,3,4
